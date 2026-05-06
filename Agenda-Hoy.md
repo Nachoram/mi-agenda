@@ -1,10 +1,10 @@
-# 📅 Agenda — Martes 5 de mayo de 2026
+# 📅 Agenda — Miércoles 6 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
 ---
 
-## 🔴 URGENTES — Hacer hoy
+## 🔴 URGENTES — Hacer HOY
 
 ### Trabajo
 | # | Tarea | Fecha límite | Estado |
@@ -59,8 +59,8 @@
 | Completadas hoy | 0 |
 | **Total activas** | **12** |
 
-> ⚠️ **Nota:** El archivo TAREAS.md contiene tareas de plantilla sin datos reales.
-> Edita TAREAS.md para añadir tus tareas concretas con fechas límite.
+> ⚠️ **Acción requerida:** TAREAS.md contiene solo plantilla de ejemplo sin datos reales.
+> Para que el sistema funcione correctamente, edita TAREAS.md con tus tareas reales y fechas límite.
 
 ---
 
