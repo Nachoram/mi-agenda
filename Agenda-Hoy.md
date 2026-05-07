@@ -1,4 +1,4 @@
-# 📅 Agenda — Miércoles 6 de Mayo de 2026
+# 📅 Agenda — Jueves 7 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -64,4 +64,12 @@
 
 ---
 
-*Próximo escaneo: mañana a las 09:00*
+---
+
+## 💡 CONSEJO DEL DÍA
+
+> "Empieza por la tarea más difícil antes del mediodía. El resto del día será cuesta abajo."
+
+---
+
+*Próximo escaneo: mañana a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí*
