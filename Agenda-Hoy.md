@@ -1,4 +1,4 @@
-# 📅 Agenda — Jueves 7 de Mayo de 2026
+# 📅 Agenda — Viernes 8 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -64,12 +64,10 @@
 
 ---
 
----
-
 ## 💡 CONSEJO DEL DÍA
 
-> "Empieza por la tarea más difícil antes del mediodía. El resto del día será cuesta abajo."
+> "Es viernes: cierra lo que empezaste esta semana. Un sprint final ahora vale más que empezar el lunes con deuda pendiente."
 
 ---
 
-*Próximo escaneo: mañana a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí*
+*Próximo escaneo: lunes 11 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí*
