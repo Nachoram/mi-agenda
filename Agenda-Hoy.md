@@ -1,4 +1,4 @@
-# 📅 Agenda — Sábado 9 de Mayo de 2026
+# 📅 Agenda — Domingo 10 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -92,4 +92,4 @@ Edita `TAREAS.md` siguiendo este formato:
 
 ---
 
-*Próximo escaneo: lunes 11 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí*
+*Próximo escaneo: lunes 11 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 10/05/2026*
