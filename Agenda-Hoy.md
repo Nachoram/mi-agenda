@@ -1,4 +1,4 @@
-# 📅 Agenda — Lunes 11 de Mayo de 2026
+# 📅 Agenda — Martes 12 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Un sistema vacío es una oportunidad en blanco. Dedica 10 minutos ahora a cargar tus tareas reales en TAREAS.md — mañana el agente te lo agradecirá."
+> "El martes es el mejor día de la semana para avanzar: el lunes fue de arranque, y ahora tienes impulso. Carga tus tareas reales en TAREAS.md y deja que el sistema trabaje para ti."
 
 ---
 
@@ -86,10 +86,10 @@ Edita `TAREAS.md` siguiendo este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-09
-- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-10
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-12
+- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-13
 ```
 
 ---
 
-*Próximo escaneo: martes 12 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 11/05/2026*
+*Próximo escaneo: miércoles 13 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 12/05/2026*
