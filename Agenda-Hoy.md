@@ -1,4 +1,4 @@
-# 📅 Agenda — Martes 12 de Mayo de 2026
+# 📅 Agenda — Miércoles 13 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -16,7 +16,7 @@
 |---|-------|-------------|--------|
 | — | *(Sin tareas urgentes definidas)* | — | — |
 
-> ⚠️ **TAREAS.md** solo contiene plantilla de ejemplo. Reemplaza "Tarea 1 / Tarea 2" con tus tareas reales y añade fechas límite para que el agente las procese.
+> ⚠️ **TAREAS.md** solo contiene plantilla de ejemplo. Reemplaza "Tarea 1 / Tarea 2" con tus tareas reales y añade fechas límite para que el agente las procese automáticamente.
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🗓️ Bloques de tiempo sugeridos (para cuando tengas tareas)
+## 🗓️ Bloques de tiempo sugeridos
 
 | Horario | Bloque |
 |---------|--------|
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "El martes es el mejor día de la semana para avanzar: el lunes fue de arranque, y ahora tienes impulso. Carga tus tareas reales en TAREAS.md y deja que el sistema trabaje para ti."
+> "El miércoles es el corazón de la semana — el punto de mayor energía antes del sprint final. Cada tarea que cierres hoy es una menos que perseguirá el viernes."
 
 ---
 
@@ -86,10 +86,10 @@ Edita `TAREAS.md` siguiendo este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-12
-- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-13
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-13
+- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-14
 ```
 
 ---
 
-*Próximo escaneo: miércoles 13 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 12/05/2026*
+*Próximo escaneo: jueves 14 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 13/05/2026*
