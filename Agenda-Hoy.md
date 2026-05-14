@@ -1,4 +1,4 @@
-# 📅 Agenda — Miércoles 13 de Mayo de 2026
+# 📅 Agenda — Jueves 14 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "El miércoles es el corazón de la semana — el punto de mayor energía antes del sprint final. Cada tarea que cierres hoy es una menos que perseguirá el viernes."
+> "El jueves es el sprint final antes de cerrar la semana. Con energía enfocada hoy, el viernes será tuyo para consolidar y planificar. ¡A por ello!"
 
 ---
 
@@ -86,10 +86,10 @@ Edita `TAREAS.md` siguiendo este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-13
-- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-14
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-14
+- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-15
 ```
 
 ---
 
-*Próximo escaneo: jueves 14 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 13/05/2026*
+*Próximo escaneo: viernes 15 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 14/05/2026*
