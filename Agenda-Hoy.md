@@ -1,4 +1,4 @@
-# 📅 Agenda — Jueves 14 de Mayo de 2026
+# 📅 Agenda — Viernes 15 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "El jueves es el sprint final antes de cerrar la semana. Con energía enfocada hoy, el viernes será tuyo para consolidar y planificar. ¡A por ello!"
+> "Es viernes — el último sprint de la semana. Cierra lo que queda pendiente antes de las 17:00 y usa las últimas horas para dejar la próxima semana ya encaminada. ¡Termina fuerte!"
 
 ---
 
@@ -86,10 +86,10 @@ Edita `TAREAS.md` siguiendo este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-14
-- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-15
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-15
+- [ ] Revisar contrato Juicio X - Fecha límite: 2026-05-16
 ```
 
 ---
 
-*Próximo escaneo: viernes 15 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 14/05/2026*
+*Próximo escaneo: lunes 18 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 15/05/2026*
