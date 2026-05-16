@@ -1,4 +1,4 @@
-# 📅 Agenda — Viernes 15 de Mayo de 2026
+# 📅 Agenda — Sábado 16 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es viernes — el último sprint de la semana. Cierra lo que queda pendiente antes de las 17:00 y usa las últimas horas para dejar la próxima semana ya encaminada. ¡Termina fuerte!"
+> "Es sábado — si trabajas hoy, es porque algo importa de verdad. Enfócate en lo esencial, protege tu energía y termina con tiempo para descansar. ¡El descanso también es productividad!"
 
 ---
 
@@ -92,4 +92,4 @@ Edita `TAREAS.md` siguiendo este formato:
 
 ---
 
-*Próximo escaneo: lunes 18 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 15/05/2026*
+*Próximo escaneo: lunes 18 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 16/05/2026*
