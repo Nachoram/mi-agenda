@@ -1,4 +1,4 @@
-# 📅 Agenda — Sábado 16 de Mayo de 2026
+# 📅 Agenda — Domingo 17 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -75,7 +75,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es sábado — si trabajas hoy, es porque algo importa de verdad. Enfócate en lo esencial, protege tu energía y termina con tiempo para descansar. ¡El descanso también es productividad!"
+> "Es domingo — si dedicas tiempo hoy a organizar tu semana, el lunes ya empieza ganado. Prioriza lo esencial, delega lo posible y recarga energía. ¡Una semana bien planeada vale más que dos semanas de reacción!"
 
 ---
 
@@ -92,4 +92,4 @@ Edita `TAREAS.md` siguiendo este formato:
 
 ---
 
-*Próximo escaneo: lunes 18 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 16/05/2026*
+*Próximo escaneo: lunes 18 de mayo a las 09:00 | Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 17/05/2026*
