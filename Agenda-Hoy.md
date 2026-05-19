@@ -1,4 +1,4 @@
-# 📅 Agenda — Lunes 18 de Mayo de 2026
+# 📅 Agenda — Martes 19 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -55,9 +55,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| 🔴 Tareas urgentes | 4 registradas |
-| 🟡 Tareas importantes | 4 registradas |
-| 🟢 Tareas normales | 4 registradas |
+| 🔴 Tareas urgentes | 4 registradas (pendientes de nombrar) |
+| 🟡 Tareas importantes | 4 registradas (pendientes de nombrar) |
+| 🟢 Tareas normales | 4 registradas (pendientes de nombrar) |
 | ✅ Completadas hoy | 0 |
 | **Total activas** | **12** |
 
@@ -81,7 +81,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es lunes — el mejor momento para arrancar con energía. Empieza por la tarea que más postergaste: en cuanto la tachas, el resto del día fluye solo. ¡Hoy defines el ritmo de toda la semana!"
+> "Es martes — ya tomaste impulso ayer y hoy es el día de mayor productividad de la semana. Ataca primero lo más difícil: cuando lo resuelvas, el resto fluirá solo. ¡Haz que este martes cuente!"
 
 ---
 
@@ -92,10 +92,10 @@ Edita `TAREAS.md` con este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-18
-- [ ] Revisar contrato expediente X - Fecha límite: 2026-05-19
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-19
+- [ ] Revisar contrato expediente X - Fecha límite: 2026-05-20
 ```
 
 ---
 
-*Próximo escaneo: martes 19 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 18/05/2026*
+*Próximo escaneo: miércoles 20 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 19/05/2026*
