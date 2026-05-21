@@ -1,4 +1,4 @@
-# 📅 Agenda — Miércoles 20 de Mayo de 2026
+# 📅 Agenda — Jueves 21 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es miércoles — el ecuador de la semana. Un día perfecto para organizar, porque lo que hagas hoy define cómo cierras el jueves y el viernes. Empieza por rellenar tu lista de tareas y pon el sistema a trabajar para ti."
+> "Es jueves — ya casi lo tienes. Lo que hagas hoy define cómo cierras la semana mañana. Empieza por rellenar tu lista de tareas y pon el sistema a trabajar para ti."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: jueves 21 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 20/05/2026*
+*Próximo escaneo: viernes 22 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 21/05/2026*
