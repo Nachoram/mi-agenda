@@ -1,4 +1,4 @@
-# 📅 Agenda — Jueves 21 de Mayo de 2026
+# 📅 Agenda — Viernes 22 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -33,9 +33,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| 🔴 Tareas urgentes | 0 |
-| 🟡 Tareas importantes | 0 |
-| 🟢 Tareas normales | 0 |
+| 🔴 Tareas urgentes | 0 (plantillas sin rellenar) |
+| 🟡 Tareas importantes | 0 (plantillas sin rellenar) |
+| 🟢 Tareas normales | 0 (plantillas sin rellenar) |
 | ✅ Completadas hoy | 0 |
 | **Total activas** | **0** |
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es jueves — ya casi lo tienes. Lo que hagas hoy define cómo cierras la semana mañana. Empieza por rellenar tu lista de tareas y pon el sistema a trabajar para ti."
+> "Es viernes — ¡la recta final de la semana! Ciérrala fuerte: rellena tu TAREAS.md hoy y empieza el lunes con el sistema funcionando a pleno rendimiento."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: viernes 22 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 21/05/2026*
+*Próximo escaneo: lunes 25 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 22/05/2026*
