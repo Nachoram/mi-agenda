@@ -1,4 +1,4 @@
-# 📅 Agenda — Sábado 23 de Mayo de 2026
+# 📅 Agenda — Domingo 24 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es sábado — el mejor día para organizar la semana que viene. Dedica 15 minutos a rellenar TAREAS.md y el lunes empezarás con ventaja."
+> "Es domingo — el mejor momento para preparar la semana. 15 minutos rellenando TAREAS.md hoy = lunes sin sorpresas."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: lunes 25 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 23/05/2026*
+*Próximo escaneo: lunes 25 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 24/05/2026*
