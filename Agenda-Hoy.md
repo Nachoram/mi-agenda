@@ -1,4 +1,4 @@
-# 📅 Agenda — Domingo 24 de Mayo de 2026
+# 📅 Agenda — Lunes 26 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Es domingo — el mejor momento para preparar la semana. 15 minutos rellenando TAREAS.md hoy = lunes sin sorpresas."
+> "Semana nueva, oportunidades nuevas. Empieza con claridad: define tus 3 tareas más importantes antes de las 9:15 y el día estará bajo control."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: lunes 25 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 24/05/2026*
+*Próximo escaneo: martes 27 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 26/05/2026*
