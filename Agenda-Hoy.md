@@ -1,4 +1,4 @@
-# 📅 Agenda — Martes 26 de Mayo de 2026
+# 📅 Agenda — Miércoles 27 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Semana nueva, oportunidades nuevas. Empieza con claridad: define tus 3 tareas más importantes antes de las 09:15 y el día estará bajo control."
+> "A mitad de semana, a mitad de camino. Lo que hagas hoy marca la diferencia entre un viernes tranquilo o uno frenético. Tú decides."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: miércoles 27 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 26/05/2026*
+*Próximo escaneo: jueves 28 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 27/05/2026*
