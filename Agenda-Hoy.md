@@ -1,4 +1,4 @@
-# 📅 Agenda — Miércoles 27 de Mayo de 2026
+# 📅 Agenda — Jueves 28 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "A mitad de semana, a mitad de camino. Lo que hagas hoy marca la diferencia entre un viernes tranquilo o uno frenético. Tú decides."
+> "Jueves: ya casi lo tienes. Un día más de foco y el viernes es tuyo. Cada tarea que cierras hoy es una menos que te perseguirá el fin de semana."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: jueves 28 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 27/05/2026*
+*Próximo escaneo: viernes 29 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 28/05/2026*
