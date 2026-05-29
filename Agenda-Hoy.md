@@ -1,4 +1,4 @@
-# 📅 Agenda — Jueves 28 de Mayo de 2026
+# 📅 Agenda — Viernes 29 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Jueves: ya casi lo tienes. Un día más de foco y el viernes es tuyo. Cada tarea que cierras hoy es una menos que te perseguirá el fin de semana."
+> "Viernes: el mejor día para cerrar lo que empezaste. Termina fuerte, actualiza tu lista, y el fin de semana será tuyo sin deudas pendientes."
 
 ---
 
@@ -70,10 +70,10 @@ Edita `TAREAS.md` con este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-20
-- [ ] Revisar contrato expediente X - Fecha límite: 2026-05-21
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-29
+- [ ] Revisar contrato expediente X - Fecha límite: 2026-05-30
 ```
 
 ---
 
-*Próximo escaneo: viernes 29 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 28/05/2026*
+*Próximo escaneo: lunes 1 de junio · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 29/05/2026*
