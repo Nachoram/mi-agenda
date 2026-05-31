@@ -1,4 +1,4 @@
-# 📅 Agenda — Jueves 28 de Mayo de 2026
+# 📅 Agenda — Domingo 31 de Mayo de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Jueves: ya casi lo tienes. Un día más de foco y el viernes es tuyo. Cada tarea que cierras hoy es una menos que te perseguirá el fin de semana."
+> "Domingo: el mejor momento para prepararse no es el lunes por la mañana, sino la tarde del domingo. 10 minutos hoy = una semana entera más tranquila."
 
 ---
 
@@ -76,4 +76,4 @@ Edita `TAREAS.md` con este formato:
 
 ---
 
-*Próximo escaneo: viernes 29 de mayo · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 28/05/2026*
+*Próximo escaneo: lunes 1 de junio · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 31/05/2026*
