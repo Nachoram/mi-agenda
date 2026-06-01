@@ -1,4 +1,4 @@
-# 📅 Agenda — Domingo 31 de Mayo de 2026
+# 📅 Agenda — Lunes 1 de Junio de 2026
 
 > Generado automáticamente · Jornada laboral: 09:00–19:00
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🗓️ Bloques de tiempo sugeridos (para cuando tengas tareas)
+## 🗓️ Bloques de tiempo sugeridos
 
 | Horario | Bloque |
 |---------|--------|
@@ -59,7 +59,7 @@
 
 ## 💡 CONSEJO DEL DÍA
 
-> "Domingo: el mejor momento para prepararse no es el lunes por la mañana, sino la tarde del domingo. 10 minutos hoy = una semana entera más tranquila."
+> "Lunes: semana nueva, oportunidades nuevas. Empieza con las tareas que más peso te generan — terminarlas a primera hora te da energía para todo lo demás."
 
 ---
 
@@ -70,10 +70,10 @@ Edita `TAREAS.md` con este formato:
 ```
 ## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-05-20
-- [ ] Revisar contrato expediente X - Fecha límite: 2026-05-21
+- [ ] Enviar propuesta al cliente ABC - Fecha límite: 2026-06-01
+- [ ] Revisar contrato expediente X - Fecha límite: 2026-06-02
 ```
 
 ---
 
-*Próximo escaneo: lunes 1 de junio · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 31/05/2026*
+*Próximo escaneo: martes 2 de junio · Edita TAREAS.md para ver cambios reflejados aquí · Actualizado: 01/06/2026*
