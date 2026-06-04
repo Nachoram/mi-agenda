@@ -1,63 +1,73 @@
-# 📅 Agenda del Día — Miércoles 3 de junio de 2026
+# 📅 Agenda del Día — Jueves 4 de junio de 2026
 
-> Generado automáticamente | Horario de trabajo: 09:00 – 19:00
+> Generado automáticamente | Horario de trabajo: 09:00–19:00
 
 ---
 
 ## 🧭 Resumen Ejecutivo
 
-| Categoría       | Cantidad  |
-|-----------------|-----------|
-| 🔴 Urgentes     | 0 activas |
-| 🟡 Importantes  | 0 activas |
-| 🟢 Normal       | 0 activas |
-| ✅ Completadas  | 0 hoy     |
-
-> ⚠️ **Las tareas en TAREAS.md están vacías.** Edita ese archivo para que el agente las organice automáticamente.
+**Estado:** Tu TAREAS.md está listo pero aún sin tareas específicas cargadas.
+**Acción clave de hoy:** Completar el TAREAS.md con tus tareas reales para que el agente pueda organizarlas automáticamente.
 
 ---
 
-## 🔴 URGENTES — Para hacer HOY
+## 🔴 URGENTES — Hoy / Mañana
 
-> No hay tareas urgentes registradas.
->
-> Para agregar una, edita `TAREAS.md` en la sección `🔴 URGENTES` con el formato:
-> ```
-> - [ ] Nombre de la tarea - Fecha límite: 03/06/2026
-> ```
+### Trabajo
+- [ ] *(Sin tareas urgentes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas urgentes personales registradas)*
+
+> ⚠️ Edita TAREAS.md y reemplaza las "Tarea 1 / Tarea 2" con tus tareas reales para ver este bloque en acción.
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-> No hay tareas importantes registradas.
+### Trabajo
+- [ ] *(Sin tareas importantes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas importantes personales registradas)*
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-> No hay tareas normales registradas.
+### Trabajo
+- [ ] *(Sin tareas normales de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas normales personales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-> Ninguna completada aún. ¡Mucho ánimo!
+*(Ninguna registrada aún)*
 
 ---
 
-## 🗓️ Bloques de tiempo sugeridos
+## 📊 Estadísticas del día
 
-| Hora        | Bloque                              |
-|-------------|-------------------------------------|
-| 09:00–10:00 | Revisión de correo y planificación  |
-| 10:00–12:30 | Tareas urgentes (bloque profundo)   |
-| 12:30–13:30 | Pausa / Almuerzo                    |
-| 13:30–16:00 | Tareas importantes de la semana     |
-| 16:00–17:30 | Tareas normales / avance continuo   |
-| 17:30–18:30 | Revisión del día y preparar mañana  |
-| 18:30–19:00 | Cierre y actualizar TAREAS.md       |
+| Métrica              | Valor |
+|----------------------|-------|
+| Tareas activas       | 0     |
+| Urgentes             | 0     |
+| Importantes          | 0     |
+| Normal               | 0     |
+| Completadas hoy      | 0     |
 
 ---
 
-*Próximo escaneo: automático cada mañana*
+## 💡 Próximo paso recomendado
+
+1. Abre `TAREAS.md`
+2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
+3. Agrega las fechas límite correspondientes
+4. Vuelve a ejecutar el agente — tu agenda se generará automáticamente
+
+---
+
+*Próximo escaneo automático: Mañana 09:00*
