@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 6 de junio de 2026
+# 📅 Agenda del Día — Domingo, 7 de junio de 2026
 
 > Generado automáticamente | Horario laboral: 9:00 - 19:00
 
@@ -6,48 +6,28 @@
 
 ## 🏁 Resumen Ejecutivo
 
-**Estado del sistema:** TAREAS.md detectado — plantilla con tareas de ejemplo sin rellenar.
+**Estado del sistema:** TAREAS.md detectado — plantilla sin tareas reales cargadas.
 **Acción recomendada:** Edita `TAREAS.md` con tus tareas reales para que el agente las procese mañana.
-**Tareas activas:** 8 (placeholders)
+**Tareas activas:** 0 (pendiente de rellenar)
 **Tareas completadas hoy:** 0
 
 ---
 
 ## 🔴 URGENTES — Para hoy y mañana
 
-> ⚠️ Las tareas urgentes son plantillas de ejemplo. Reemplázalas por tus tareas reales.
-
-### 💼 Trabajo
-- [ ] **Tarea 1** — Sin fecha límite asignada
-- [ ] **Tarea 2** — Sin fecha límite asignada
-
-### 🏠 Personal
-- [ ] **Tarea 1** — Sin fecha límite asignada
-- [ ] **Tarea 2** — Sin fecha límite asignada
+> ⚠️ No hay tareas urgentes registradas. Edita TAREAS.md para añadirlas.
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-### 💼 Trabajo
-- [ ] Tarea 1 — Sin fecha límite
-- [ ] Tarea 2 — Sin fecha límite
-
-### 🏠 Personal
-- [ ] Tarea 1 — Sin fecha límite
-- [ ] Tarea 2 — Sin fecha límite
+> ⚠️ No hay tareas importantes registradas.
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-### 💼 Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
-
-### 🏠 Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+> ⚠️ No hay tareas normales registradas.
 
 ---
 
@@ -59,17 +39,17 @@
 
 ## 🗓️ Plan de acción sugerido para hoy (9:00 - 19:00)
 
-| Hora        | Bloque                          |
-|-------------|---------------------------------|
-| 9:00–9:15   | Revisar y completar TAREAS.md   |
-| 9:15–11:00  | 🔴 Urgente Trabajo #1           |
-| 11:00–11:15 | Pausa activa                    |
-| 11:15–13:00 | 🔴 Urgente Trabajo #2           |
-| 13:00–14:00 | Comida y desconexión            |
-| 14:00–15:30 | 🔴 Urgente Personal #1 y #2     |
-| 15:30–16:00 | Pausa                           |
-| 16:00–18:30 | 🟡 Importantes de la semana     |
-| 18:30–19:00 | Planificación del día siguiente |
+| Hora        | Bloque                                 |
+|-------------|----------------------------------------|
+| 9:00–9:30   | ✏️ Rellenar TAREAS.md con tareas reales |
+| 9:30–11:30  | 🔴 Bloque de trabajo prioritario       |
+| 11:30–11:45 | Pausa activa                           |
+| 11:45–13:00 | 🟡 Tareas importantes de la semana     |
+| 13:00–14:00 | Comida y desconexión                   |
+| 14:00–16:30 | 🟡 Continuar tareas importantes        |
+| 16:30–17:00 | Pausa                                  |
+| 17:00–18:30 | 🟢 Tareas de prioridad normal          |
+| 18:30–19:00 | Revisión del día y planificación mañana|
 
 ---
 
