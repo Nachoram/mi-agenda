@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes, 8 de junio de 2026
+# 📅 Agenda del Día — Martes, 9 de junio de 2026
 
 > Generado automáticamente | Horario laboral: 9:00 - 19:00
 
@@ -63,4 +63,4 @@ El sistema está operativo. Para sacarle el máximo partido:
 4. El agente generará una agenda completamente personalizada
 
 ---
-*Próximo escaneo automático: mañana por la mañana*
+*Próximo escaneo automático: miércoles 10 de junio de 2026, por la mañana*
