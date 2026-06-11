@@ -1,66 +1,66 @@
-# 📅 Agenda del Día — Lunes, 8 de junio de 2026
+# 📅 Agenda del Día — Jueves 11 de Junio de 2026
 
-> Generado automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🏁 Resumen Ejecutivo
-
-**Estado del sistema:** TAREAS.md detectado — plantilla sin tareas reales cargadas aún.
-**Acción recomendada:** Edita `TAREAS.md` con tus tareas reales para que el agente las procese.
-**Tareas activas:** 0 (pendiente de rellenar)
-**Tareas completadas hoy:** 0
+**Jornada:** 9:00 — 19:00 | **Generado:** 11/06/2026
 
 ---
 
-## 🔴 URGENTES — Para hoy y mañana
+## ⚡ RESUMEN EJECUTIVO
 
-> ⚠️ No hay tareas urgentes registradas. Edita TAREAS.md para añadirlas.
+> El sistema está listo y operativo. Tu lista de tareas en TAREAS.md está configurada pero **aún no tiene tareas concretas registradas**. Es el momento ideal para volcarlas todas y dejar que la agenda trabaje para ti.
+
+**Estado del día:**
+- 🔴 Urgentes: 0 tareas activas
+- 🟡 Importantes: 0 tareas activas
+- 🟢 Normales: 0 tareas activas
+- ✅ Completadas hoy: 0
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🔴 PRIORIDADES URGENTES (Hoy/Mañana)
 
-> ⚠️ No hay tareas importantes registradas.
+### Trabajo
+_Sin tareas urgentes registradas._
+
+### Personal
+_Sin tareas urgentes registradas._
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟡 IMPORTANTES (Esta semana)
 
-> ⚠️ No hay tareas normales registradas.
+### Trabajo
+_Sin tareas importantes registradas._
+
+### Personal
+_Sin tareas importantes registradas._
+
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+### Trabajo
+_Sin tareas normales registradas._
+
+### Personal
+_Sin tareas normales registradas._
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-> Ninguna registrada aún.
+_Ninguna tarea completada registrada aún._
 
 ---
 
-## 🗓️ Plan de acción sugerido para hoy (9:00 - 19:00)
+## 🎯 ACCIÓN RECOMENDADA PARA HOY
 
-| Hora        | Bloque                                  |
-|-------------|-----------------------------------------|
-| 9:00–9:30   | ✏️ Rellenar TAREAS.md con tareas reales |
-| 9:30–11:30  | 🔴 Bloque de trabajo prioritario        |
-| 11:30–11:45 | Pausa activa                            |
-| 11:45–13:00 | 🟡 Tareas importantes de la semana      |
-| 13:00–14:00 | Comida y desconexión                    |
-| 14:00–16:30 | 🟡 Continuar tareas importantes         |
-| 16:30–17:00 | Pausa                                   |
-| 17:00–18:30 | 🟢 Tareas de prioridad normal           |
-| 18:30–19:00 | Revisión del día y planificación mañana |
-
----
-
-## 💡 Nota del agente
-
-El sistema está operativo. Para sacarle el máximo partido:
+Dedica **15 minutos antes de las 10:00** a rellenar tu TAREAS.md con tareas reales:
 
 1. Abre `TAREAS.md`
-2. Reemplaza los placeholders por tus tareas reales
-3. Añade fechas límite (formato: `YYYY-MM-DD`)
-4. El agente generará una agenda completamente personalizada
+2. Reemplaza los marcadores `Tarea 1`, `Tarea 2`... por tus tareas reales
+3. Añade fechas límite concretas
+4. El agente las reorganizará en tu próxima agenda
 
 ---
-*Próximo escaneo automático: mañana por la mañana*
+
+*Agenda generada automáticamente por tu asistente personal.*
