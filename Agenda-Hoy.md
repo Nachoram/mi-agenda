@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado, 13 de Junio de 2026
+# 📅 Agenda del Día — Domingo, 14 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -10,11 +10,11 @@
 **Acción recomendada:** Edita `TAREAS.md` con tus tareas reales para que el agente las procese.
 **Tareas activas:** 0 (pendiente de rellenar)
 **Tareas completadas hoy:** 0
-**Día de la semana:** Sábado — úsala para planificar la semana siguiente o avanzar proyectos propios.
+**Día de la semana:** Domingo — ideal para planificar la semana y recargar energía.
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana
+## 🔴 URGENTES — Hoy / Mañana (Lunes)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -64,26 +64,27 @@
 
 ---
 
-## 🗓️ Plan de acción sugerido para hoy — Sábado (9:00 - 19:00)
+## 🗓️ Plan de acción sugerido para hoy — Domingo (9:00 - 19:00)
 
-| Hora        | Bloque                                              |
-|-------------|-----------------------------------------------------|
-| 9:00–9:30   | ✏️ Rellenar TAREAS.md con tareas reales             |
-| 9:30–11:30  | 🔴 Bloque de trabajo prioritario o proyecto propio  |
-| 11:30–11:45 | Pausa activa                                        |
-| 11:45–13:00 | 🟡 Tareas importantes pendientes                    |
-| 13:00–14:00 | Comida y desconexión                                |
-| 14:00–16:00 | 🟢 Proyectos de largo plazo / aprendizaje           |
-| 16:00–16:15 | Pausa                                               |
-| 16:15–18:00 | 🟢 Tareas personales / administrativas              |
-| 18:00–18:30 | 📋 Balance semanal: ¿qué cerré? ¿qué queda?         |
-| 18:30–19:00 | 📝 Planificar las 3 prioridades del lunes           |
+| Hora        | Bloque                                               |
+|-------------|------------------------------------------------------|
+| 9:00–9:30   | ✏️ Rellenar TAREAS.md con tareas reales              |
+| 9:30–10:30  | 📋 Revisión semanal: ¿qué cerré esta semana?         |
+| 10:30–11:30 | 🔴 Atender urgentes si los hay (antes del lunes)     |
+| 11:30–11:45 | Pausa activa                                         |
+| 11:45–13:00 | 🟡 Avanzar tareas importantes de la semana           |
+| 13:00–14:00 | Comida y desconexión                                 |
+| 14:00–16:00 | 🟢 Proyectos de largo plazo / aprendizaje            |
+| 16:00–16:15 | Pausa                                                |
+| 16:15–17:30 | 🟢 Tareas personales / administrativas               |
+| 17:30–18:30 | 📝 Planificar las 3 prioridades del lunes            |
+| 18:30–19:00 | 🧘 Cierre de semana — desconexión consciente         |
 
 ---
 
 ## 💡 Próximo paso recomendado
 
-Es **sábado**: un día valioso para consolidar avances y llegar el lunes con las ideas claras.
+Es **domingo**: el mejor momento para llegar al lunes con claridad y sin sorpresas.
 
 Para sacarle el máximo partido al sistema:
 1. Abre `TAREAS.md`
@@ -93,4 +94,4 @@ Para sacarle el máximo partido al sistema:
 
 ---
 
-*Próximo escaneo automático: Mañana 09:00*
+*Próximo escaneo automático: Mañana 09:00 (Lunes)*
