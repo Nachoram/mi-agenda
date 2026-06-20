@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Jueves 19 de Junio de 2026
+# 📅 Agenda del Día — Sábado 20 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -6,8 +6,8 @@
 
 ## 🧭 Resumen Ejecutivo
 
-**Estado:** Tu TAREAS.md está listo pero aún sin tareas específicas cargadas.
-**Acción clave de hoy:** Completar el TAREAS.md con tus tareas reales para que el agente pueda organizarlas automáticamente.
+**Estado:** `TAREAS.md` está configurado y listo, pero aún sin tareas reales cargadas.  
+**Acción clave de hoy:** Poblar `TAREAS.md` con tus compromisos reales para que el agente pueda organizarlos automáticamente cada mañana.
 
 ---
 
@@ -19,7 +19,7 @@
 ### Personal
 - [ ] *(Sin tareas urgentes personales registradas)*
 
-> ⚠️ Edita TAREAS.md y reemplaza las "Tarea 1 / Tarea 2" con tus tareas reales para ver este bloque en acción.
+> ⚠️ Edita `TAREAS.md` y reemplaza los placeholders con tus tareas reales.
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-*Próximo escaneo automático: Mañana 09:00*
+*Próximo escaneo automático: Lunes 23 de Junio · 09:00*
