@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 20 de Junio de 2026
+# 📅 Agenda del Día — Domingo 21 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -6,7 +6,7 @@
 
 ## 🧭 Resumen Ejecutivo
 
-**Estado:** `TAREAS.md` está configurado y listo, pero aún sin tareas reales cargadas.  
+**Estado:** `TAREAS.md` está configurado y listo, pero aún sin tareas reales cargadas.
 **Acción clave de hoy:** Poblar `TAREAS.md` con tus compromisos reales para que el agente pueda organizarlos automáticamente cada mañana.
 
 ---
@@ -70,4 +70,4 @@
 
 ---
 
-*Próximo escaneo automático: Lunes 23 de Junio · 09:00*
+*Próximo escaneo automático: Lunes 22 de Junio · 09:00*
