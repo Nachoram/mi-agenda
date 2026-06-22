@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo 21 de Junio de 2026
+# 📅 Agenda del Día — Lunes 22 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -66,8 +66,8 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. Vuelve a ejecutar el agente — tu agenda se generará automáticamente
+4. Vuelve a ejecutar el agente — tu agenda se generará con tus prioridades reales
 
 ---
 
-*Próximo escaneo automático: Lunes 22 de Junio · 09:00*
+*Próximo escaneo automático: Martes 23 de Junio · 09:00*
