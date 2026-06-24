@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 23 de Junio de 2026
+# 📅 Agenda del Día — Miércoles 24 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -70,4 +70,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 24 de Junio · 09:00*
+*Próximo escaneo automático: Jueves 25 de Junio · 09:00*
