@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Miércoles 24 de Junio de 2026
+# 📅 Agenda del Día — Jueves 25 de Junio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -6,8 +6,8 @@
 
 ## 🧭 Resumen Ejecutivo
 
-**Estado:** `TAREAS.md` está configurado y listo, pero aún sin tareas reales cargadas.
-**Acción clave de hoy:** Poblar `TAREAS.md` con tus compromisos reales para que el agente pueda organizarlos automáticamente cada mañana.
+**Estado:** `TAREAS.md` configurado y listo, pero aún sin tareas reales cargadas.
+**Acción clave de hoy:** Poblar `TAREAS.md` con tus compromisos reales para que el agente los organice cada mañana.
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-*Próximo escaneo automático: Jueves 25 de Junio · 09:00*
+*Próximo escaneo automático: Viernes 26 de Junio · 09:00*
