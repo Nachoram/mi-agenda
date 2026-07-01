@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 27 de Junio de 2026
+# 📅 Agenda del Día — Martes 1 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -70,4 +70,4 @@
 
 ---
 
-*Próximo escaneo automático: Domingo 28 de Junio · 09:00*
+*Próximo escaneo automático: Miércoles 2 de Julio · 09:00*
