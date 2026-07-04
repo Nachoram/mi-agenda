@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Jueves 3 de Julio de 2026
+# 📅 Agenda del Día — Viernes 4 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Dedica 10 minutos antes de las 10:00 a poblar `TAREAS.md` con tus compromisos reales. Lleva 2 días sin datos — hoy es el momento de activar el sistema.
+**Acción clave de hoy:** Dedica 10 minutos antes de las 10:00 a poblar `TAREAS.md` con tus compromisos reales. Llevas 3 días sin datos — hoy es el momento de activar el sistema.
 
 ---
 
@@ -66,8 +66,8 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. El agente generará tu agenda con tus prioridades reales mañana a las 09:00
+4. Vuelve a ejecutar el agente — tu agenda se generará con tus prioridades reales
 
 ---
 
-*Próximo escaneo automático: Viernes 4 de Julio · 09:00*
+*Próximo escaneo automático: Sábado 5 de Julio · 09:00*
