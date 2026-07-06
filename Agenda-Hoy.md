@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo 5 de Julio de 2026
+# 📅 Agenda del Día — Lunes 6 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -85,4 +85,4 @@
 
 ---
 
-*Próximo escaneo automático: Lunes 6 de Julio · 09:00*
+*Próximo escaneo automático: Martes 7 de Julio · 09:00*
