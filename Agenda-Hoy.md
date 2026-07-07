@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 6 de Julio de 2026
+# 📅 Agenda del Día — Martes 7 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Dedica 10 minutos antes de las 10:00 a poblar `TAREAS.md` con tus compromisos reales. Sin datos reales el sistema no puede ayudarte — hoy es el momento de activarlo.
+**Acción clave de hoy:** Ayer tampoco se cargaron tareas. Hoy es el segundo aviso: dedica 10 minutos antes de las 09:30 a poblar `TAREAS.md` con tus compromisos reales. Sin datos reales el sistema no puede ayudarte.
 
 ---
 
@@ -73,8 +73,8 @@
 ## 🗓️ Bloques sugeridos del día
 
 ```
-09:00–09:15  →  📝 Llenar TAREAS.md (acción del día)
-09:15–10:00  →  🔴 Bloque de urgentes
+09:00–09:30  →  📝 PRIORIDAD: Llenar TAREAS.md ahora mismo
+09:30–10:00  →  🔴 Bloque de urgentes
 10:00–12:30  →  🟡 Trabajo profundo
 12:30–13:30  →  🥗 Pausa / Comida
 13:30–16:00  →  🟡 Continuar tareas importantes
@@ -85,4 +85,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 7 de Julio · 09:00*
+*Próximo escaneo automático: Miércoles 8 de Julio · 09:00*
