@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Martes 7 de Julio de 2026
+# 📅 Agenda del Día — Miércoles 8 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Ayer tampoco se cargaron tareas. Hoy es el segundo aviso: dedica 10 minutos antes de las 09:30 a poblar `TAREAS.md` con tus compromisos reales. Sin datos reales el sistema no puede ayudarte.
+**Acción clave de hoy:** Tercer día consecutivo sin tareas reales. El sistema está listo y esperando tus datos. Dedica los primeros 10 minutos de la mañana a poblar `TAREAS.md`. Cada día sin datos es un día que el agente no puede ayudarte a priorizar.
 
 ---
 
@@ -85,4 +85,4 @@
 
 ---
 
-*Próximo escaneo automático: Miércoles 8 de Julio · 09:00*
+*Próximo escaneo automático: Jueves 9 de Julio · 09:00*
