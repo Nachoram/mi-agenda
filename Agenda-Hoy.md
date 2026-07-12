@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 11 de Julio de 2026
+# 📅 Agenda del Día — Domingo 12 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** El sistema está listo y esperando tus datos. Dedica los primeros 10 minutos de la mañana a poblar `TAREAS.md`. Cada día sin datos es un día que el agente no puede ayudarte a priorizar.
+**Acción clave de hoy:** Es domingo — un buen momento para planificar la semana. Dedica 15 minutos a poblar `TAREAS.md` con tus tareas reales y empezarás el lunes con el sistema funcionando al 100%.
 
 ---
 
@@ -85,4 +85,4 @@
 
 ---
 
-*Próximo escaneo automático: Domingo 12 de Julio · 09:00*
+*Próximo escaneo automático: Lunes 13 de Julio · 09:00*
