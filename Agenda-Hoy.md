@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 13 de Julio de 2026
+# 📅 Agenda del Día — Martes 14 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Es lunes, primer día de la semana. Si aún no has rellenado `TAREAS.md` con tus tareas reales, este es el momento. Dedica los primeros 15 minutos del día a ello y el sistema funcionará al 100% desde hoy.
+**Acción clave de hoy:** Es martes y llevas al menos 2 días con la plantilla vacía. Dedicar 10 minutos ahora a rellenar `TAREAS.md` con tus tareas reales marcará la diferencia en toda la semana.
 
 ---
 
@@ -70,14 +70,14 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Lunes)
+## 🗓️ Bloques sugeridos del día (Martes)
 
 ```
-09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md ahora mismo
-09:15–09:30  →  📧 Revisar correos y mensajes pendientes del fin de semana
-09:30–11:30  →  🔴 Bloque de urgentes / trabajo profundo #1
+09:00–09:10  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
+09:10–09:30  →  📧 Revisar correos y mensajes pendientes
+09:30–11:30  →  🔴 Bloque de trabajo profundo #1 (urgentes)
 11:30–11:45  →  ☕ Pausa corta
-11:45–13:30  →  🟡 Trabajo profundo #2
+11:45–13:30  →  🟡 Trabajo profundo #2 (importantes)
 13:30–14:30  →  🥗 Pausa / Comida
 14:30–16:30  →  🟡 Continuar tareas importantes
 16:30–17:00  →  📧 Correos y comunicación
@@ -87,4 +87,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 14 de Julio · 09:00*
+*Próximo escaneo automático: Miércoles 15 de Julio · 09:00*
