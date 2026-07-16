@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Miércoles 15 de Julio de 2026
+# 📅 Agenda del Día — Jueves 16 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,7 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Es miércoles, mitad de semana. El mejor momento para organizar lo que queda por hacer. Dedicar 10 minutos ahora a rellenar `TAREAS.md` con tus tareas reales te dará claridad para cerrar la semana con fuerza.
+**Acción clave de hoy:** Es jueves — quedan solo 2 días laborables para cerrar la semana. Si aún no has rellenado `TAREAS.md`, este es el momento ideal: 10 minutos de organización ahora evitan correr el viernes.
 
 ---
 
@@ -87,4 +87,4 @@
 
 ---
 
-*Próximo escaneo automático: Jueves 16 de Julio · 09:00*
+*Próximo escaneo automático: Viernes 17 de Julio · 09:00*
