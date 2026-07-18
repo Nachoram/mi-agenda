@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Viernes 17 de Julio de 2026
+# 📅 Agenda del Día — Sábado 18 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,7 +7,8 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Acción clave de hoy:** Es viernes — último día laboral de la semana. Ideal para cerrar pendientes y planificar la semana que viene. 10 minutos ahora para llenar `TAREAS.md` te dan una semana siguiente con arranque claro.
+**Hoy es sábado:** Fuera de tu horario laboral habitual. Perfecto para revisar y planificar la semana siguiente antes del lunes.
+**Acción clave de hoy:** Dedica 10–15 minutos a llenar `TAREAS.md` con tus tareas reales y entrar el lunes con claridad total.
 
 ---
 
@@ -66,25 +67,18 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. Vuelve a ejecutar el agente — tu agenda se generará con tus prioridades reales
+4. El agente generará tu agenda con tus prioridades reales mañana
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Viernes)
+## 🗓️ Bloques sugeridos del día (Sábado — Planificación)
 
 ```
-09:00–09:10  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:10–09:30  →  📧 Revisar correos y mensajes pendientes
-09:30–11:30  →  🔴 Bloque de trabajo profundo #1 (urgentes / cierres de semana)
-11:30–11:45  →  ☕ Pausa corta
-11:45–13:30  →  🟡 Trabajo profundo #2 (importantes)
-13:30–14:30  →  🥗 Pausa / Comida
-14:30–16:00  →  🟡 Continuar y cerrar tareas de la semana
-16:00–17:00  →  📧 Correos y comunicación pendiente
-17:00–18:00  →  🗒️ Revisión semanal — ¿qué cerré? ¿qué queda?
-18:00–19:00  →  📋 Planificación semana siguiente en TAREAS.md
+Cualquier momento  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
+                   →  🗒️ Revisión semanal — ¿qué cerré? ¿qué queda pendiente?
+                   →  📋 Planificación semana del 21 de Julio en TAREAS.md
 ```
 
 ---
 
-*Próximo escaneo automático: Lunes 20 de Julio · 09:00*
+*Próximo escaneo automático: Domingo 19 de Julio (mañana)*
