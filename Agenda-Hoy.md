@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 18 de Julio de 2026
+# 📅 Agenda del Día — Domingo 19 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,12 +7,12 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es sábado:** Fuera de tu horario laboral habitual. Perfecto para revisar y planificar la semana siguiente antes del lunes.
-**Acción clave de hoy:** Dedica 10–15 minutos a llenar `TAREAS.md` con tus tareas reales y entrar el lunes con claridad total.
+**Hoy es domingo:** Último día del fin de semana. Ideal para hacer revisión semanal y planificar el lunes.
+**Acción clave de hoy:** Dedica 15–20 minutos a llenar `TAREAS.md` con tus tareas reales. Entrarás al lunes con claridad y sin estrés.
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana
+## 🔴 URGENTES — Hoy / Mañana (Lunes 20)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -24,7 +24,7 @@
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🟡 IMPORTANTES — Esta semana (21–25 Jul)
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -71,14 +71,15 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Sábado — Planificación)
+## 🗓️ Bloques sugeridos del día (Domingo — Planificación semanal)
 
 ```
 Cualquier momento  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-                   →  🗒️ Revisión semanal — ¿qué cerré? ¿qué queda pendiente?
-                   →  📋 Planificación semana del 21 de Julio en TAREAS.md
+                   →  🗒️ Revisión de la semana pasada — ¿qué cerré? ¿qué queda?
+                   →  📋 Planificación semana del 20 de Julio en TAREAS.md
+                   →  ☀️ Descanso — mañana empieza la semana con energía
 ```
 
 ---
 
-*Próximo escaneo automático: Domingo 19 de Julio (mañana)*
+*Próximo escaneo automático: Lunes 20 de Julio (mañana por la mañana)*
