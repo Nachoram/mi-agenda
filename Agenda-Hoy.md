@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo 19 de Julio de 2026
+# 📅 Agenda del Día — Lunes 20 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,12 +7,12 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es domingo:** Último día del fin de semana. Ideal para hacer revisión semanal y planificar el lunes.
-**Acción clave de hoy:** Dedica 15–20 minutos a llenar `TAREAS.md` con tus tareas reales. Entrarás al lunes con claridad y sin estrés.
+**Hoy es lunes:** Inicio de semana. El momento perfecto para arrancar con claridad.
+**Acción clave:** Dedica los primeros 15 min de tu jornada (9:00–9:15) a llenar `TAREAS.md` con tus tareas reales. Una semana planificada es una semana ganada.
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana (Lunes 20)
+## 🔴 URGENTES — Hoy / Mañana (Mar 21)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -67,19 +67,23 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. El agente generará tu agenda con tus prioridades reales mañana
+4. El agente generará tu agenda personalizada en el siguiente escaneo
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Domingo — Planificación semanal)
+## 🗓️ Bloques sugeridos del día (Lunes — Arranque de semana)
 
 ```
-Cualquier momento  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-                   →  🗒️ Revisión de la semana pasada — ¿qué cerré? ¿qué queda?
-                   →  📋 Planificación semana del 20 de Julio en TAREAS.md
-                   →  ☀️ Descanso — mañana empieza la semana con energía
+09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
+09:15–11:00  →  🔥 Bloque de trabajo profundo (tarea más importante del día)
+11:00–11:15  →  ☕ Pausa
+11:15–13:00  →  💼 Reuniones / comunicación / emails
+13:00–14:00  →  🍽️ Comida
+14:00–16:30  →  🔧 Tareas de ejecución y seguimiento
+16:30–17:00  →  📋 Revisión y cierre del día
+17:00–19:00  →  📚 Desarrollo / proyectos a largo plazo
 ```
 
 ---
 
-*Próximo escaneo automático: Lunes 20 de Julio (mañana por la mañana)*
+*Próximo escaneo automático: Martes 21 de Julio*
