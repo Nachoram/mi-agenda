@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 20 de Julio de 2026
+# 📅 Agenda del Día — Martes 21 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,12 +7,12 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es lunes:** Inicio de semana. El momento perfecto para arrancar con claridad.
-**Acción clave:** Dedica los primeros 15 min de tu jornada (9:00–9:15) a llenar `TAREAS.md` con tus tareas reales. Una semana planificada es una semana ganada.
+**Hoy es martes:** Segundo día de la semana. Todavía a tiempo de planificar el resto y arrancar con fuerza.
+**Acción clave:** Dedica los primeros 15 min de tu jornada (9:00–9:15) a llenar `TAREAS.md` con tus tareas reales. Dos días sin planificar son dos días perdidos.
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana (Mar 21)
+## 🔴 URGENTES — Hoy / Mañana (Mié 22)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -25,6 +25,7 @@
 ---
 
 ## 🟡 IMPORTANTES — Esta semana (21–25 Jul)
+
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -71,7 +72,7 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Lunes — Arranque de semana)
+## 🗓️ Bloques sugeridos del día (Martes — Arranque sólido)
 
 ```
 09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
@@ -86,4 +87,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 21 de Julio*
+*Próximo escaneo automático: Miércoles 22 de Julio*
