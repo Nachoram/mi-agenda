@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Jueves 23 de Julio de 2026
+# 📅 Agenda del Día — Viernes 24 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,12 +7,12 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es jueves:** Cuarto día de semana. Momento clave para cerrar lo pendiente antes del viernes.
+**Hoy es viernes:** ¡Último día laboral de la semana! Momento de cerrar pendientes y preparar la próxima semana.
 **Acción clave:** Dedica los primeros 15 min de tu jornada (9:00–9:15) a llenar `TAREAS.md` con tus tareas reales. El sistema está listo — solo falta tus datos para funcionar al 100%.
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana (Vie 24)
+## 🔴 URGENTES — Hoy (Vie 24) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -71,19 +71,19 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Jueves — Cierre de semana)
+## 🗓️ Bloques sugeridos del día (Viernes — Cierre de semana)
 
 ```
 09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:15–11:00  →  🔥 Bloque de trabajo profundo (cerrar lo más crítico de la semana)
+09:15–11:00  →  🔥 Cierra los asuntos críticos de la semana
 11:00–11:15  →  ☕ Pausa
-11:15–13:00  →  💼 Avance en tareas importantes / reuniones
+11:15–13:00  →  💼 Reuniones o avance en tareas importantes
 13:00–14:00  →  🍽️ Comida
-14:00–16:30  →  🔧 Ejecución y cierre de tareas pendientes de la semana
-16:30–17:00  →  📋 Planificación del viernes y la semana próxima
-17:00–19:00  →  📚 Revisión, proyectos a largo plazo
+14:00–16:00  →  🔧 Ejecución y cierre de pendientes
+16:00–17:00  →  📋 Planificación de la semana próxima (lunes te lo agradecerás)
+17:00–19:00  →  📚 Revisión, proyectos a largo plazo / desconexión gradual
 ```
 
 ---
 
-*Próximo escaneo automático: Viernes 24 de Julio*
+*Próximo escaneo automático: Lunes 27 de Julio*
