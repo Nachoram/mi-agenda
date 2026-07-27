@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo 26 de Julio de 2026
+# 📅 Agenda del Día — Lunes 27 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -6,13 +6,13 @@
 
 ## 🧭 Resumen Ejecutivo
 
-**Estado:** `TAREAS.md` sigue con los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es domingo:** Día ideal para descansar, reflexionar y preparar la semana que comienza mañana.
-**Acción clave:** Dedica 20 min hoy para llenar `TAREAS.md` con tus tareas reales. Mañana lunes el sistema arrancará con tu agenda personalizada lista.
+**Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
+**Hoy es lunes:** Primer día laboral de la semana. Momento ideal para arrancar con fuerza.
+**Acción clave:** Dedica los primeros 20 min de tu jornada (09:00–09:20) a llenar `TAREAS.md` con tus tareas reales. El sistema generará tu agenda personalizada en el próximo ciclo.
 
 ---
 
-## 🔴 URGENTES — Hoy (Dom 26) / Mañana
+## 🔴 URGENTES — Hoy (Lun 27) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -67,22 +67,23 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. El agente generará tu agenda personalizada mañana lunes
+4. El agente generará tu agenda personalizada mañana
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Domingo — Recarga y preparación semanal)
+## 🗓️ Bloques sugeridos del día (Lunes — Arranque semanal)
 
 ```
 09:00–09:20  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:20–11:00  →  🌿 Desconexión / actividad personal
-11:00–12:00  →  📋 Revisión y planificación de la semana entrante
-12:00–14:00  →  🍽️ Comida y descanso
-14:00–16:00  →  🔧 Proyectos personales o avance pendiente
-16:00–17:00  →  💡 Lectura, formación o tiempo libre
-17:00–19:00  →  🌿 Descanso activo / desconexión
+09:20–10:00  →  ☕ Revisión de correos y mensajes pendientes
+10:00–12:30  →  🔧 Bloque de trabajo profundo (tarea principal)
+12:30–13:30  →  🍽️ Comida y descanso
+13:30–15:30  →  🔧 Segundo bloque de trabajo (tareas importantes)
+15:30–16:00  →  ☕ Pausa activa / desconexión breve
+16:00–18:00  →  📋 Gestiones, seguimientos y tareas menores
+18:00–19:00  →  📊 Cierre del día: revisión y actualización de TAREAS.md
 ```
 
 ---
 
-*Próximo escaneo automático: Lunes 27 de Julio*
+*Próximo escaneo automático: Martes 28 de Julio*
