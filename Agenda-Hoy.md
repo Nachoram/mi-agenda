@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 27 de Julio de 2026
+# 📅 Agenda del Día — Martes 28 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,12 +7,14 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es lunes:** Primer día laboral de la semana. Momento ideal para arrancar con fuerza.
+**Hoy es martes:** Segundo día laboral de la semana. Buen momento para avanzar en tareas importantes.
 **Acción clave:** Dedica los primeros 20 min de tu jornada (09:00–09:20) a llenar `TAREAS.md` con tus tareas reales. El sistema generará tu agenda personalizada en el próximo ciclo.
+
+> ⚠️ **Nota:** Llevas varios días sin registrar tareas reales. Hoy es un buen momento para hacerlo.
 
 ---
 
-## 🔴 URGENTES — Hoy (Lun 27) / Mañana
+## 🔴 URGENTES — Hoy (Mar 28) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -24,7 +26,7 @@
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana (27 Jul – 2 Ago)
+## 🟡 IMPORTANTES — Esta semana (28 Jul – 2 Ago)
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -67,11 +69,11 @@
 1. Abre `TAREAS.md`
 2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
 3. Agrega las fechas límite correspondientes
-4. El agente generará tu agenda personalizada mañana
+4. El agente generará tu agenda personalizada en el siguiente escaneo
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Lunes — Arranque semanal)
+## 🗓️ Bloques sugeridos del día (Martes — Avance semanal)
 
 ```
 09:00–09:20  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
@@ -86,4 +88,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 28 de Julio*
+*Próximo escaneo automático: Miércoles 29 de Julio*
