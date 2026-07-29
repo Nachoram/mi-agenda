@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Martes 28 de Julio de 2026
+# 📅 Agenda del Día — Miércoles 29 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,14 +7,14 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es martes:** Segundo día laboral de la semana. Buen momento para avanzar en tareas importantes.
+**Hoy es miércoles:** Punto medio de la semana. Es el momento ideal para revisar avances y corregir el rumbo.
 **Acción clave:** Dedica los primeros 20 min de tu jornada (09:00–09:20) a llenar `TAREAS.md` con tus tareas reales. El sistema generará tu agenda personalizada en el próximo ciclo.
 
-> ⚠️ **Nota:** Llevas varios días sin registrar tareas reales. Hoy es un buen momento para hacerlo.
+> ⚠️ **Recordatorio:** Llevas varios días sin registrar tareas reales. Miércoles es un gran día para retomar el control de tu semana.
 
 ---
 
-## 🔴 URGENTES — Hoy (Mar 28) / Mañana
+## 🔴 URGENTES — Hoy (Mié 29) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -73,7 +73,7 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Martes — Avance semanal)
+## 🗓️ Bloques sugeridos del día (Miércoles — Revisión y avance)
 
 ```
 09:00–09:20  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
@@ -82,10 +82,10 @@
 12:30–13:30  →  🍽️ Comida y descanso
 13:30–15:30  →  🔧 Segundo bloque de trabajo (tareas importantes)
 15:30–16:00  →  ☕ Pausa activa / desconexión breve
-16:00–18:00  →  📋 Gestiones, seguimientos y tareas menores
-18:00–19:00  →  📊 Cierre del día: revisión y actualización de TAREAS.md
+16:00–17:30  →  📋 Revisión de avance semanal y ajuste de prioridades
+17:30–19:00  →  📊 Cierre del día: actualización de TAREAS.md
 ```
 
 ---
 
-*Próximo escaneo automático: Miércoles 29 de Julio*
+*Próximo escaneo automático: Jueves 30 de Julio*
