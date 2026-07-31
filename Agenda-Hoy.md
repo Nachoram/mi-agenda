@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Jueves 30 de Julio de 2026
+# 📅 Agenda del Día — Viernes 31 de Julio de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,14 +7,14 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es jueves:** Queda poco para el fin de semana. Es el momento de cerrar tareas y asegurar que el viernes sea tranquilo.
+**Hoy es viernes:** ¡Último día laboral de la semana! Es el momento ideal de cerrar todo lo pendiente y entrar al fin de semana con la mente despejada.
 **Acción clave:** Dedica los primeros 20 min de tu jornada (09:00–09:20) a llenar `TAREAS.md` con tus tareas reales.
 
-> ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Hoy es un buen momento para empezar.
+> ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Empieza hoy mismo.
 
 ---
 
-## 🔴 URGENTES — Hoy (Jue 30) / Mañana
+## 🔴 URGENTES — Hoy (Vie 31) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -73,19 +73,19 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Jueves — Cierre y avance final)
+## 🗓️ Bloques sugeridos del día (Viernes — Cierre semanal)
 
 ```
 09:00–09:20  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:20–10:00  →  ☕ Revisión de correos y mensajes pendientes
-10:00–12:30  →  🔧 Bloque de trabajo profundo (tarea principal)
+09:20–10:00  →  ☕ Revisión de correos y mensajes del inicio de semana
+10:00–12:30  →  🔧 Bloque de trabajo profundo (cerrar tareas de la semana)
 12:30–13:30  →  🍽️ Comida y descanso
-13:30–15:30  →  🔧 Segundo bloque de trabajo (cerrar pendientes de la semana)
+13:30–15:30  →  🔧 Segundo bloque: revisar avances y cerrar pendientes
 15:30–16:00  →  ☕ Pausa activa / desconexión breve
-16:00–17:30  →  📋 Revisión de avance semanal y preparación del viernes
-17:30–19:00  →  📊 Cierre del día: actualización de TAREAS.md
+16:00–17:30  →  📋 Revisión semanal: ¿qué lograste? ¿qué queda para la próxima?
+17:30–19:00  →  📊 Cierre: actualizar TAREAS.md y preparar la semana siguiente
 ```
 
 ---
 
-*Próximo escaneo automático: Viernes 31 de Julio*
+*Próximo escaneo automático: Lunes 3 de Agosto*
