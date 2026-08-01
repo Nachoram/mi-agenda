@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Viernes 31 de Julio de 2026
+# 📅 Agenda del Día — Sábado 1 de Agosto de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,14 +7,14 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es viernes:** ¡Último día laboral de la semana! Es el momento ideal de cerrar todo lo pendiente y entrar al fin de semana con la mente despejada.
-**Acción clave:** Dedica los primeros 20 min de tu jornada (09:00–09:20) a llenar `TAREAS.md` con tus tareas reales.
+**Hoy es sábado:** ¡Inicio de agosto y del fin de semana! Perfecto para planificar la semana entrante con calma.
+**Acción clave:** Dedica 20 minutos hoy a rellenar `TAREAS.md` con tus tareas reales y entrar el lunes con todo claro.
 
 > ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Empieza hoy mismo.
 
 ---
 
-## 🔴 URGENTES — Hoy (Vie 31) / Mañana
+## 🔴 URGENTES — Hoy (Sáb 1) / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -26,7 +26,7 @@
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana (28 Jul – 2 Ago)
+## 🟡 IMPORTANTES — Esta semana (1–7 Ago)
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -73,17 +73,13 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Viernes — Cierre semanal)
+## 🗓️ Bloques sugeridos del día (Sábado — Planificación semanal)
 
 ```
-09:00–09:20  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:20–10:00  →  ☕ Revisión de correos y mensajes del inicio de semana
-10:00–12:30  →  🔧 Bloque de trabajo profundo (cerrar tareas de la semana)
-12:30–13:30  →  🍽️ Comida y descanso
-13:30–15:30  →  🔧 Segundo bloque: revisar avances y cerrar pendientes
-15:30–16:00  →  ☕ Pausa activa / desconexión breve
-16:00–17:30  →  📋 Revisión semanal: ¿qué lograste? ¿qué queda para la próxima?
-17:30–19:00  →  📊 Cierre: actualizar TAREAS.md y preparar la semana siguiente
+Mañana      →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
+Mañana      →  🗓️ Revisar compromisos de la semana entrante (1–7 Ago)
+Tarde        →  🔄 Cerrar asuntos personales pendientes del fin de semana
+Tarde        →  📊 Preparar lunes: prioridades claras antes del lunes
 ```
 
 ---
