@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado 1 de Agosto de 2026
+# 📅 Agenda del Día — Domingo 2 de Agosto de 2026
 
 > Generado automáticamente | Horario de trabajo: 09:00–19:00
 
@@ -7,14 +7,14 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es sábado:** ¡Inicio de agosto y del fin de semana! Perfecto para planificar la semana entrante con calma.
-**Acción clave:** Dedica 20 minutos hoy a rellenar `TAREAS.md` con tus tareas reales y entrar el lunes con todo claro.
+**Hoy es domingo:** ¡Último día del fin de semana! Ideal para revisar tus compromisos y preparar el lunes con energía.
+**Acción clave:** Dedica 20–30 minutos hoy a rellenar `TAREAS.md` con tus tareas reales y entrar el lunes con todo claro.
 
-> ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Empieza hoy mismo.
+> ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Aprovecha el domingo para planificar.
 
 ---
 
-## 🔴 URGENTES — Hoy (Sáb 1) / Mañana
+## 🔴 URGENTES — Hoy (Dom 2) / Mañana (Lun 3)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -26,7 +26,7 @@
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana (1–7 Ago)
+## 🟡 IMPORTANTES — Esta semana (3–9 Ago)
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -73,13 +73,13 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Sábado — Planificación semanal)
+## 🗓️ Bloques sugeridos del día (Domingo — Preparación semanal)
 
 ```
 Mañana      →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-Mañana      →  🗓️ Revisar compromisos de la semana entrante (1–7 Ago)
+Mañana      →  🗓️ Revisar compromisos de la semana 3–9 Ago
 Tarde        →  🔄 Cerrar asuntos personales pendientes del fin de semana
-Tarde        →  📊 Preparar lunes: prioridades claras antes del lunes
+Tarde        →  🚀 Preparar mañana lunes: prioridades y pendientes claros
 ```
 
 ---
