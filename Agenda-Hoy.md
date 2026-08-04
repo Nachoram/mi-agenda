@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes, 3 de Agosto de 2026
+# 📅 Agenda del Día — Martes, 4 de Agosto de 2026
 
 > Generado automáticamente | Horario laboral: 09:00–19:00
 
@@ -7,15 +7,15 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es lunes:** ¡Comienzo de semana! El mejor momento para arrancar con claridad y definir tus prioridades.
-**Acción clave:** Dedica los primeros 15 minutos de tu jornada (9:00–9:15) a rellenar `TAREAS.md` con tus tareas reales.
+**Hoy es martes:** Segundo día de la semana, ideal para empujar las tareas que arrancaste ayer.
+**Acción clave:** Dedica los primeros 15 minutos (9:00–9:15) a rellenar `TAREAS.md` con tus tareas reales.
 
 > ⚠️ **Sin tareas registradas no es posible generar una agenda personalizada.**
 > Edita `TAREAS.md` y reemplaza los placeholders con tus compromisos reales.
 
 ---
 
-## 🔴 URGENTES — Hoy (Lun 3) / Mañana (Mar 4)
+## 🔴 URGENTES — Hoy (Mar 4) / Mañana (Mié 5)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -25,7 +25,7 @@
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana (3–9 Ago)
+## 🟡 IMPORTANTES — Esta semana (4–10 Ago)
 
 ### Trabajo
 - [ ] *(Sin tareas importantes de trabajo registradas)*
@@ -63,7 +63,7 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Lunes — Arranque semanal)
+## 🗓️ Bloques sugeridos del día (Martes — Ejecución)
 
 ```
 09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
@@ -73,7 +73,7 @@
 13:00–14:00  →  🍽️ Almuerzo
 14:00–16:30  →  🟡 Continuación tareas importantes
 16:30–17:00  →  📬 Emails y comunicación
-17:00–19:00  →  🟢 Tareas normales / planificación del martes
+17:00–19:00  →  🟢 Tareas normales / planificación del miércoles
 ```
 
 ---
@@ -87,4 +87,4 @@
 
 ---
 
-*Próximo escaneo automático: Martes 4 de Agosto*
+*Próximo escaneo automático: Miércoles 5 de Agosto*
