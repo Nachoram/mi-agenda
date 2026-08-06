@@ -10,7 +10,8 @@
 **Hoy es jueves:** Penúltimo día hábil de la semana. Momento clave para cerrar compromisos antes del viernes.
 **Acción clave:** Dedica los primeros 15 minutos (9:00–9:15) a rellenar `TAREAS.md` con tus tareas reales.
 
-> ⚠️ **Recordatorio:** Sin tareas registradas no es posible generar una agenda real. Empieza hoy mismo.
+> ⚠️ **Sin tareas registradas no es posible generar una agenda personalizada.**
+> Edita `TAREAS.md` y reemplaza los placeholders con tus compromisos reales.
 
 ---
 
@@ -21,8 +22,6 @@
 
 ### Personal
 - [ ] *(Sin tareas urgentes personales registradas)*
-
-> ⚠️ Edita `TAREAS.md` y reemplaza los placeholders con tus tareas reales.
 
 ---
 
@@ -48,7 +47,7 @@
 
 ## ✅ COMPLETADAS HOY
 
-*(Ninguna registrada aún)*
+*(Ninguna registrada aún — ¡el día acaba de comenzar!)*
 
 ---
 
@@ -83,9 +82,9 @@
 ## 💡 Próximos pasos
 
 1. Abre `TAREAS.md`
-2. Reemplaza cada "Tarea 1" y "Tarea 2" con tus tareas reales
-3. Agrega las fechas límite correspondientes
-4. El agente generará tu agenda personalizada en el siguiente escaneo
+2. Reemplaza "Tarea 1" y "Tarea 2" con tus tareas reales
+3. Agrega fechas límite concretas
+4. El agente actualizará tu agenda en el siguiente escaneo automático
 
 ---
 
