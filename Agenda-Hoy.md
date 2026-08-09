@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Sábado, 8 de Agosto de 2026
+# 📅 Agenda del Día — Domingo, 9 de Agosto de 2026
 
 > Generado automáticamente | Horario laboral: 09:00–19:00
 
@@ -7,15 +7,15 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es sábado:** Excelente momento para planificar la semana del 10 de agosto y registrar tus prioridades.
-**Acción clave:** Dedica los primeros 15 minutos a rellenar `TAREAS.md` con tus tareas reales.
+**Hoy es domingo:** Ideal para descansar Y para preparar la semana del lunes 10 de agosto.
+**Acción clave:** Dedica 15 minutos a rellenar `TAREAS.md` con tus prioridades reales antes del lunes.
 
 > ⚠️ **Sin tareas registradas no es posible generar una agenda personalizada.**
 > Edita `TAREAS.md` y reemplaza los placeholders con tus compromisos reales.
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana (Sáb 8 – Dom 9)
+## 🔴 URGENTES — Hoy/Mañana (Dom 9 – Lun 10)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -63,18 +63,18 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Sábado — Planificación semanal)
+## 🗓️ Bloques sugeridos del día (Domingo — Preparación semanal)
 
 ```
-09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
-09:15–10:30  →  🗂️ Revisión y organización de la semana pasada
+09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales para la semana
+09:15–10:30  →  🗂️ Revisión de pendientes de la semana pasada
 10:30–10:45  →  ☕ Pausa
 10:45–12:30  →  📋 Planificación de objetivos para la semana del 10 Ago
-12:30–13:00  →  📬 Revisión de correos pendientes
+12:30–13:00  →  📬 Revisión de correos y mensajes pendientes
 13:00–14:00  →  🍽️ Almuerzo
-14:00–16:00  →  🟢 Tareas personales y de mantenimiento
+14:00–16:00  →  🟢 Tareas personales o de mantenimiento
 16:00–17:00  →  💡 Tiempo para proyectos propios o aprendizaje
-17:00–19:00  →  🔋 Descanso y recarga para la semana
+17:00–19:00  →  🔋 Descanso y recarga para comenzar la semana con energía
 ```
 
 ---
@@ -88,4 +88,4 @@
 
 ---
 
-*Próximo escaneo automático: Domingo 9 de Agosto*
+*Próximo escaneo automático: Lunes 10 de Agosto*
