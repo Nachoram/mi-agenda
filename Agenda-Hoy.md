@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo, 9 de Agosto de 2026
+# 📅 Agenda del Día — Lunes, 10 de Agosto de 2026
 
 > Generado automáticamente | Horario laboral: 09:00–19:00
 
@@ -7,15 +7,15 @@
 ## 🧭 Resumen Ejecutivo
 
 **Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es domingo:** Ideal para descansar Y para preparar la semana del lunes 10 de agosto.
-**Acción clave:** Dedica 15 minutos a rellenar `TAREAS.md` con tus prioridades reales antes del lunes.
+**Hoy es lunes:** Inicio de semana laboral. Es el momento ideal para definir tus prioridades.
+**Acción clave:** Dedica los primeros 15 minutos (09:00–09:15) a rellenar `TAREAS.md` con tus tareas reales.
 
 > ⚠️ **Sin tareas registradas no es posible generar una agenda personalizada.**
 > Edita `TAREAS.md` y reemplaza los placeholders con tus compromisos reales.
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana (Dom 9 – Lun 10)
+## 🔴 URGENTES — Hoy/Mañana (Lun 10 – Mar 11 Ago)
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -63,18 +63,20 @@
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Domingo — Preparación semanal)
+## 🗓️ Bloques sugeridos del día (Lunes — Arranque de semana)
 
 ```
-09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales para la semana
-09:15–10:30  →  🗂️ Revisión de pendientes de la semana pasada
+09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales
+09:15–10:30  →  🔴 Atender urgentes del día
 10:30–10:45  →  ☕ Pausa
-10:45–12:30  →  📋 Planificación de objetivos para la semana del 10 Ago
-12:30–13:00  →  📬 Revisión de correos y mensajes pendientes
+10:45–12:30  →  🟡 Trabajo en tareas importantes de la semana
+12:30–13:00  →  📬 Revisión de correos y mensajes
 13:00–14:00  →  🍽️ Almuerzo
-14:00–16:00  →  🟢 Tareas personales o de mantenimiento
-16:00–17:00  →  💡 Tiempo para proyectos propios o aprendizaje
-17:00–19:00  →  🔋 Descanso y recarga para comenzar la semana con energía
+14:00–16:00  →  🟡 Continuar con tareas importantes
+16:00–16:15  →  ☕ Pausa
+16:15–18:00  →  🟢 Tareas normales o avance en proyectos
+18:00–18:30  →  📋 Revisión y cierre del día
+18:30–19:00  →  🔮 Preparar prioridades para mañana
 ```
 
 ---
@@ -88,4 +90,4 @@
 
 ---
 
-*Próximo escaneo automático: Lunes 10 de Agosto*
+*Próximo escaneo automático: Martes 11 de Agosto*
