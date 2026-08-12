@@ -1,58 +1,55 @@
-# 📅 Agenda del Día — Martes 11 de Agosto de 2026
+# 📅 Agenda del Día — Miércoles 12 de Agosto de 2026
 
-> Generada automáticamente · Horario laboral: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES — Acción inmediata
-
-> No hay tareas urgentes registradas para hoy.
-> _(Agrega tus tareas urgentes en TAREAS.md → sección 🔴 URGENTES)_
-
----
-
-## 🟡 IMPORTANTES — Esta semana
-
-> No hay tareas importantes registradas para esta semana.
-> _(Agrega tus tareas importantes en TAREAS.md → sección 🟡 IMPORTANTES)_
-
----
-
-## 🟢 NORMAL — Próximas semanas
-
-> No hay tareas normales registradas.
-> _(Agrega tus tareas en TAREAS.md → sección 🟢 NORMAL)_
-
----
-
-## ✅ COMPLETADAS HOY
-
-> Sin tareas completadas registradas aún.
+> Generado automáticamente | Horario laboral: 9:00 – 19:00
 
 ---
 
 ## 📊 Resumen Ejecutivo
 
-| Indicador | Valor |
+**Estado general:** Sin tareas activas registradas.
+La lista maestra (TAREAS.md) contiene únicamente la plantilla base. Es el momento ideal para poblarla con tus tareas reales y dejar que el agente las organice desde mañana.
+
+| Categoría | Total |
 |-----------|-------|
-| Tareas urgentes | 0 |
-| Tareas importantes | 0 |
-| Tareas normales | 0 |
-| Completadas hoy | 0 |
-| **Estado general** | **⚠️ TAREAS.md vacío — pendiente de rellenar** |
+| 🔴 Urgentes | 0 |
+| 🟡 Importantes | 0 |
+| 🟢 Normales | 0 |
+| ✅ Completadas hoy | 0 |
 
 ---
 
-## 💡 Próximo paso recomendado
+## 🔴 Urgentes — Para Hoy
 
-**Tu TAREAS.md está vacío.** Para que el agente pueda generar tu agenda diaria con tareas reales, abre `TAREAS.md` y añade tus tareas en cada sección.
-
-Ejemplo:
-```
-- [ ] Revisar informe de ventas - Fecha límite: 12/08/2026
-- [ ] Llamar al cliente Acme - Fecha límite: Hoy
-```
+> _No hay tareas urgentes registradas._
 
 ---
 
-_Próximo escaneo automático: Mañana a primera hora_
+## 🟡 Importantes — Esta Semana
+
+> _No hay tareas importantes registradas._
+
+---
+
+## 🟢 Normal — Próximas Semanas
+
+> _No hay tareas normales registradas._
+
+---
+
+## ✅ Completadas Hoy
+
+> _Sin registros aún._
+
+---
+
+## 💡 Acción Recomendada para Hoy
+
+Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales. Incluye:
+- Una descripción clara de la tarea
+- Una fecha límite concreta
+
+El agente se encargará de organizarlas automáticamente en tu próxima agenda.
+
+---
+
+_Próximo escaneo automático: mañana por la mañana_
