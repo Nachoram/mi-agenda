@@ -1,55 +1,46 @@
-# 📅 Agenda del Día — Miércoles 12 de Agosto de 2026
+# 📅 Agenda del Día — Jueves 13 de Agosto 2026
 
-> Generado automáticamente | Horario laboral: 9:00 – 19:00
-
----
-
-## 📊 Resumen Ejecutivo
-
-**Estado general:** Sin tareas activas registradas.
-La lista maestra (TAREAS.md) contiene únicamente la plantilla base. Es el momento ideal para poblarla con tus tareas reales y dejar que el agente las organice desde mañana.
-
-| Categoría | Total |
-|-----------|-------|
-| 🔴 Urgentes | 0 |
-| 🟡 Importantes | 0 |
-| 🟢 Normales | 0 |
-| ✅ Completadas hoy | 0 |
+> Generado automáticamente a las 09:00 | Jornada: 9:00–19:00
 
 ---
 
-## 🔴 Urgentes — Para Hoy
+## 🎯 RESUMEN EJECUTIVO
 
-> _No hay tareas urgentes registradas._
-
----
-
-## 🟡 Importantes — Esta Semana
-
-> _No hay tareas importantes registradas._
+**Estado de tareas:** Lista en blanco — TAREAS.md aún no tiene tareas reales registradas.
+**Acción requerida:** Añade tus tareas en TAREAS.md para que el agente las organice mañana.
 
 ---
 
-## 🟢 Normal — Próximas Semanas
+## 🔴 URGENTES — Para hoy o mañana
 
-> _No hay tareas normales registradas._
-
----
-
-## ✅ Completadas Hoy
-
-> _Sin registros aún._
+> *(Sin tareas urgentes registradas)*
 
 ---
 
-## 💡 Acción Recomendada para Hoy
+## 🟡 IMPORTANTES — Esta semana
 
-Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales. Incluye:
-- Una descripción clara de la tarea
-- Una fecha límite concreta
-
-El agente se encargará de organizarlas automáticamente en tu próxima agenda.
+> *(Sin tareas importantes registradas)*
 
 ---
 
-_Próximo escaneo automático: mañana por la mañana_
+## 🟢 NORMAL — Próximas semanas
+
+> *(Sin tareas normales registradas)*
+
+---
+
+## ✅ COMPLETADAS HOY
+
+> *(Ninguna completada todavía)*
+
+---
+
+## 📋 PRÓXIMOS PASOS
+
+1. Abre **TAREAS.md** y reemplaza los "Tarea 1 / Tarea 2" por tus tareas reales.
+2. Indica la **fecha límite** de cada una.
+3. El agente las organizará automáticamente mañana.
+
+---
+
+*Próximo escaneo: Automático mañana por la mañana*
