@@ -1,91 +1,60 @@
-# 📅 Agenda del Día — Domingo, 9 de Agosto de 2026
+# 📅 Agenda del Día — Viernes 14 de Agosto de 2026
 
-> Generado automáticamente | Horario laboral: 09:00–19:00
-
----
-
-## 🧭 Resumen Ejecutivo
-
-**Estado:** `TAREAS.md` aún contiene los placeholders de la plantilla — sin tareas reales registradas.
-**Hoy es domingo:** Ideal para descansar Y para preparar la semana del lunes 10 de agosto.
-**Acción clave:** Dedica 15 minutos a rellenar `TAREAS.md` con tus prioridades reales antes del lunes.
-
-> ⚠️ **Sin tareas registradas no es posible generar una agenda personalizada.**
-> Edita `TAREAS.md` y reemplaza los placeholders con tus compromisos reales.
+> Generado automáticamente | Horario de trabajo: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana (Dom 9 – Lun 10)
+## 🎯 Resumen Ejecutivo
 
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo registradas)*
+**Estado del día:** ⚠️ Sin tareas activas registradas
 
-### Personal
-- [ ] *(Sin tareas urgentes personales registradas)*
+Tu lista de tareas está vacía. Hoy es un buen momento para planificar la semana entrante o añadir tus pendientes a `TAREAS.md`.
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana (semana del 10 Ago)
+## 🔴 URGENTES — Para hoy
 
-### Trabajo
-- [ ] *(Sin tareas importantes de trabajo registradas)*
+*No hay tareas urgentes registradas.*
 
-### Personal
-- [ ] *(Sin tareas importantes personales registradas)*
+---
+
+## 🟡 IMPORTANTES — Esta semana
+
+*No hay tareas importantes registradas.*
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-### Trabajo
-- [ ] *(Sin tareas normales de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas normales personales registradas)*
+*No hay tareas pendientes registradas.*
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas hoy
 
-*(Ninguna registrada aún)*
+*Ninguna completada aún.*
 
 ---
 
 ## 📊 Estadísticas del día
 
-| Métrica              | Valor |
-|----------------------|-------|
-| Tareas activas       | 0     |
-| Urgentes             | 0     |
-| Importantes          | 0     |
-| Normal               | 0     |
-| Completadas hoy      | 0     |
+| Métrica | Valor |
+|---|---|
+| Tareas activas | 0 |
+| Completadas hoy | 0 |
+| Próximo escaneo | Mañana por la mañana (automático) |
 
 ---
 
-## 🗓️ Bloques sugeridos del día (Domingo — Preparación semanal)
+## 💡 Acción recomendada
 
-```
-09:00–09:15  →  📝 PRIORIDAD: Llenar TAREAS.md con tus tareas reales para la semana
-09:15–10:30  →  🗂️ Revisión de pendientes de la semana pasada
-10:30–10:45  →  ☕ Pausa
-10:45–12:30  →  📋 Planificación de objetivos para la semana del 10 Ago
-12:30–13:00  →  📬 Revisión de correos y mensajes pendientes
-13:00–14:00  →  🍽️ Almuerzo
-14:00–16:00  →  🟢 Tareas personales o de mantenimiento
-16:00–17:00  →  💡 Tiempo para proyectos propios o aprendizaje
-17:00–19:00  →  🔋 Descanso y recarga para comenzar la semana con energía
-```
+Abre `TAREAS.md` y añade tus tareas reales en cada sección:
+- 🔴 Urgentes: lo que necesitas hacer hoy o mañana
+- 🟡 Importantes: lo que debe estar listo esta semana
+- 🟢 Normal: pendientes sin fecha inmediata
+
+El agente las procesará automáticamente en la próxima ejecución.
 
 ---
 
-## 💡 Próximos pasos
-
-1. Abre `TAREAS.md`
-2. Reemplaza "Tarea 1" y "Tarea 2" con tus tareas reales
-3. Agrega fechas límite concretas
-4. El agente actualizará tu agenda cada mañana automáticamente
-
----
-
-*Próximo escaneo automático: Lunes 10 de Agosto*
+*Generado por tu Asistente de Agenda Personal*
