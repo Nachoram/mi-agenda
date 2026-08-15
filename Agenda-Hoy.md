@@ -1,60 +1,69 @@
-# 📅 Agenda del Día — Viernes 14 de Agosto de 2026
+# 📅 AGENDA DEL DÍA — Sábado 15 de Agosto 2026
 
-> Generado automáticamente | Horario de trabajo: 9:00 - 19:00
-
----
-
-## 🎯 Resumen Ejecutivo
-
-**Estado del día:** ⚠️ Sin tareas activas registradas
-
-Tu lista de tareas está vacía. Hoy es un buen momento para planificar la semana entrante o añadir tus pendientes a `TAREAS.md`.
+> Generado automáticamente | Jornada laboral: 09:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy
+## 📊 RESUMEN EJECUTIVO
 
-*No hay tareas urgentes registradas.*
-
----
-
-## 🟡 IMPORTANTES — Esta semana
-
-*No hay tareas importantes registradas.*
+**Estado del día:** Sin tareas activas registradas en TAREAS.md  
+**Tareas activas:** 0  
+**Tareas completadas hoy:** 0  
+**Prioridad inmediata:** Añadir tareas reales a TAREAS.md para que el agente las organice automáticamente
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🔴 URGENTES (Hoy / Mañana)
 
-*No hay tareas pendientes registradas.*
+### Trabajo
+> ⚠️ Sin tareas urgentes de trabajo registradas
 
----
-
-## ✅ Completadas hoy
-
-*Ninguna completada aún.*
+### Personal
+> ⚠️ Sin tareas urgentes personales registradas
 
 ---
 
-## 📊 Estadísticas del día
+## 🟡 IMPORTANTES (Esta semana)
 
-| Métrica | Valor |
-|---|---|
-| Tareas activas | 0 |
-| Completadas hoy | 0 |
-| Próximo escaneo | Mañana por la mañana (automático) |
+### Trabajo
+> Sin tareas importantes de trabajo esta semana
 
----
-
-## 💡 Acción recomendada
-
-Abre `TAREAS.md` y añade tus tareas reales en cada sección:
-- 🔴 Urgentes: lo que necesitas hacer hoy o mañana
-- 🟡 Importantes: lo que debe estar listo esta semana
-- 🟢 Normal: pendientes sin fecha inmediata
-
-El agente las procesará automáticamente en la próxima ejecución.
+### Personal
+> Sin tareas importantes personales esta semana
 
 ---
 
-*Generado por tu Asistente de Agenda Personal*
+## 🟢 NORMAL (Próximas semanas)
+
+### Trabajo
+> Sin tareas normales de trabajo registradas
+
+### Personal
+> Sin tareas normales personales registradas
+
+---
+
+## ✅ COMPLETADAS HOY
+
+> Ninguna tarea completada hoy
+
+---
+
+## 💡 ACCIÓN RECOMENDADA
+
+**Para aprovechar al máximo este sistema:**
+
+1. Abre `TAREAS.md`
+2. Reemplaza los textos "Tarea 1", "Tarea 2" con tus tareas reales
+3. Añade fechas límite en el campo correspondiente
+4. El agente las organizará automáticamente mañana a primera hora
+
+**Ejemplo de tarea bien definida:**
+```
+- [ ] Preparar presentación para cliente - Fecha límite: 2026-08-16
+- [ ] Revisar contrato proveedor - Fecha límite: 2026-08-19
+```
+
+---
+
+*Próximo escaneo automático: Mañana a primera hora*
