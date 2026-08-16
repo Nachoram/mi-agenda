@@ -1,69 +1,60 @@
-# 📅 AGENDA DEL DÍA — Sábado 15 de Agosto 2026
+# 📅 Agenda del Día — Domingo, 16 de agosto de 2026
 
-> Generado automáticamente | Jornada laboral: 09:00 - 19:00
+> Generado automáticamente a las 09:00 | Jornada: 9:00–19:00
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 🎯 Resumen Ejecutivo
 
 **Estado del día:** Sin tareas activas registradas en TAREAS.md  
-**Tareas activas:** 0  
-**Tareas completadas hoy:** 0  
-**Prioridad inmediata:** Añadir tareas reales a TAREAS.md para que el agente las organice automáticamente
+**Acción recomendada:** Añade tus tareas reales al archivo `TAREAS.md` para que el agente pueda organizarlas.
 
 ---
 
-## 🔴 URGENTES (Hoy / Mañana)
+## 🔴 URGENTES — Para hoy o mañana
 
-### Trabajo
-> ⚠️ Sin tareas urgentes de trabajo registradas
-
-### Personal
-> ⚠️ Sin tareas urgentes personales registradas
+> ⚠️ No hay tareas urgentes registradas.
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-> Sin tareas importantes de trabajo esta semana
-
-### Personal
-> Sin tareas importantes personales esta semana
+> ⚠️ No hay tareas importantes registradas.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟢 NORMAL — Próximas semanas
 
-### Trabajo
-> Sin tareas normales de trabajo registradas
-
-### Personal
-> Sin tareas normales personales registradas
+> ⚠️ No hay tareas normales registradas.
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas hoy
 
-> Ninguna tarea completada hoy
+> Sin tareas completadas registradas.
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
+## 📊 Estadísticas del día
 
-**Para aprovechar al máximo este sistema:**
+| Métrica | Valor |
+|---|---|
+| Tareas activas | 0 |
+| Completadas hoy | 0 |
+| Bloqueadas | 0 |
 
-1. Abre `TAREAS.md`
-2. Reemplaza los textos "Tarea 1", "Tarea 2" con tus tareas reales
-3. Añade fechas límite en el campo correspondiente
-4. El agente las organizará automáticamente mañana a primera hora
+---
 
-**Ejemplo de tarea bien definida:**
-```
-- [ ] Preparar presentación para cliente - Fecha límite: 2026-08-16
-- [ ] Revisar contrato proveedor - Fecha límite: 2026-08-19
+## 💡 Próximo paso
+
+Edita `TAREAS.md` y reemplaza los marcadores de posición con tus tareas reales:
+
+```markdown
+## 🔴 URGENTES
+- [ ] Mi tarea real - Fecha límite: 17 ago 2026
 ```
 
----
+El agente se ejecuta cada mañana y generará esta agenda automáticamente.
 
-*Próximo escaneo automático: Mañana a primera hora*
+---
+*Generado por el Asistente de Agenda Personal*
