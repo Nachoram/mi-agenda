@@ -1,55 +1,68 @@
-# 📅 Agenda del Día — Lunes 17 de agosto de 2026
+# 📅 Agenda - Martes 18 de Agosto de 2026
 
-> Generada automáticamente | Horario laboral: 9:00–19:00
+> Generada automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para Hoy
+## 🔴 URGENTES (Hoy / Mañana)
+
+> ⚠️ No hay tareas urgentes definidas. Revisa si necesitas añadir alguna a TAREAS.md.
 
 ### Trabajo
-*(Sin tareas urgentes registradas)*
+- [ ] *(Sin tareas urgentes de trabajo)*
 
 ### Personal
-*(Sin tareas urgentes registradas)*
+- [ ] *(Sin tareas urgentes personales)*
 
 ---
 
-## 🟡 IMPORTANTES — Esta Semana
+## 🟡 IMPORTANTES (Esta semana)
+
+> ℹ️ No hay tareas importantes definidas esta semana.
 
 ### Trabajo
-*(Sin tareas importantes registradas)*
+- [ ] *(Sin tareas importantes de trabajo)*
 
 ### Personal
-*(Sin tareas importantes registradas)*
+- [ ] *(Sin tareas importantes personales)*
 
 ---
 
-## 🟢 NORMAL — Próximas Semanas
+## 🟢 NORMAL (Próximas semanas)
+
+> ℹ️ No hay tareas normales definidas.
 
 ### Trabajo
-*(Sin tareas normales registradas)*
+- [ ] *(Sin tareas de trabajo para próximas semanas)*
 
 ### Personal
-*(Sin tareas normales registradas)*
+- [ ] *(Sin tareas personales para próximas semanas)*
 
 ---
 
-## ✅ Completadas Hoy
+## ✅ COMPLETADAS HOY
 
-*(Ninguna aún)*
+*(Ninguna completada aún)*
 
 ---
 
 ## 📊 Resumen Ejecutivo
 
-| Categoría        | Total |
-|------------------|-------|
-| 🔴 Urgentes      | 0     |
-| 🟡 Importantes   | 0     |
-| 🟢 Normal        | 0     |
-| ✅ Completadas   | 0     |
+| Indicador | Valor |
+|-----------|-------|
+| Total tareas activas | 0 |
+| Urgentes (hoy/mañana) | 0 |
+| Importantes (esta semana) | 0 |
+| Completadas hoy | 0 |
+| Próximo escaneo | Mañana por la mañana |
 
 ---
 
-> ⚠️ **Nota**: TAREAS.md contiene solo el template sin tareas reales aún.  
-> Agrega tus tareas en TAREAS.md y el agente las organizará automáticamente mañana.
+### 💡 Acción recomendada
+
+Tu lista de tareas está vacía. Es un buen momento para:
+1. Abrir **TAREAS.md** y añadir tus tareas reales
+2. Asignar fechas límite a cada una
+3. El agente las organizará automáticamente mañana
+
+> *"Un día bien planificado es la mitad del trabajo hecho."*
