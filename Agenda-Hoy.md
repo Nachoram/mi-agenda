@@ -1,68 +1,64 @@
-# 📅 Agenda - Martes 18 de Agosto de 2026
+# 📅 Agenda del Día — Miércoles 19 de agosto de 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES (Hoy / Mañana)
-
-> ⚠️ No hay tareas urgentes definidas. Revisa si necesitas añadir alguna a TAREAS.md.
-
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas urgentes personales)*
+> Horario de trabajo: 9:00 – 19:00 | Generado automáticamente
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
-
-> ℹ️ No hay tareas importantes definidas esta semana.
+## 🔴 URGENTES — Hoy / Mañana
 
 ### Trabajo
-- [ ] *(Sin tareas importantes de trabajo)*
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ### Personal
-- [ ] *(Sin tareas importantes personales)*
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
-
-> ℹ️ No hay tareas normales definidas.
+## 🟡 IMPORTANTES — Esta semana
 
 ### Trabajo
-- [ ] *(Sin tareas de trabajo para próximas semanas)*
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ### Personal
-- [ ] *(Sin tareas personales para próximas semanas)*
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Ninguna completada aún)*
+- ✅ Tarea completada *(sin hora registrada)*
 
 ---
 
 ## 📊 Resumen Ejecutivo
 
-| Indicador | Valor |
-|-----------|-------|
-| Total tareas activas | 0 |
-| Urgentes (hoy/mañana) | 0 |
-| Importantes (esta semana) | 0 |
-| Completadas hoy | 0 |
-| Próximo escaneo | Mañana por la mañana |
+| Métrica              | Valor |
+|----------------------|-------|
+| Tareas urgentes      | 4     |
+| Tareas importantes   | 4     |
+| Tareas normales      | 4     |
+| Completadas hoy      | 1     |
+| **Total pendientes** | **12**|
 
 ---
 
-### 💡 Acción recomendada
+> ⚠️ **Nota:** Las tareas en TAREAS.md aún tienen contenido de plantilla (sin nombres ni fechas reales).
+> Edita TAREAS.md con tus tareas reales para que el agente genere una agenda personalizada.
 
-Tu lista de tareas está vacía. Es un buen momento para:
-1. Abrir **TAREAS.md** y añadir tus tareas reales
-2. Asignar fechas límite a cada una
-3. El agente las organizará automáticamente mañana
-
-> *"Un día bien planificado es la mitad del trabajo hecho."*
+*Próximo escaneo: automático mañana por la mañana*
