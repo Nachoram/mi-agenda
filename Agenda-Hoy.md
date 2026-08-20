@@ -1,64 +1,44 @@
-# 📅 Agenda del Día — Miércoles 19 de agosto de 2026
+# 📅 AGENDA DEL DÍA — Jueves 20 de Agosto 2026
 
-> Horario de trabajo: 9:00 – 19:00 | Generado automáticamente
+> Generado automáticamente a las 09:00 | Jornada: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Hoy / Mañana
+## 🔴 URGENTES — Para hoy
 
-### Trabajo
-- [ ] Tarea 1 *(sin fecha límite asignada)*
-- [ ] Tarea 2 *(sin fecha límite asignada)*
-
-### Personal
-- [ ] Tarea 1 *(sin fecha límite asignada)*
-- [ ] Tarea 2 *(sin fecha límite asignada)*
+> ⚠️ No hay tareas urgentes registradas. ¡Es un buen momento para planificar!
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
-
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+> ⚠️ No hay tareas importantes registradas esta semana.
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
-
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+> ⚠️ No hay tareas normales registradas.
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-- ✅ Tarea completada *(sin hora registrada)*
+> Ninguna completada aún hoy.
 
 ---
 
-## 📊 Resumen Ejecutivo
+## 📊 RESUMEN EJECUTIVO
 
-| Métrica              | Valor |
-|----------------------|-------|
-| Tareas urgentes      | 4     |
-| Tareas importantes   | 4     |
-| Tareas normales      | 4     |
-| Completadas hoy      | 1     |
-| **Total pendientes** | **12**|
+| Categoría       | Total |
+|-----------------|-------|
+| 🔴 Urgentes     | 0     |
+| 🟡 Importantes  | 0     |
+| 🟢 Normal       | 0     |
+| ✅ Completadas  | 0     |
+
+**Estado del día:** La lista de tareas está vacía. Abre `TAREAS.md` y agrega tus tareas reales para que el agente pueda organizarlas automáticamente mañana.
 
 ---
 
-> ⚠️ **Nota:** Las tareas en TAREAS.md aún tienen contenido de plantilla (sin nombres ni fechas reales).
-> Edita TAREAS.md con tus tareas reales para que el agente genere una agenda personalizada.
-
-*Próximo escaneo: automático mañana por la mañana*
+> _Próximo escaneo automático: mañana a las 9:00_
