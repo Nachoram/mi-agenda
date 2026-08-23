@@ -1,63 +1,62 @@
-# 📅 AGENDA DEL DÍA — Sábado 22 de Agosto, 2026
+# 📅 Agenda del Día — Domingo, 23 de agosto de 2026
 
-> Generado automáticamente · Horario: 9:00–19:00
-
----
-
-## ⚡ RESUMEN EJECUTIVO
-
-**Estado del sistema:** ⚠️ TAREAS.MD SIN COMPLETAR — El archivo maestro contiene solo plantillas de ejemplo. Se necesita rellenar con tareas reales para que el agente pueda organizarte el día.
-
-**Total tareas activas:** 0 reales (8 placeholders sin contenido)
-**Completadas hoy:** 0
-**Nivel de urgencia:** Sin datos
+> Generado automáticamente · Jornada laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES (Hoy o mañana)
+## ⚠️ Estado del Sistema
 
-### Trabajo
-- [ ] *(Sin tareas urgentes definidas — añade tus tareas reales en TAREAS.md)*
+**TAREAS.md no contiene tareas reales.** El archivo está en estado de plantilla (los campos "Tarea 1", "Tarea 2" aún son marcadores de posición sin contenido ni fechas).
 
-### Personal
-- [ ] *(Sin tareas urgentes definidas — añade tus tareas reales en TAREAS.md)*
+➡️ **Acción necesaria**: Abre `TAREAS.md` y rellena tus tareas reales.
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🔴 URGENTES — Hoy/Mañana
 
-### Trabajo
-- [ ] *(Sin tareas importantes definidas)*
-
-### Personal
-- [ ] *(Sin tareas importantes definidas)*
+> Sin tareas urgentes registradas.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-- [ ] *(Sin tareas normales definidas)*
-
-### Personal
-- [ ] *(Sin tareas normales definidas)*
+> Sin tareas importantes registradas.
 
 ---
 
-## 📋 COMPLETADAS HOY
-*(Ninguna tarea completada aún)*
+## 🟢 NORMAL — Próximas semanas
+
+> Sin tareas normales registradas.
 
 ---
 
-## 🎯 ACCIÓN RECOMENDADA
+## ✅ COMPLETADAS HOY
 
-**Dedica 10 minutos ahora mismo a:**
-
-1. Abrir `TAREAS.md`
-2. Reemplazar "Tarea 1", "Tarea 2" con tus tareas reales
-3. Añadir las fechas límite
-4. El agente se encargará del resto mañana
+> Ninguna completada aún.
 
 ---
 
-*Próximo escaneo automático: Mañana por la mañana*
+## 📊 Resumen Ejecutivo
+
+| Métrica              | Valor |
+|----------------------|-------|
+| Tareas urgentes      | 0     |
+| Tareas importantes   | 0     |
+| Tareas normales      | 0     |
+| Completadas hoy      | 0     |
+| **Total activas**    | **0** |
+
+---
+
+## 🚀 Próximo paso
+
+Para que el agente funcione correctamente:
+
+1. Abre **TAREAS.md**
+2. Reemplaza los marcadores ("Tarea 1 - Fecha límite:") con tus tareas reales
+3. Añade fechas límite en formato `DD/MM/AAAA`
+4. El agente las organizará automáticamente en tu próxima agenda
+
+---
+
+*Próximo escaneo automático: mañana por la mañana*
