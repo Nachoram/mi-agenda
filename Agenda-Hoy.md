@@ -1,62 +1,64 @@
-# 📅 Agenda del Día — Domingo, 23 de agosto de 2026
+# 📅 AGENDA DEL DÍA — Martes 25 de Agosto 2026
 
-> Generado automáticamente · Jornada laboral: 9:00–19:00
-
----
-
-## ⚠️ Estado del Sistema
-
-**TAREAS.md no contiene tareas reales.** El archivo está en estado de plantilla (los campos "Tarea 1", "Tarea 2" aún son marcadores de posición sin contenido ni fechas).
-
-➡️ **Acción necesaria**: Abre `TAREAS.md` y rellena tus tareas reales.
+> Generado automáticamente | Jornada: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🔴 URGENTES — Actuar HOY
 
-> Sin tareas urgentes registradas.
+### Trabajo
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
+
+### Personal
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-> Sin tareas importantes registradas.
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-> Sin tareas normales registradas.
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-> Ninguna completada aún.
+*(Sin tareas completadas aún)*
 
 ---
 
-## 📊 Resumen Ejecutivo
+## 📊 RESUMEN EJECUTIVO
 
-| Métrica              | Valor |
-|----------------------|-------|
-| Tareas urgentes      | 0     |
-| Tareas importantes   | 0     |
-| Tareas normales      | 0     |
-| Completadas hoy      | 0     |
-| **Total activas**    | **0** |
-
----
-
-## 🚀 Próximo paso
-
-Para que el agente funcione correctamente:
-
-1. Abre **TAREAS.md**
-2. Reemplaza los marcadores ("Tarea 1 - Fecha límite:") con tus tareas reales
-3. Añade fechas límite en formato `DD/MM/AAAA`
-4. El agente las organizará automáticamente en tu próxima agenda
+| Categoría       | Total |
+|-----------------|-------|
+| 🔴 Urgentes     | 4     |
+| 🟡 Importantes  | 4     |
+| 🟢 Normal       | 4     |
+| ✅ Completadas  | 1     |
+| **Total activas** | **12** |
 
 ---
 
-*Próximo escaneo automático: mañana por la mañana*
+> ⚠️ **ACCIÓN REQUERIDA**: Las tareas en TAREAS.md tienen contenido de ejemplo.
+> Edita TAREAS.md con tus tareas reales para aprovechar al máximo este sistema.
+
+*Próximo escaneo automático: Mañana por la mañana*
