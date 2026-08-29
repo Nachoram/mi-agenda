@@ -1,62 +1,65 @@
-# 📅 AGENDA DEL DÍA — Viernes 28 de Agosto, 2026
+# 📅 AGENDA DE HOY — Sábado 29 de agosto de 2026
 
-> Generada automáticamente | Jornada laboral: 9:00 - 19:00
-
----
-
-## 🚨 ESTADO DE TAREAS
-
-> **Atención**: TAREAS.md aún no tiene tareas reales registradas.
-> Las entradas actuales son plantillas de ejemplo (Tarea 1, Tarea 2).
-> Añade tus tareas reales para que el agente las organice mañana.
+> Generada automáticamente · Horario laboral: 09:00–19:00
 
 ---
 
-## 🔴 URGENTES HOY/MAÑANA
+## 🎯 RESUMEN EJECUTIVO
 
-*No hay tareas urgentes registradas.*
+**Estado del sistema:** ✅ Activo  
+**Tareas pendientes:** 0 reales detectadas  
+**Tareas completadas hoy:** 0  
+
+> ⚠️ **ACCIÓN REQUERIDA:** El archivo `TAREAS.md` aún tiene tareas de plantilla sin rellenar.
+> Edita el archivo y añade tus tareas reales para que la agenda funcione al 100%.
 
 ---
 
-## 🟡 IMPORTANTES — ESTA SEMANA
+## 🔴 URGENTES (Hoy / Mañana)
 
-*No hay tareas importantes registradas.*
+_No se han registrado tareas urgentes._
+
+```
+Añade aquí tareas críticas con fecha límite hoy o mañana
+→ Edita TAREAS.md sección 🔴 URGENTES
+```
 
 ---
 
-## 🟢 NORMAL — PRÓXIMAS SEMANAS
+## 🟡 IMPORTANTES (Esta semana)
 
-*No hay tareas normales registradas.*
+_No se han registrado tareas importantes para esta semana._
+
+```
+Añade aquí tareas con fecha límite esta semana
+→ Edita TAREAS.md sección 🟡 IMPORTANTES
+```
+
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+_No se han registrado tareas de baja urgencia._
+
+```
+Añade aquí tareas sin urgencia inmediata
+→ Edita TAREAS.md sección 🟢 NORMAL
+```
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Sin completadas registradas aún.*
+_Ninguna registrada todavía._
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 💡 CÓMO EMPEZAR
 
-| Métrica | Valor |
-|---|---|
-| Tareas urgentes | 0 |
-| Tareas importantes | 0 |
-| Tareas normales | 0 |
-| Completadas hoy | 0 |
-| **Estado general** | 📋 Agenda vacía |
+1. Abre `TAREAS.md`
+2. Reemplaza los "Tarea 1", "Tarea 2" con tus tareas reales y sus fechas límite
+3. El agente generará tu agenda personalizada en el próximo ciclo automático
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
-
-Para que este sistema funcione, edita **TAREAS.md** y reemplaza las plantillas con tus tareas reales:
-
-```
-- [ ] Nombre real de la tarea - Fecha límite: 2026-08-29
-```
-
-El agente las clasificará y organizará automáticamente cada mañana.
-
----
-*Próximo escaneo: Automático mañana por la mañana*
+_Próximo escaneo automático: mañana por la mañana_
