@@ -1,65 +1,57 @@
-# 📅 AGENDA DE HOY — Sábado 29 de agosto de 2026
+# 📅 Agenda del Día — Domingo, 30 de agosto de 2026
 
-> Generada automáticamente · Horario laboral: 09:00–19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-**Estado del sistema:** ✅ Activo  
-**Tareas pendientes:** 0 reales detectadas  
-**Tareas completadas hoy:** 0  
-
-> ⚠️ **ACCIÓN REQUERIDA:** El archivo `TAREAS.md` aún tiene tareas de plantilla sin rellenar.
-> Edita el archivo y añade tus tareas reales para que la agenda funcione al 100%.
+> Generada automáticamente · Jornada laboral: 09:00 – 19:00
 
 ---
 
-## 🔴 URGENTES (Hoy / Mañana)
+## 🔴 URGENTES — Hoy
 
-_No se han registrado tareas urgentes._
+### Trabajo
+*(Sin tareas urgentes registradas)*
 
-```
-Añade aquí tareas críticas con fecha límite hoy o mañana
-→ Edita TAREAS.md sección 🔴 URGENTES
-```
-
----
-
-## 🟡 IMPORTANTES (Esta semana)
-
-_No se han registrado tareas importantes para esta semana._
-
-```
-Añade aquí tareas con fecha límite esta semana
-→ Edita TAREAS.md sección 🟡 IMPORTANTES
-```
+### Personal
+*(Sin tareas urgentes registradas)*
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟡 IMPORTANTES — Esta semana
 
-_No se han registrado tareas de baja urgencia._
+### Trabajo
+*(Sin tareas importantes registradas)*
 
-```
-Añade aquí tareas sin urgencia inmediata
-→ Edita TAREAS.md sección 🟢 NORMAL
-```
+### Personal
+*(Sin tareas importantes registradas)*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+### Trabajo
+*(Sin tareas normales registradas)*
+
+### Personal
+*(Sin tareas normales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
-
-_Ninguna registrada todavía._
-
----
-
-## 💡 CÓMO EMPEZAR
-
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1", "Tarea 2" con tus tareas reales y sus fechas límite
-3. El agente generará tu agenda personalizada en el próximo ciclo automático
+*(Ninguna completada aún)*
 
 ---
 
-_Próximo escaneo automático: mañana por la mañana_
+## 📊 Resumen Ejecutivo
+
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
+| Completadas hoy | 0 |
+| **Total activas** | **0** |
+
+> ⚠️ **Acción requerida:** El archivo `TAREAS.md` contiene solo la plantilla de ejemplo.
+> Añade tus tareas reales para que el agente pueda organizarte el día de manera efectiva.
+
+---
+
+*Próximo escaneo automático: mañana por la mañana*
