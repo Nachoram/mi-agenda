@@ -1,57 +1,46 @@
-# 📅 Agenda del Día — Domingo, 30 de agosto de 2026
+# 📅 AGENDA DEL DÍA — Lunes 31 de Agosto de 2026
 
-> Generada automáticamente · Jornada laboral: 09:00 – 19:00
-
----
-
-## 🔴 URGENTES — Hoy
-
-### Trabajo
-*(Sin tareas urgentes registradas)*
-
-### Personal
-*(Sin tareas urgentes registradas)*
+> Generada automáticamente | Horario de trabajo: 09:00 - 19:00
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🔴 URGENTES (Hoy / Mañana)
 
-### Trabajo
-*(Sin tareas importantes registradas)*
-
-### Personal
-*(Sin tareas importantes registradas)*
+> ⚠️ No hay tareas urgentes registradas.
+> Añade tareas urgentes en TAREAS.md bajo `## 🔴 URGENTES`.
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟡 IMPORTANTES (Esta semana)
 
-### Trabajo
-*(Sin tareas normales registradas)*
+> ⚠️ No hay tareas importantes registradas.
+> Añade tareas importantes en TAREAS.md bajo `## 🟡 IMPORTANTES`.
 
-### Personal
-*(Sin tareas normales registradas)*
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+> ⚠️ No hay tareas normales registradas.
+> Añade tareas en TAREAS.md bajo `## 🟢 NORMAL`.
 
 ---
 
 ## ✅ COMPLETADAS HOY
-*(Ninguna completada aún)*
+
+> Sin completadas registradas.
 
 ---
 
-## 📊 Resumen Ejecutivo
+## 📊 RESUMEN EJECUTIVO
 
-| Métrica | Valor |
-|---|---|
-| Tareas urgentes | 0 |
-| Tareas importantes | 0 |
-| Tareas normales | 0 |
-| Completadas hoy | 0 |
-| **Total activas** | **0** |
-
-> ⚠️ **Acción requerida:** El archivo `TAREAS.md` contiene solo la plantilla de ejemplo.
-> Añade tus tareas reales para que el agente pueda organizarte el día de manera efectiva.
+| Indicador            | Estado |
+|----------------------|--------|
+| Tareas urgentes      | 0      |
+| Tareas importantes   | 0      |
+| Tareas normales      | 0      |
+| Completadas hoy      | 0      |
+| Próximo escaneo      | Mañana 09:00 (automático) |
 
 ---
 
-*Próximo escaneo automático: mañana por la mañana*
+> **Nota:** TAREAS.md aún tiene solo placeholders. Edítalo para que el agente te genere una agenda real mañana.
