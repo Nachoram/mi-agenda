@@ -1,46 +1,67 @@
-# 📅 AGENDA DEL DÍA — Lunes 31 de Agosto de 2026
+# 📅 AGENDA DEL DÍA — Martes 1 de Septiembre de 2026
 
-> Generada automáticamente | Horario de trabajo: 09:00 - 19:00
-
----
-
-## 🔴 URGENTES (Hoy / Mañana)
-
-> ⚠️ No hay tareas urgentes registradas.
-> Añade tareas urgentes en TAREAS.md bajo `## 🔴 URGENTES`.
+> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🔴 URGENTES — Para hoy/mañana
 
-> ⚠️ No hay tareas importantes registradas.
-> Añade tareas importantes en TAREAS.md bajo `## 🟡 IMPORTANTES`.
+### Trabajo
+- [ ] Tarea 1 — ⚠️ Completar fecha límite
+- [ ] Tarea 2 — ⚠️ Completar fecha límite
+
+### Personal
+- [ ] Tarea 1 — ⚠️ Completar fecha límite
+- [ ] Tarea 2 — ⚠️ Completar fecha límite
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟡 IMPORTANTES — Esta semana
 
-> ⚠️ No hay tareas normales registradas.
-> Añade tareas en TAREAS.md bajo `## 🟢 NORMAL`.
+### Trabajo
+- [ ] Tarea 1 — ⚠️ Completar fecha límite
+- [ ] Tarea 2 — ⚠️ Completar fecha límite
+
+### Personal
+- [ ] Tarea 1 — ⚠️ Completar fecha límite
+- [ ] Tarea 2 — ⚠️ Completar fecha límite
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## ✅ COMPLETADAS HOY
-
-> Sin completadas registradas.
+- *(ninguna registrada aún)*
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-| Indicador            | Estado |
-|----------------------|--------|
-| Tareas urgentes      | 0      |
-| Tareas importantes   | 0      |
-| Tareas normales      | 0      |
-| Completadas hoy      | 0      |
-| Próximo escaneo      | Mañana 09:00 (automático) |
+| Indicador | Valor |
+|---|---|
+| Tareas urgentes | 4 |
+| Tareas importantes | 4 |
+| Tareas normales | 4 |
+| Completadas hoy | 0 |
+| **Total activas** | **12** |
+
+### 💡 NOTA IMPORTANTE
+> Las tareas en TAREAS.md están pendientes de rellenar con detalles reales.
+> Para que la agenda sea útil, actualiza TAREAS.md con:
+> - Nombres descriptivos de cada tarea
+> - Fechas límite concretas
+> El agente la regenerará automáticamente cada mañana.
 
 ---
 
-> **Nota:** TAREAS.md aún tiene solo placeholders. Edítalo para que el agente te genere una agenda real mañana.
+*Próxima generación: Mañana a las 09:00*
