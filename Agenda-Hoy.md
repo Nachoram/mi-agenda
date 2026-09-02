@@ -1,67 +1,53 @@
-# 📅 AGENDA DEL DÍA — Martes 1 de Septiembre de 2026
+# 📅 Agenda del Día — Miércoles 2 de Septiembre de 2026
 
-> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
-
----
-
-## 🔴 URGENTES — Para hoy/mañana
-
-### Trabajo
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
-
-### Personal
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+> Generada automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 📊 Resumen Ejecutivo
 
-### Trabajo
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
-
-### Personal
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+**Estado del sistema:** ⚠️ Sin tareas configuradas aún  
+**Tareas activas:** 0  
+**Completadas hoy:** 0  
+**Próximo escaneo:** Automático cada mañana
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🔴 URGENTES — Para Hoy/Mañana
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
+> _(Sin tareas urgentes registradas)_
 
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+---
+
+## 🟡 IMPORTANTES — Esta Semana
+
+> _(Sin tareas importantes registradas)_
+
+---
+
+## 🟢 NORMAL — Próximas Semanas
+
+> _(Sin tareas normales registradas)_
 
 ---
 
 ## ✅ COMPLETADAS HOY
-- *(ninguna registrada aún)*
+
+> _(Ninguna por ahora)_
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 💡 Acción Recomendada
 
-| Indicador | Valor |
-|---|---|
-| Tareas urgentes | 4 |
-| Tareas importantes | 4 |
-| Tareas normales | 4 |
-| Completadas hoy | 0 |
-| **Total activas** | **12** |
+Tu archivo `TAREAS.md` aún tiene la plantilla de ejemplo sin rellenar.  
+**Tómate 5 minutos ahora para añadir tus tareas reales** y el agente las organizará automáticamente mañana.
 
-### 💡 NOTA IMPORTANTE
-> Las tareas en TAREAS.md están pendientes de rellenar con detalles reales.
-> Para que la agenda sea útil, actualiza TAREAS.md con:
-> - Nombres descriptivos de cada tarea
-> - Fechas límite concretas
-> El agente la regenerará automáticamente cada mañana.
+### Cómo usarlo:
+1. Abre `TAREAS.md`
+2. Reemplaza "Tarea 1", "Tarea 2"... con tus tareas reales
+3. Añade las fechas límite donde corresponda
+4. El agente se encargará del resto cada mañana ✨
 
 ---
 
-*Próxima generación: Mañana a las 09:00*
+_Generado el 2026-09-02 por el Asistente de Agenda Personal_
