@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Viernes, 4 de Septiembre de 2026
+# 📅 Agenda del Día — Sábado, 5 de Septiembre de 2026
 
 > Generado automáticamente por el Agente de Organización Personal
 
@@ -62,4 +62,4 @@
 
 ---
 
-*Próximo escaneo automático: Mañana al iniciar jornada*
+*Próximo escaneo automático: Domingo 6 de Septiembre a las 09:00*
