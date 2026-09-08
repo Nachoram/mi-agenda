@@ -1,67 +1,62 @@
-# 📅 AGENDA DEL DÍA — Martes 1 de Septiembre de 2026
+# 📅 AGENDA DEL DÍA — Martes 8 de Septiembre, 2026
 
-> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
+> Generada automáticamente · Jornada laboral: 09:00 – 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy/mañana
+## 🎯 RESUMEN EJECUTIVO
 
-### Trabajo
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+Tu lista de tareas aún no tiene pendientes reales registrados.  
+**Este es el momento perfecto para definir qué quieres conseguir hoy.**  
+Tómate 5 minutos al inicio de la jornada para actualizar `TAREAS.md` con tus prioridades reales.
 
-### Personal
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+---
+
+## 🔴 URGENTES — Para hoy o mañana
+
+> ⚠️ No hay tareas urgentes registradas.
+
+_Acción sugerida: ¿Hay algo que debas entregar hoy o mañana?  
+Agrégalo en `TAREAS.md` bajo la sección 🔴 URGENTES._
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+> ⚠️ No hay tareas importantes registradas.
 
-### Personal
-- [ ] Tarea 1 — ⚠️ Completar fecha límite
-- [ ] Tarea 2 — ⚠️ Completar fecha límite
+_Acción sugerida: Piensa en tus objetivos de la semana y añádelos._
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
+> ⚠️ No hay tareas normales registradas.
 
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+_Acción sugerida: Proyectos a largo plazo, lecturas pendientes, mejoras personales._
 
 ---
 
 ## ✅ COMPLETADAS HOY
-- *(ninguna registrada aún)*
+
+_Ninguna completada aún — ¡el día acaba de empezar!_
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 💡 SUGERENCIA DE BLOQUE HORARIO
 
-| Indicador | Valor |
-|---|---|
-| Tareas urgentes | 4 |
-| Tareas importantes | 4 |
-| Tareas normales | 4 |
-| Completadas hoy | 0 |
-| **Total activas** | **12** |
-
-### 💡 NOTA IMPORTANTE
-> Las tareas en TAREAS.md están pendientes de rellenar con detalles reales.
-> Para que la agenda sea útil, actualiza TAREAS.md con:
-> - Nombres descriptivos de cada tarea
-> - Fechas límite concretas
-> El agente la regenerará automáticamente cada mañana.
+| Hora | Actividad sugerida |
+|------|-------------------|
+| 09:00 – 09:15 | Revisar y actualizar TAREAS.md |
+| 09:15 – 11:00 | Bloque de trabajo profundo (tarea urgente #1) |
+| 11:00 – 11:15 | Pausa |
+| 11:15 – 13:00 | Bloque de trabajo profundo (tarea urgente #2) |
+| 13:00 – 14:00 | Comida |
+| 14:00 – 16:00 | Tareas importantes de la semana |
+| 16:00 – 17:30 | Reuniones / comunicación / revisiones |
+| 17:30 – 18:30 | Tareas normales o aprendizaje |
+| 18:30 – 19:00 | Revisión del día · Planificar mañana |
 
 ---
 
-*Próxima generación: Mañana a las 09:00*
+> _Agenda generada por el asistente de organización personal · Próximo escaneo: mañana a las 09:00_
