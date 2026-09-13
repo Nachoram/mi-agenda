@@ -1,59 +1,56 @@
-# 📅 AGENDA DEL DÍA — Sábado 12 de Septiembre, 2026
+# 📅 Agenda del Día — Domingo, 13 de Septiembre 2026
 
-> Generado automáticamente | Horario laboral: 09:00 - 19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-**Estado del día:** Sin tareas activas registradas.
-TAREAS.md está listo pero aún no contiene tareas reales. Es el momento ideal para añadir tus pendientes y aprovechar el sistema de organización automática.
+> Generada automáticamente a las 09:00 | Jornada: 09:00–19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy o mañana
+## ⚠️ AVISO IMPORTANTE
 
-> _No hay tareas urgentes registradas._
+El archivo **TAREAS.md** está vacío (solo contiene la plantilla base).
+
+**¡Es hora de cargar tus tareas!** Edita TAREAS.md y agrega tus pendientes reales para que el agente pueda organizarlas correctamente mañana.
+
+---
+
+## 🔴 URGENTES — Para hoy
+
+_Sin tareas urgentes registradas._
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-> _No hay tareas importantes registradas._
+_Sin tareas importantes registradas._
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-> _No hay tareas de prioridad normal registradas._
+_Sin tareas pendientes registradas._
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-> _Ninguna completada aún._
+_Ninguna tarea completada registrada._
 
 ---
 
-## 📊 ESTADÍSTICAS
+## 📊 Resumen Ejecutivo
 
-| Indicador              | Valor |
-|------------------------|-------|
-| Tareas activas         | 0     |
-| Completadas hoy        | 0     |
-| Urgentes pendientes    | 0     |
-| Importantes pendientes | 0     |
-
----
-
-## 💡 ACCIÓN RECOMENDADA
-
-**Rellena tu TAREAS.md** con tus pendientes reales:
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
-3. Añade fechas límite donde corresponda
-4. El agente las organizará automáticamente en la próxima ejecución
+| Métrica              | Valor |
+|----------------------|-------|
+| Tareas urgentes      | 0     |
+| Tareas importantes   | 0     |
+| Tareas normales      | 0     |
+| Completadas hoy      | 0     |
+| **Total activas**    | **0** |
 
 ---
 
-_Próximo escaneo automático: Mañana por la mañana_
+### 💡 Próximo paso recomendado
+
+Abre **TAREAS.md** y agrega tus tareas reales en cada sección. El agente las clasificará automáticamente mañana y generará una agenda personalizada con tus prioridades del día.
+
+---
+_Agenda generada por el agente de organización personal_
