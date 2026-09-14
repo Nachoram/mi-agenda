@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Domingo, 13 de Septiembre 2026
+# 📅 Agenda del Día — Lunes, 14 de Septiembre 2026
 
 > Generada automáticamente a las 09:00 | Jornada: 09:00–19:00
 
@@ -6,9 +6,9 @@
 
 ## ⚠️ AVISO IMPORTANTE
 
-El archivo **TAREAS.md** está vacío (solo contiene la plantilla base).
+El archivo **TAREAS.md** sigue vacío — solo contiene la plantilla base sin tareas reales.
 
-**¡Es hora de cargar tus tareas!** Edita TAREAS.md y agrega tus pendientes reales para que el agente pueda organizarlas correctamente mañana.
+**¡Acción requerida!** Edita `TAREAS.md` con tus pendientes para que el agente pueda organizarte correctamente mañana.
 
 ---
 
@@ -48,9 +48,9 @@ _Ninguna tarea completada registrada._
 
 ---
 
-### 💡 Próximo paso recomendado
+### 💡 Próximo paso
 
-Abre **TAREAS.md** y agrega tus tareas reales en cada sección. El agente las clasificará automáticamente mañana y generará una agenda personalizada con tus prioridades del día.
+Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus pendientes reales. El agente corre cada mañana y generará tu agenda personalizada.
 
 ---
 _Agenda generada por el agente de organización personal_
