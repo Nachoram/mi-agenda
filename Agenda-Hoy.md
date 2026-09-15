@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes, 14 de Septiembre 2026
+# 📅 Agenda del Día — Martes, 15 de Septiembre 2026
 
 > Generada automáticamente a las 09:00 | Jornada: 09:00–19:00
 
