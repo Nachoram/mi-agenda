@@ -1,56 +1,78 @@
-# 📅 Agenda del Día — Martes, 15 de Septiembre 2026
+# 📅 Agenda del Día — 16 de Septiembre 2026
 
-> Generada automáticamente a las 09:00 | Jornada: 09:00–19:00
-
----
-
-## ⚠️ AVISO IMPORTANTE
-
-El archivo **TAREAS.md** sigue vacío — solo contiene la plantilla base sin tareas reales.
-
-**¡Acción requerida!** Edita `TAREAS.md` con tus pendientes para que el agente pueda organizarte correctamente mañana.
+> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy
+## 🎯 Resumen Ejecutivo
 
-_Sin tareas urgentes registradas._
+**Estado de tareas:** La lista maestra (TAREAS.md) aún contiene solo plantillas.
+**Acción requerida:** Reemplaza los marcadores de posición en TAREAS.md con tus tareas reales para que el agente pueda organizarte correctamente.
+
+---
+
+## 🔴 URGENTES — Hoy/Mañana
+
+### Trabajo
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
+
+### Personal
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-_Sin tareas importantes registradas._
+### Trabajo
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
+
+### Personal
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-_Sin tareas pendientes registradas._
+### Trabajo
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
+
+### Personal
+- [ ] Tarea 1 *(sin fecha — pendiente de definir)*
+- [ ] Tarea 2 *(sin fecha — pendiente de definir)*
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas hoy
 
-_Ninguna tarea completada registrada._
-
----
-
-## 📊 Resumen Ejecutivo
-
-| Métrica              | Valor |
-|----------------------|-------|
-| Tareas urgentes      | 0     |
-| Tareas importantes   | 0     |
-| Tareas normales      | 0     |
-| Completadas hoy      | 0     |
-| **Total activas**    | **0** |
+*(Ninguna registrada aún)*
 
 ---
 
-### 💡 Próximo paso
+## 📊 Estadísticas
 
-Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus pendientes reales. El agente corre cada mañana y generará tu agenda personalizada.
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 4 (sin definir) |
+| Tareas importantes | 4 (sin definir) |
+| Tareas normales | 4 (sin definir) |
+| Completadas hoy | 0 |
+| **Total activas** | **12 plantillas** |
 
 ---
-_Agenda generada por el agente de organización personal_
+
+## 💡 Próximo paso
+
+Abre **TAREAS.md** y reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales.
+Ejemplo:
+```
+- [ ] Enviar informe mensual a dirección - Fecha límite: 17/09/2026
+- [ ] Revisar propuesta de cliente XYZ - Fecha límite: 18/09/2026
+```
+
+---
+*Próximo escaneo automático: mañana a las 09:00*
