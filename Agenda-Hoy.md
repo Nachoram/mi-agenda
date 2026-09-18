@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Jueves 17 de Septiembre 2026
+# 📅 Agenda del Día — Viernes 18 de Septiembre 2026
 
 > Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
@@ -6,9 +6,10 @@
 
 ## 🎯 Resumen Ejecutivo
 
-**Fecha:** Jueves, 17 de septiembre de 2026
-**Estado del sistema:** ⚠️ TAREAS.md contiene solo plantillas — sin tareas reales cargadas aún.
-**Acción prioritaria hoy:** Completar TAREAS.md con tus tareas reales y fechas límite concretas.
+**Fecha:** Viernes, 18 de septiembre de 2026  
+**Estado del sistema:** ⚠️ TAREAS.md contiene solo plantillas — sin tareas reales cargadas aún.  
+**Acción prioritaria hoy:** Completar TAREAS.md con tus tareas reales y fechas límite concretas.  
+**Día de la semana:** Cierre de semana — buen momento para revisar pendientes y planificar la próxima.
 
 ---
 
@@ -68,16 +69,16 @@ Abre **TAREAS.md** y reemplaza los marcadores con tus tareas reales. Ejemplo:
 ## 🔴 URGENTES (Hoy o mañana)
 
 ### Trabajo
-- [ ] Enviar informe mensual a dirección - Fecha límite: 17/09/2026
-- [ ] Revisar propuesta cliente XYZ - Fecha límite: 18/09/2026
+- [ ] Enviar informe semanal - Fecha límite: 18/09/2026
+- [ ] Revisar propuesta cliente - Fecha límite: 19/09/2026
 
 ### Personal
-- [ ] Pagar factura del gimnasio - Fecha límite: 17/09/2026
+- [ ] Pagar factura pendiente - Fecha límite: 18/09/2026
 ```
 
 El agente automático procesará las tareas reales en el próximo escaneo.
 
 ---
 
-*Próxima generación automática: Viernes 18 de septiembre de 2026 (09:00)*
+*Próxima generación automática: Lunes 21 de septiembre de 2026 (09:00)*  
 *Generado por: Agente de Organización Personal*
