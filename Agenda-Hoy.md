@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Viernes 18 de Septiembre 2026
+# 📅 Agenda del Día — Domingo 20 de Septiembre 2026
 
 > Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
@@ -6,20 +6,21 @@
 
 ## 🎯 Resumen Ejecutivo
 
-**Fecha:** Viernes, 18 de septiembre de 2026  
-**Estado del sistema:** ⚠️ TAREAS.md contiene solo plantillas — sin tareas reales cargadas aún.  
-**Acción prioritaria hoy:** Completar TAREAS.md con tus tareas reales y fechas límite concretas.  
-**Día de la semana:** Cierre de semana — buen momento para revisar pendientes y planificar la próxima.
+**Fecha:** Domingo, 20 de septiembre de 2026  
+**Día de la semana:** Domingo — jornada de descanso o trabajo tranquilo  
+**Estado del sistema:** ⚠️ TAREAS.md aún contiene solo plantillas sin tareas reales  
+**Acción prioritaria:** Completar TAREAS.md con tus tareas reales y fechas límite  
+**Nota:** Han pasado 2 días desde el último escaneo (viernes 18/09) y aún no hay tareas cargadas.
 
 ---
 
 ## 🔴 URGENTES — Hoy/Mañana
 
 ### Trabajo
-- [ ] *(Sin tareas urgentes registradas — agrega tus tareas reales en TAREAS.md)*
+- [ ] *(Sin tareas urgentes — agrega tus tareas en TAREAS.md)*
 
 ### Personal
-- [ ] *(Sin tareas urgentes registradas — agrega tus tareas reales en TAREAS.md)*
+- [ ] *(Sin tareas urgentes — agrega tus tareas en TAREAS.md)*
 
 ---
 
@@ -53,9 +54,9 @@
 
 | Métrica | Valor |
 |---|---|
-| Tareas urgentes | 0 reales (plantillas vacías) |
-| Tareas importantes | 0 reales (plantillas vacías) |
-| Tareas normales | 0 reales (plantillas vacías) |
+| Tareas urgentes | 0 reales |
+| Tareas importantes | 0 reales |
+| Tareas normales | 0 reales |
 | Completadas hoy | 0 |
 | **Total activas** | **0 tareas reales** |
 
@@ -69,11 +70,11 @@ Abre **TAREAS.md** y reemplaza los marcadores con tus tareas reales. Ejemplo:
 ## 🔴 URGENTES (Hoy o mañana)
 
 ### Trabajo
-- [ ] Enviar informe semanal - Fecha límite: 18/09/2026
-- [ ] Revisar propuesta cliente - Fecha límite: 19/09/2026
+- [ ] Enviar informe semanal - Fecha límite: 22/09/2026
+- [ ] Revisar propuesta cliente - Fecha límite: 23/09/2026
 
 ### Personal
-- [ ] Pagar factura pendiente - Fecha límite: 18/09/2026
+- [ ] Pagar factura pendiente - Fecha límite: 21/09/2026
 ```
 
 El agente automático procesará las tareas reales en el próximo escaneo.
