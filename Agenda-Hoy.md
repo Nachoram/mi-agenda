@@ -1,4 +1,4 @@
-# 📅 Agenda del Día — Lunes 21 de Septiembre 2026
+# 📅 Agenda del Día — Martes 22 de Septiembre 2026
 
 > Generado automáticamente a las 09:00 | Jornada: 9:00–19:00
 
@@ -6,9 +6,11 @@
 
 ## 🚀 Resumen Ejecutivo
 
-**Estado del día:** ⚠️ Sin tareas activas — TAREAS.md está en blanco.
+**Estado del día:** ⚠️ Sin tareas activas — TAREAS.md aún no tiene tareas reales.
 
-Tu sistema de agenda está funcionando correctamente, pero aún no has registrado tareas concretas. Para que el agente te ayude de verdad, ve a `TAREAS.md` y sustituye los marcadores de posición ("Tarea 1", "Tarea 2") por tus tareas reales con fechas límite.
+Tu sistema de agenda está funcionando perfectamente y se ejecutó hoy a las 09:00. Sin embargo, **TAREAS.md** solo contiene los marcadores de posición del template. Para que el agente te sea realmente útil, necesitas registrar tus tareas concretas.
+
+**Acción requerida:** Abre `TAREAS.md` y reemplaza los placeholders por tus tareas reales.
 
 ---
 
@@ -36,12 +38,26 @@ Tu sistema de agenda está funcionando correctamente, pero aún no has registrad
 
 ---
 
-## 📌 Próximos pasos
+## 📌 Cómo agregar tareas — Guía rápida
 
-1. Abre `TAREAS.md`
-2. Reemplaza los placeholders con tus tareas reales
-3. Añade fechas límite concretas (ej. `Fecha límite: 22/09/2026`)
-4. El agente se ejecuta cada mañana y generará una agenda útil automáticamente
+Abre `TAREAS.md` y escribe tus tareas reales siguiendo el formato:
+
+```
+- [ ] Nombre de la tarea - Fecha límite: 22/09/2026
+```
+
+**Ejemplos por categoría:**
+
+🔴 **URGENTES** (hoy o mañana):
+- [ ] Revisar contrato cliente X - Fecha límite: 22/09/2026
+- [ ] Llamar a proveedor - Fecha límite: 23/09/2026
+
+🟡 **IMPORTANTES** (esta semana):
+- [ ] Preparar presentación reunión - Fecha límite: 25/09/2026
+- [ ] Pagar factura mensual - Fecha límite: 26/09/2026
+
+🟢 **NORMAL** (próximas semanas):
+- [ ] Organizar archivos del trimestre - Fecha límite: 05/10/2026
 
 ---
 
