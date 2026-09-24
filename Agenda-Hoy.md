@@ -1,64 +1,53 @@
-# 📅 Agenda del Día — Miércoles 23 de Septiembre 2026
+# 📅 Agenda del Día — Jueves, 24 de Septiembre 2026
 
-> Generado automáticamente a las 09:00 | Jornada: 9:00–19:00
-
----
-
-## 🚀 Resumen Ejecutivo
-
-**Estado del día:** ⚠️ Sin tareas activas — TAREAS.md aún no tiene tareas reales.
-
-Tu sistema de agenda está operativo y se ejecutó correctamente hoy a las 09:00. Sin embargo, **TAREAS.md** sigue conteniendo solo los marcadores de posición del template original. Para que el agente te sea útil de verdad, necesitas registrar tus tareas concretas.
-
-**Acción requerida:** Abre `TAREAS.md` y reemplaza los placeholders por tus tareas reales.
+> Generado automáticamente a las 09:00 | Jornada: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy o mañana
+## 🔴 URGENTES — Acción inmediata
 
-*(Sin tareas urgentes registradas)*
+> ⚠️ No hay tareas urgentes registradas. Actualiza TAREAS.md si tienes pendientes para hoy o mañana.
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-*(Sin tareas importantes registradas)*
+> ⚠️ No hay tareas importantes registradas. Revisa y completa TAREAS.md.
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-*(Sin tareas normales registradas)*
+> ⚠️ No hay tareas de seguimiento registradas.
 
 ---
 
-## ✅ Completadas hoy
+## ✅ COMPLETADAS HOY
 
-*(Ninguna completada aún)*
-
----
-
-## 📌 Cómo agregar tareas — Guía rápida
-
-Abre `TAREAS.md` y escribe tus tareas reales siguiendo el formato:
-
-```
-- [ ] Nombre de la tarea - Fecha límite: 23/09/2026
-```
-
-**Ejemplos por categoría:**
-
-🔴 **URGENTES** (hoy o mañana):
-- [ ] Revisar contrato cliente X - Fecha límite: 23/09/2026
-- [ ] Llamar a proveedor - Fecha límite: 24/09/2026
-
-🟡 **IMPORTANTES** (esta semana):
-- [ ] Preparar presentación reunión - Fecha límite: 26/09/2026
-- [ ] Pagar factura mensual - Fecha límite: 27/09/2026
-
-🟢 **NORMAL** (próximas semanas):
-- [ ] Organizar archivos del trimestre - Fecha límite: 05/10/2026
+> Aún no hay tareas completadas. ¡El día acaba de empezar!
 
 ---
 
-*Próxima actualización automática: mañana a las 09:00*
+## 📊 RESUMEN EJECUTIVO
+
+| Indicador | Valor |
+|---|---|
+| Fecha | 24 Sep 2026 |
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
+| Completadas hoy | 0 |
+| Estado general | 🟡 Lista de tareas vacía |
+
+---
+
+## 💡 PRÓXIMOS PASOS
+
+1. **Abre TAREAS.md** y reemplaza los placeholders con tus tareas reales.
+2. **Asigna fechas límite** para que el agente pueda priorizarlas correctamente.
+3. **Marca como completadas** las tareas que vayas terminando.
+4. El agente **re-generará esta agenda** automáticamente en el próximo ciclo.
+
+---
+
+> _Agenda generada por el Asistente de Organización Personal_
