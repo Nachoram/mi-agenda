@@ -1,57 +1,76 @@
-# 📅 Agenda del Día — Domingo 27 de Septiembre, 2026
+# 📅 AGENDA DEL DÍA — Lunes 28 de Septiembre 2026
 
-> Generado automáticamente a las 9:00 | Jornada: 9:00–19:00
-
----
-
-## 🎯 Resumen Ejecutivo
-
-**Estado del día:** Sin tareas pendientes registradas en TAREAS.md.
-**Acción recomendada:** Agrega tus tareas reales en `TAREAS.md` para que el agente las organice mañana.
+> Generado automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy/mañana
+## 🎯 RESUMEN EJECUTIVO
 
-*No hay tareas urgentes registradas.*
+**Estado del sistema:** ⚠️ Las tareas en TAREAS.md aún son marcadores de posición.
+**Acción requerida:** Rellena TAREAS.md con tus tareas reales para que la agenda funcione al 100%.
+
+---
+
+## 🔴 URGENTES — Hacer HOY
+
+### Trabajo
+- [ ] Tarea 1 _(sin fecha límite definida)_
+- [ ] Tarea 2 _(sin fecha límite definida)_
+
+### Personal
+- [ ] Tarea 1 _(sin fecha límite definida)_
+- [ ] Tarea 2 _(sin fecha límite definida)_
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-*No hay tareas importantes registradas.*
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-*No hay tareas normales registradas.*
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Ninguna completada aún.*
+- ✅ _(ninguna registrada aún)_
 
 ---
 
-## 📊 Estadísticas del Día
+## 📊 ESTADÍSTICAS DEL DÍA
 
-| Categoría         | Total |
-|-------------------|-------|
-| 🔴 Urgentes       | 0     |
-| 🟡 Importantes    | 0     |
-| 🟢 Normal         | 0     |
-| ✅ Completadas    | 0     |
-| **TOTAL ACTIVAS** | **0** |
+| Categoría | Total |
+|-----------|-------|
+| 🔴 Urgentes | 4 |
+| 🟡 Importantes | 4 |
+| 🟢 Normal | 4 |
+| ✅ Completadas | 0 |
+| **Total activas** | **12** |
 
 ---
 
-## 💡 Recordatorio
+## 💡 PRÓXIMOS PASOS
 
-Tu `TAREAS.md` está listo para recibir tareas reales. Cuando las agregues:
-- El agente las escaneará automáticamente cada mañana
-- Organizará las prioridades por urgencia
-- Generará esta agenda con tus tareas reales
+1. **Abre TAREAS.md** y reemplaza "Tarea 1 / Tarea 2" con tus tareas reales
+2. **Añade fechas límite** para que las urgencias se calculen correctamente
+3. **Al completar una tarea**, márcala con `- [x]` en TAREAS.md
 
-*¡Hoy es un buen día para planificar la semana!* 🚀
+---
+
+_Próximo escaneo automático: mañana a las 09:00_
