@@ -1,57 +1,63 @@
-# 📅 AGENDA DEL DÍA — Miércoles 30 de Septiembre de 2026
+# 📅 AGENDA DEL DÍA — Jueves 1 de Octubre de 2026
 
-> Generado automáticamente · Jornada: 9:00–19:00
-
----
-
-## 🚦 RESUMEN EJECUTIVO
-
-| Estado | Cantidad |
-|--------|----------|
-| 🔴 Urgentes hoy | 0 |
-| 🟡 Importantes esta semana | 0 |
-| 🟢 Normales | 0 |
-| ✅ Completadas hoy | 0 |
-
-> **📝 Nota:** El archivo TAREAS.md aún tiene sólo las tareas de ejemplo del template.  
-> Añade tus tareas reales en TAREAS.md y el agente las organizará automáticamente.
+> Generada automáticamente a las 09:00 | Jornada: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy
+## 🔴 URGENTES — Acción inmediata
 
-*No hay tareas urgentes. ¡Aprovecha para avanzar con las importantes!*
+### Trabajo
+- [ ] Tarea 1 *(completar fecha límite en TAREAS.md)*
+- [ ] Tarea 2 *(completar fecha límite en TAREAS.md)*
+
+### Personal
+- [ ] Tarea 1 *(completar fecha límite en TAREAS.md)*
+- [ ] Tarea 2 *(completar fecha límite en TAREAS.md)*
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-*No hay tareas importantes registradas.*
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟢 NORMAL — Sin prisa inmediata
 
-*No hay tareas normales registradas.*
+### Trabajo
+- [ ] Tarea 1
+- [ ] Tarea 2
+
+### Personal
+- [ ] Tarea 1
+- [ ] Tarea 2
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Ninguna completada todavía. ¡El día acaba de comenzar!*
+- ✅ Tarea completada *(registrada en TAREAS.md)*
 
 ---
 
-## 💡 CONSEJO DEL DÍA
+## 📊 RESUMEN EJECUTIVO
 
-Hoy es un buen día para revisar y poblar tu TAREAS.md con tus proyectos y compromisos reales. Una vez que agregues tus tareas, este agente las organizará cada mañana automáticamente por prioridad.
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 4 |
+| Tareas importantes | 4 |
+| Tareas normales | 4 |
+| Completadas hoy | 1 |
+| **Total activas** | **12** |
 
-**Pasos sugeridos:**
-1. Abre `TAREAS.md`
-2. Reemplaza los placeholders con tus tareas reales
-3. Agrega fechas límite donde aplique
-4. El agente hará el resto mañana a las 9:00
+> ⚠️ **Nota:** TAREAS.md contiene tareas plantilla sin contenido real. Añade tus tareas concretas con nombres y fechas límite para obtener una agenda útil.
 
 ---
 
-*Próximo escaneo automático: Mañana a las 9:00*
+*Próximo escaneo automático: mañana 09:00*
