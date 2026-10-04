@@ -1,18 +1,18 @@
-# 📅 AGENDA DEL DÍA — Jueves 1 de Octubre de 2026
+# 📅 Agenda del Día — Domingo, 4 de Octubre 2026
 
-> Generada automáticamente a las 09:00 | Jornada: 9:00–19:00
+**Generado automáticamente** | Jornada laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Acción inmediata
+## 🔴 URGENTES — Para hoy/mañana
 
 ### Trabajo
-- [ ] Tarea 1 *(completar fecha límite en TAREAS.md)*
-- [ ] Tarea 2 *(completar fecha límite en TAREAS.md)*
+- [ ] Tarea 1 *(fecha límite pendiente de completar)*
+- [ ] Tarea 2 *(fecha límite pendiente de completar)*
 
 ### Personal
-- [ ] Tarea 1 *(completar fecha límite en TAREAS.md)*
-- [ ] Tarea 2 *(completar fecha límite en TAREAS.md)*
+- [ ] Tarea 1 *(fecha límite pendiente de completar)*
+- [ ] Tarea 2 *(fecha límite pendiente de completar)*
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🟢 NORMAL — Sin prisa inmediata
+## 🟢 NORMAL — Próximas semanas
 
 ### Trabajo
 - [ ] Tarea 1
@@ -40,24 +40,23 @@
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas hoy
 
-- ✅ Tarea completada *(registrada en TAREAS.md)*
+*(Ninguna registrada aún)*
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 📊 Resumen Ejecutivo
 
-| Métrica | Valor |
-|---|---|
-| Tareas urgentes | 4 |
-| Tareas importantes | 4 |
-| Tareas normales | 4 |
-| Completadas hoy | 1 |
+| Categoría | Tareas |
+|-----------|--------|
+| 🔴 Urgentes | 4 |
+| 🟡 Importantes | 4 |
+| 🟢 Normal | 4 |
+| ✅ Completadas | 0 |
 | **Total activas** | **12** |
 
-> ⚠️ **Nota:** TAREAS.md contiene tareas plantilla sin contenido real. Añade tus tareas concretas con nombres y fechas límite para obtener una agenda útil.
+> ⚠️ **Nota**: Las tareas en TAREAS.md aún son plantillas sin contenido real. Actualiza TAREAS.md con tus tareas concretas para obtener una agenda personalizada.
 
 ---
-
-*Próximo escaneo automático: mañana 09:00*
+*Próximo escaneo automático: mañana por la mañana*
