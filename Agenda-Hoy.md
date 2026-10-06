@@ -1,34 +1,34 @@
-# 📅 AGENDA DEL DÍA — Lunes 5 de Octubre de 2026
+# 📅 AGENDA DEL DÍA — Martes 06 de Octubre de 2026
 
-> Generada automáticamente | Jornada: 9:00 – 19:00
+> Generado automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES (Hoy / Mañana)
+## 🔴 URGENTES — Hoy/Mañana
 
 ### Trabajo
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ### Personal
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🟡 IMPORTANTES — Esta Semana
 
 ### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+- [ ] Tarea 1 *(sin fecha límite asignada)*
+- [ ] Tarea 2 *(sin fecha límite asignada)*
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟢 NORMAL — Próximas Semanas
 
 ### Trabajo
 - [ ] Tarea 1
@@ -41,26 +41,18 @@
 ---
 
 ## ✅ COMPLETADAS HOY
-
 *(Ninguna registrada aún)*
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-| Métrica              | Valor |
-|----------------------|-------|
-| Tareas urgentes      | 4     |
-| Tareas importantes   | 4     |
-| Tareas normales      | 4     |
-| **Total activas**    | **12**|
-| Completadas hoy      | 0     |
-| Progreso del día     | 0%    |
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 4 |
+| Tareas importantes | 4 |
+| Tareas normales | 4 |
+| Completadas hoy | 0 |
+| **Total activas** | **12** |
 
----
-
-> ⚠️ **Nota:** Las tareas en TAREAS.md aún usan nombres de plantilla ("Tarea 1", "Tarea 2").
-> Edita TAREAS.md con tus tareas reales para que la agenda sea útil.
-
----
-*Próximo escaneo automático: mañana por la mañana*
+> ⚠️ **Nota**: Las tareas en TAREAS.md son plantillas sin contenido real. Actualiza TAREAS.md con tus tareas reales para aprovechar al máximo la agenda automática.
