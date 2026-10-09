@@ -1,60 +1,64 @@
-# 📅 AGENDA DEL DÍA — Jueves 08 de Octubre 2026
+# 📅 AGENDA DEL DÍA — Viernes 9 de Octubre, 2026
 
-> Generado automáticamente · Jornada laboral: 9:00–19:00
+> Generado automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🎯 RESUMEN EJECUTIVO
 
-### Trabajo
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+**Estado del sistema:** ⚠️ TAREAS.md está vacío — aún no se han cargado tareas reales.
 
-### Personal
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+Para que el agente genere una agenda útil cada mañana, debes rellenar TAREAS.md con tus tareas reales antes de que el escaneo automático se ejecute.
+
+---
+
+## 🔴 URGENTES — Para hoy/mañana
+
+> *(Sin tareas urgentes registradas)*
+
+**¿Tienes algo urgente?** Añádelo en TAREAS.md → sección `## 🔴 URGENTES`
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
+> *(Sin tareas importantes registradas)*
 
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+**¿Tienes pendientes de esta semana?** Añádelos en TAREAS.md → sección `## 🟡 IMPORTANTES`
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-### Trabajo
-- [ ] Tarea 1
-- [ ] Tarea 2
-
-### Personal
-- [ ] Tarea 1
-- [ ] Tarea 2
+> *(Sin tareas normales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Sin tareas completadas registradas aún)*
+> *(Ninguna registrada aún)*
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 📊 ESTADÍSTICAS DEL DÍA
 
-| | |
+| Métrica | Valor |
 |---|---|
-| **Fecha** | Jueves 08/10/2026 |
-| **Tareas activas** | 12 (todas pendientes de detalle) |
-| **Completadas hoy** | 0 |
-| **Estado general** | ⚠️ TAREAS.md necesita ser rellenado con tareas reales |
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
+| Completadas hoy | 0 |
+| **Progreso** | — |
 
 ---
 
-> 💡 **Próximo paso:** Abre `TAREAS.md` y rellena las tareas con nombres reales y fechas límite. El agente las organizará automáticamente mañana.
+## 💡 PRÓXIMOS PASOS
+
+1. Abre **TAREAS.md** y reemplaza los ejemplos con tus tareas reales
+2. Asigna fechas límite a cada tarea
+3. Marca como `✅` las que vayas completando durante el día
+4. El agente leerá el archivo cada mañana y regenerará esta agenda automáticamente
+
+---
+
+*⏰ Próximo escaneo automático: Mañana por la mañana*
