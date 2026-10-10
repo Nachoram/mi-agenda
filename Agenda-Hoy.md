@@ -1,42 +1,39 @@
-# 📅 AGENDA DEL DÍA — Viernes 9 de Octubre, 2026
+# 📅 AGENDA HOY — Sábado, 10 de Octubre 2026
 
-> Generado automáticamente | Horario laboral: 9:00–19:00
+> Generado automáticamente | Horario laboral: 9:00 – 19:00
 
 ---
 
 ## 🎯 RESUMEN EJECUTIVO
 
-**Estado del sistema:** ⚠️ TAREAS.md está vacío — aún no se han cargado tareas reales.
+**Estado de tareas:** No hay tareas pendientes registradas en TAREAS.md.  
+La plantilla está lista pero aún no se han añadido tareas concretas.
 
-Para que el agente genere una agenda útil cada mañana, debes rellenar TAREAS.md con tus tareas reales antes de que el escaneo automático se ejecute.
-
----
-
-## 🔴 URGENTES — Para hoy/mañana
-
-> *(Sin tareas urgentes registradas)*
-
-**¿Tienes algo urgente?** Añádelo en TAREAS.md → sección `## 🔴 URGENTES`
+**Acción recomendada:** Abre `TAREAS.md` y rellena tus tareas reales de hoy.
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🔴 URGENTES (Hoy/Mañana)
 
-> *(Sin tareas importantes registradas)*
-
-**¿Tienes pendientes de esta semana?** Añádelos en TAREAS.md → sección `## 🟡 IMPORTANTES`
+*Sin tareas urgentes registradas.*
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟡 IMPORTANTES (Esta semana)
 
-> *(Sin tareas normales registradas)*
+*Sin tareas importantes registradas.*
+
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+*Sin tareas normales registradas.*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-> *(Ninguna registrada aún)*
+*Sin tareas completadas aún.*
 
 ---
 
@@ -47,18 +44,16 @@ Para que el agente genere una agenda útil cada mañana, debes rellenar TAREAS.m
 | Tareas urgentes | 0 |
 | Tareas importantes | 0 |
 | Tareas normales | 0 |
-| Completadas hoy | 0 |
-| **Progreso** | — |
+| Completadas | 0 |
+| **Total activas** | **0** |
 
 ---
 
-## 💡 PRÓXIMOS PASOS
+## 💡 PRÓXIMO PASO
 
-1. Abre **TAREAS.md** y reemplaza los ejemplos con tus tareas reales
-2. Asigna fechas límite a cada tarea
-3. Marca como `✅` las que vayas completando durante el día
-4. El agente leerá el archivo cada mañana y regenerará esta agenda automáticamente
+1. Abre **TAREAS.md**
+2. Reemplaza los placeholders por tus tareas reales con fechas límite
+3. El agente generará una agenda detallada en la próxima ejecución
 
 ---
-
-*⏰ Próximo escaneo automático: Mañana por la mañana*
+*Agenda generada el 2026-10-10 | Sistema de agenda automática*
