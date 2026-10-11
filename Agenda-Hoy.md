@@ -1,59 +1,59 @@
-# 📅 AGENDA HOY — Sábado, 10 de Octubre 2026
+# 📅 AGENDA DEL DÍA — Domingo, 11 de Octubre 2026
 
-> Generado automáticamente | Horario laboral: 9:00 – 19:00
+> Generado automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
 ## 🎯 RESUMEN EJECUTIVO
 
-**Estado de tareas:** No hay tareas pendientes registradas en TAREAS.md.  
-La plantilla está lista pero aún no se han añadido tareas concretas.
+**Estado del sistema**: El archivo TAREAS.md está configurado y listo, pero aún no contiene tareas reales. Hoy es un buen momento para llenarlo con tus pendientes concretos.
 
-**Acción recomendada:** Abre `TAREAS.md` y rellena tus tareas reales de hoy.
-
----
-
-## 🔴 URGENTES (Hoy/Mañana)
-
-*Sin tareas urgentes registradas.*
+**Tareas activas**: 0 reales (solo plantillas)
+**Completadas hoy**: 0
+**Recomendación**: Dedica los primeros 10 minutos del día a actualizar TAREAS.md con tus pendientes reales.
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🔴 URGENTES — Para hoy/mañana
 
-*Sin tareas importantes registradas.*
+> ⚠️ No hay tareas urgentes registradas. Verifica TAREAS.md.
+
+| # | Área | Tarea | Fecha límite |
+|---|------|-------|-------------|
+| — | Trabajo | *(sin datos)* | — |
+| — | Personal | *(sin datos)* | — |
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟡 IMPORTANTES — Esta semana
 
-*Sin tareas normales registradas.*
+> No hay tareas importantes registradas.
+
+| # | Área | Tarea | Fecha límite |
+|---|------|-------|-------------|
+| — | Trabajo | *(sin datos)* | — |
+| — | Personal | *(sin datos)* | — |
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+> No hay tareas de prioridad normal registradas.
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Sin tareas completadas aún.*
+*(Ninguna registrada aún)*
 
 ---
 
-## 📊 ESTADÍSTICAS DEL DÍA
+## 📝 ACCIÓN RECOMENDADA PARA HOY
 
-| Métrica | Valor |
-|---|---|
-| Tareas urgentes | 0 |
-| Tareas importantes | 0 |
-| Tareas normales | 0 |
-| Completadas | 0 |
-| **Total activas** | **0** |
+1. **Abre TAREAS.md** y reemplaza las plantillas con tus tareas reales
+2. **Añade fechas límite** concretas a cada tarea
+3. El agente generará mañana una agenda completa y priorizada
 
 ---
 
-## 💡 PRÓXIMO PASO
-
-1. Abre **TAREAS.md**
-2. Reemplaza los placeholders por tus tareas reales con fechas límite
-3. El agente generará una agenda detallada en la próxima ejecución
-
----
-*Agenda generada el 2026-10-10 | Sistema de agenda automática*
+*Próximo escaneo automático: mañana por la mañana*
