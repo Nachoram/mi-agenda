@@ -1,59 +1,72 @@
-# 📅 AGENDA HOY — Sábado, 10 de Octubre 2026
+# 📅 AGENDA DEL DÍA — Lunes 12 de Octubre 2026
 
-> Generado automáticamente | Horario laboral: 9:00 – 19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-**Estado de tareas:** No hay tareas pendientes registradas en TAREAS.md.  
-La plantilla está lista pero aún no se han añadido tareas concretas.
-
-**Acción recomendada:** Abre `TAREAS.md` y rellena tus tareas reales de hoy.
+> Generada automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
 ## 🔴 URGENTES (Hoy/Mañana)
 
-*Sin tareas urgentes registradas.*
+> ⚠️ **Sin tareas urgentes registradas.** Revisa TAREAS.md y añade tus tareas reales.
+
+### Trabajo
+- [ ] *(Pendiente de configurar)*
+
+### Personal
+- [ ] *(Pendiente de configurar)*
 
 ---
 
 ## 🟡 IMPORTANTES (Esta semana)
 
-*Sin tareas importantes registradas.*
+> ℹ️ Sin tareas importantes activas esta semana.
+
+### Trabajo
+- [ ] *(Pendiente de configurar)*
+
+### Personal
+- [ ] *(Pendiente de configurar)*
 
 ---
 
 ## 🟢 NORMAL (Próximas semanas)
 
-*Sin tareas normales registradas.*
+> ℹ️ Sin tareas normales registradas.
+
+### Trabajo
+- [ ] *(Pendiente de configurar)*
+
+### Personal
+- [ ] *(Pendiente de configurar)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Sin tareas completadas aún.*
+*(Ninguna registrada)*
 
 ---
 
-## 📊 ESTADÍSTICAS DEL DÍA
+## 📊 RESUMEN EJECUTIVO
 
 | Métrica | Valor |
 |---|---|
 | Tareas urgentes | 0 |
 | Tareas importantes | 0 |
 | Tareas normales | 0 |
-| Completadas | 0 |
+| Completadas hoy | 0 |
 | **Total activas** | **0** |
 
 ---
 
-## 💡 PRÓXIMO PASO
+## 💡 ACCIÓN RECOMENDADA
 
-1. Abre **TAREAS.md**
-2. Reemplaza los placeholders por tus tareas reales con fechas límite
-3. El agente generará una agenda detallada en la próxima ejecución
+**TAREAS.md está vacío.** Para que este sistema funcione:
+
+1. Abre `TAREAS.md`
+2. Reemplaza los ejemplos ("Tarea 1", "Tarea 2") con tus tareas reales
+3. Asigna fechas límite donde corresponda
+4. El agente generará tu agenda diaria automáticamente cada mañana
 
 ---
-*Agenda generada el 2026-10-10 | Sistema de agenda automática*
+
+*Próximo escaneo automático: Mañana por la mañana*
