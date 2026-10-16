@@ -1,69 +1,65 @@
-# 📅 AGENDA DEL DÍA — Jueves 15 de Octubre, 2026
+# 📅 Agenda del Día — Viernes 16 de Octubre 2026
 
-> Generada automáticamente | Horario laboral: 9:00–19:00
-
----
-
-## 🚨 RESUMEN EJECUTIVO
-
-**Estado actual:** TAREAS.md sin tareas concretas — las secciones están vacías (solo plantillas).
-**Acción recomendada:** Rellena TAREAS.md con tus tareas reales para que el agente pueda organizarte el día.
+> Generada automáticamente a las 12:06 UTC | Jornada: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Para Hoy / Mañana
+## 🔴 URGENTES — Hoy / Mañana
 
 ### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas urgentes personales registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
-## 🟡 IMPORTANTES — Esta Semana
+## 🟡 IMPORTANTES — Esta semana
 
 ### Trabajo
-- [ ] *(Sin tareas importantes de trabajo registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas importantes personales registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
-## 🟢 NORMAL — Próximas Semanas
+## 🟢 NORMAL — Próximas semanas
 
 ### Trabajo
-- [ ] *(Sin tareas normales de trabajo registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas normales personales registradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Nada completado aún hoy)*
+*(Ninguna completada todavía)*
 
 ---
 
-## 📊 ESTADÍSTICAS DEL DÍA
+## 📊 RESUMEN EJECUTIVO
 
 | Métrica | Valor |
 |---|---|
-| Tareas activas | 0 |
+| Tareas urgentes | 4 |
+| Tareas importantes | 4 |
+| Tareas normales | 4 |
 | Completadas hoy | 0 |
-| Urgentes pendientes | 0 |
-| Fecha | 15/10/2026 |
+| **Total activas** | **12** |
 
 ---
 
-## 💡 PRÓXIMOS PASOS
-
-1. Abre `TAREAS.md` y reemplaza las entradas de ejemplo con tus tareas reales
-2. Asigna fechas límite a cada tarea
-3. El agente volverá a escanear mañana por la mañana y generará tu agenda actualizada
+> ⚠️ **Nota:** Las tareas aún son plantillas genéricas. Para aprovechar mejor este sistema,
+> edita **TAREAS.md** y añade tus tareas reales con nombres descriptivos y fechas límite.
 
 ---
-
-*Próximo escaneo automático: mañana a las 9:00*
+*Próximo escaneo automático: mañana por la mañana*
