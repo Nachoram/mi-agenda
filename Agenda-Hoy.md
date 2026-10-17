@@ -4,12 +4,6 @@
 
 ---
 
-## 🎯 RESUMEN EJECUTIVO
-
-> ⚠️ El archivo TAREAS.md no tiene tareas reales aún. Las secciones muestran tareas de ejemplo ("Tarea 1", "Tarea 2") sin fechas límite ni descripciones. **Añade tus tareas reales en TAREAS.md** para que el agente pueda organizar tu día correctamente.
-
----
-
 ## 🔴 URGENTES — Hoy/Mañana
 
 ### Trabajo
@@ -52,21 +46,20 @@
 
 ---
 
-## 📊 ESTADÍSTICAS
+## 📊 RESUMEN EJECUTIVO
 
 | Métrica | Valor |
 |---------|-------|
-| Tareas urgentes | 4 (por rellenar) |
-| Tareas importantes | 4 (por rellenar) |
-| Tareas normales | 4 (por rellenar) |
+| Tareas urgentes | 4 |
+| Tareas importantes | 4 |
+| Tareas normales | 4 |
 | Completadas hoy | 0 |
 | **Total activas** | **12** |
 
 ---
 
-## 💡 PRÓXIMO PASO
-
-Edita `TAREAS.md` y reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales, añadiendo fechas límite. El agente volverá mañana a generar una agenda actualizada.
+> ⚠️ **Nota:** Las tareas aún son plantillas genéricas. Para aprovechar mejor este sistema,
+> edita **TAREAS.md** y añade tus tareas reales con nombres descriptivos y fechas límite.
 
 ---
-*Generado por el Agente de Agenda Personal*
+*Próximo escaneo automático: mañana por la mañana*
