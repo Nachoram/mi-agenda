@@ -1,51 +1,54 @@
-# 📅 AGENDA DEL DÍA - Martes 13 de Octubre 2026
+# 📅 AGENDA DEL DÍA — Sábado, 17 de Octubre 2026
 
-> Generado automáticamente | Jornada laboral: 09:00 - 19:00
+> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
 
 ---
 
 ## 🎯 RESUMEN EJECUTIVO
 
-**Estado del sistema**: ⚠️ Sin tareas configuradas
-El archivo TAREAS.md contiene solo el template de ejemplo. No hay tareas reales registradas aún.
-
-**Acción recomendada**: Abre `TAREAS.md` y agrega tus tareas reales en cada sección.
+> ⚠️ El archivo TAREAS.md no tiene tareas reales aún. Las secciones muestran tareas de ejemplo ("Tarea 1", "Tarea 2") sin fechas límite ni descripciones. **Añade tus tareas reales en TAREAS.md** para que el agente pueda organizar tu día correctamente.
 
 ---
 
-## 🔴 URGENTES (Hoy/Mañana)
+## 🔴 URGENTES — Hoy/Mañana
 
 ### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas urgentes personales configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🟡 IMPORTANTES — Esta semana
 
 ### Trabajo
-- [ ] *(Sin tareas importantes de trabajo configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas importantes personales configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟢 NORMAL — Próximas semanas
 
 ### Trabajo
-- [ ] *(Sin tareas normales de trabajo configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ### Personal
-- [ ] *(Sin tareas normales personales configuradas)*
+- [ ] Tarea 1 *(sin fecha límite definida)*
+- [ ] Tarea 2 *(sin fecha límite definida)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Ninguna registrada)*
+- *(Ninguna registrada aún)*
 
 ---
 
@@ -53,19 +56,17 @@ El archivo TAREAS.md contiene solo el template de ejemplo. No hay tareas reales 
 
 | Métrica | Valor |
 |---------|-------|
-| Tareas activas | 0 |
+| Tareas urgentes | 4 (por rellenar) |
+| Tareas importantes | 4 (por rellenar) |
+| Tareas normales | 4 (por rellenar) |
 | Completadas hoy | 0 |
-| Progreso | — |
-| Próximo escaneo | Mañana automático |
+| **Total activas** | **12** |
 
 ---
 
 ## 💡 PRÓXIMO PASO
 
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
-3. Agrega las fechas límite
-4. ¡El agente las organizará automáticamente mañana!
+Edita `TAREAS.md` y reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales, añadiendo fechas límite. El agente volverá mañana a generar una agenda actualizada.
 
 ---
-*Generado el 2026-10-13 por el Asistente de Agenda Automático*
+*Generado por el Agente de Agenda Personal*
