@@ -1,65 +1,54 @@
-# 📅 AGENDA DEL DÍA — Sábado, 17 de Octubre 2026
+# 📅 Agenda del Día — Domingo 18 de Octubre 2026
 
-> Generada automáticamente a las 09:00 | Jornada: 09:00 - 19:00
-
----
-
-## 🔴 URGENTES — Hoy/Mañana
-
-### Trabajo
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
-
-### Personal
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+> Generada automáticamente · 12:11 UTC · Jornada: 9:00–19:00
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🔴 URGENTES HOY
 
-### Trabajo
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+> ⚠️ No se encontraron tareas urgentes con contenido. TAREAS.md contiene solo plantilla vacía.
 
-### Personal
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+**Acción recomendada:** Abre `TAREAS.md` y rellena tus tareas reales para que el agente las organice mañana.
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟡 IMPORTANTES ESTA SEMANA
 
-### Trabajo
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+> Sin tareas registradas por el momento.
 
-### Personal
-- [ ] Tarea 1 *(sin fecha límite definida)*
-- [ ] Tarea 2 *(sin fecha límite definida)*
+---
+
+## 🟢 NORMAL
+
+> Sin tareas registradas por el momento.
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-- *(Ninguna registrada aún)*
+> Sin registros de tareas completadas.
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-| Métrica | Valor |
-|---------|-------|
-| Tareas urgentes | 4 |
-| Tareas importantes | 4 |
-| Tareas normales | 4 |
+| Indicador | Valor |
+|---|---|
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
 | Completadas hoy | 0 |
-| **Total activas** | **12** |
+| Estado del sistema | ✅ Activo |
 
 ---
 
-> ⚠️ **Nota:** Las tareas aún son plantillas genéricas. Para aprovechar mejor este sistema,
-> edita **TAREAS.md** y añade tus tareas reales con nombres descriptivos y fechas límite.
+## 🚀 PRÓXIMO PASO
+
+El sistema de agenda está operativo y listo. Para sacarle partido:
+
+1. **Abre `TAREAS.md`** y reemplaza los placeholders con tus tareas reales.
+2. **Añade fechas límite** para que el agente las clasifique correctamente.
+3. **Mañana a las 09:00** el agente generará tu agenda del día automáticamente.
 
 ---
-*Próximo escaneo automático: mañana por la mañana*
+*Generado por Agente de Agenda · nachoram/mi-agenda*
