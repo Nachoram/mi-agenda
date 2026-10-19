@@ -4,14 +4,10 @@
 
 ---
 
-## 🎯 RESUMEN EJECUTIVO
+## 🔴 URGENTES — Hoy / Mañana
 
 **Estado del día:** Sin tareas activas registradas.
 **Acción recomendada:** Completa tu lista en `TAREAS.md` para que el agente pueda organizarte el día automáticamente.
-
----
-
-## 🔴 URGENTES — Hoy / Mañana
 
 ### Trabajo
 - [ ] *(Sin tareas urgentes de trabajo registradas)*
@@ -47,22 +43,26 @@
 
 ---
 
-## 📊 ESTADÍSTICAS
+## 📊 RESUMEN EJECUTIVO
 
-| Categoría       | Cantidad |
-|----------------|----------|
-| Urgentes        | 0        |
-| Importantes     | 0        |
-| Normal          | 0        |
-| **Total activas** | **0**  |
-| Completadas hoy | 0        |
-
----
-
-## 💡 PRÓXIMO PASO
-
-Abre `TAREAS.md` y reemplaza las tareas de ejemplo con tus tareas reales.
-El agente escaneará automáticamente cada mañana y generará esta agenda actualizada.
+| Categoría          | Cantidad |
+|--------------------|----------|
+| Urgentes           | 0        |
+| Importantes        | 0        |
+| Normal             | 0        |
+| **Total activas**  | **0**    |
+| Completadas hoy    | 0        |
+| Estado del sistema | ✅ Activo |
 
 ---
-*Próximo escaneo automático: Mañana por la mañana*
+
+## 🚀 PRÓXIMO PASO
+
+El sistema de agenda está operativo y listo. Para sacarle partido:
+
+1. **Abre `TAREAS.md`** y reemplaza los placeholders con tus tareas reales.
+2. **Añade fechas límite** para que el agente las clasifique correctamente.
+3. **Mañana por la mañana** el agente generará tu agenda del día automáticamente.
+
+---
+*Generado por Agente de Agenda · nachoram/mi-agenda*
