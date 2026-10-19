@@ -1,71 +1,68 @@
-# 📅 AGENDA DEL DÍA - Martes 13 de Octubre 2026
+# 📅 AGENDA DEL DÍA — Lunes 19 de octubre de 2026
 
-> Generado automáticamente | Jornada laboral: 09:00 - 19:00
+> Generada automáticamente a las 12:16 UTC | Jornada: 9:00 - 19:00
 
 ---
 
 ## 🎯 RESUMEN EJECUTIVO
 
-**Estado del sistema**: ⚠️ Sin tareas configuradas
-El archivo TAREAS.md contiene solo el template de ejemplo. No hay tareas reales registradas aún.
-
-**Acción recomendada**: Abre `TAREAS.md` y agrega tus tareas reales en cada sección.
+**Estado del día:** Sin tareas activas registradas.
+**Acción recomendada:** Completa tu lista en `TAREAS.md` para que el agente pueda organizarte el día automáticamente.
 
 ---
 
-## 🔴 URGENTES (Hoy/Mañana)
+## 🔴 URGENTES — Hoy / Mañana
 
 ### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo configuradas)*
+- [ ] *(Sin tareas urgentes de trabajo registradas)*
 
 ### Personal
-- [ ] *(Sin tareas urgentes personales configuradas)*
+- [ ] *(Sin tareas urgentes personales registradas)*
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🟡 IMPORTANTES — Esta semana
 
 ### Trabajo
-- [ ] *(Sin tareas importantes de trabajo configuradas)*
+- [ ] *(Sin tareas importantes de trabajo registradas)*
 
 ### Personal
-- [ ] *(Sin tareas importantes personales configuradas)*
+- [ ] *(Sin tareas importantes personales registradas)*
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟢 NORMAL — Próximas semanas
 
 ### Trabajo
-- [ ] *(Sin tareas normales de trabajo configuradas)*
+- [ ] *(Sin tareas normales de trabajo registradas)*
 
 ### Personal
-- [ ] *(Sin tareas normales personales configuradas)*
+- [ ] *(Sin tareas normales personales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Ninguna registrada)*
+*(Ninguna aún — ¡el día acaba de empezar!)*
 
 ---
 
 ## 📊 ESTADÍSTICAS
 
-| Métrica | Valor |
-|---------|-------|
-| Tareas activas | 0 |
-| Completadas hoy | 0 |
-| Progreso | — |
-| Próximo escaneo | Mañana automático |
+| Categoría       | Cantidad |
+|----------------|----------|
+| Urgentes        | 0        |
+| Importantes     | 0        |
+| Normal          | 0        |
+| **Total activas** | **0**  |
+| Completadas hoy | 0        |
 
 ---
 
 ## 💡 PRÓXIMO PASO
 
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
-3. Agrega las fechas límite
-4. ¡El agente las organizará automáticamente mañana!
+Abre `TAREAS.md` y reemplaza las tareas de ejemplo con tus tareas reales.
+El agente escaneará automáticamente cada mañana y generará esta agenda actualizada.
 
 ---
-*Generado el 2026-10-13 por el Asistente de Agenda Automático*
+*Próximo escaneo automático: Mañana por la mañana*
