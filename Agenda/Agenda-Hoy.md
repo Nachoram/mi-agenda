@@ -1,50 +1,52 @@
-# 📅 Agenda - Viernes 18 de Septiembre 2026
+# 📅 AGENDA HOY — Martes 20 de Octubre 2026
 
-> Generado automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🎯 PRIORIDADES DEL DÍA
-
-### 🔴 Urgentes (Hoy/Mañana)
-**Trabajo:**
-- [ ] *(Sin tareas urgentes registradas)*
-
-**Personal:**
-- [ ] *(Sin tareas urgentes registradas)*
-
-> ⚠️ **Acción requerida**: Abre `TAREAS.md` y agrega tus tareas con fechas límite reales.
-
----
-
-### 🟡 Importantes (Esta semana)
-**Trabajo:**
-- [ ] *(Sin tareas registradas)*
-
-**Personal:**
-- [ ] *(Sin tareas registradas)*
-
----
-
-### 🟢 Normal (Próximas semanas)
-**Trabajo:**
-- [ ] *(Sin tareas registradas)*
-
-**Personal:**
-- [ ] *(Sin tareas registradas)*
+**Generada**: 12:14 UTC | **Jornada**: 9:00–19:00
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-**Fecha**: Viernes 18 de septiembre de 2026  
-**Estado de tareas**: ⚠️ TAREAS.md sin completar — no hay tareas reales cargadas  
-**Tareas urgentes hoy**: 0  
-**Tareas importantes esta semana**: 0  
-**Acción prioritaria #1**: Completar TAREAS.md con tareas y fechas reales  
+> ⚠️ **TAREAS.md está vacío** — El template no tiene tareas reales asignadas todavía.
+> Abre `TAREAS.md` y agrega tus tareas reales para que el agente las organice cada mañana.
+
+| Estado | Cantidad |
+|--------|----------|
+| 🔴 Urgentes | 0 |
+| 🟡 Importantes | 0 |
+| 🟢 Normal | 0 |
+| ✅ Completadas hoy | 0 |
 
 ---
 
-**Generado por**: Agente de Organización Personal  
-**Última actualización**: Viernes 18 Sep 2026, ejecución automática matutina  
-**Próxima regeneración**: Lunes 21 Sep 2026 (automático)
+## 🔴 URGENTES — Para hoy
+
+*No hay tareas urgentes registradas.*
+
+---
+
+## 🟡 IMPORTANTES — Esta semana
+
+*No hay tareas importantes registradas.*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+*No hay tareas normales registradas.*
+
+---
+
+## ✅ COMPLETADAS HOY
+
+*Ninguna aún.*
+
+---
+
+## 💡 PRÓXIMO PASO
+
+1. Abre **TAREAS.md**
+2. Reemplaza los placeholders con tus tareas reales
+3. El agente se ejecuta automáticamente cada mañana y reorganiza esta agenda
+
+---
+*Agenda generada automáticamente por el agente de organización personal.*

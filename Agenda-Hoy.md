@@ -1,68 +1,52 @@
-# 📅 AGENDA DEL DÍA — Lunes 19 de octubre de 2026
+# 📅 AGENDA HOY — Martes 20 de Octubre 2026
 
-> Generada automáticamente a las 12:16 UTC | Jornada: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES — Hoy / Mañana
-
-**Estado del día:** Sin tareas activas registradas.
-**Acción recomendada:** Completa tu lista en `TAREAS.md` para que el agente pueda organizarte el día automáticamente.
-
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas urgentes personales registradas)*
-
----
-
-## 🟡 IMPORTANTES — Esta semana
-
-### Trabajo
-- [ ] *(Sin tareas importantes de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas importantes personales registradas)*
-
----
-
-## 🟢 NORMAL — Próximas semanas
-
-### Trabajo
-- [ ] *(Sin tareas normales de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas normales personales registradas)*
-
----
-
-## ✅ COMPLETADAS HOY
-
-*(Ninguna aún — ¡el día acaba de empezar!)*
+**Generada**: 12:14 UTC | **Jornada**: 9:00–19:00
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-| Categoría          | Cantidad |
-|--------------------|----------|
-| Urgentes           | 0        |
-| Importantes        | 0        |
-| Normal             | 0        |
-| **Total activas**  | **0**    |
-| Completadas hoy    | 0        |
-| Estado del sistema | ✅ Activo |
+> ⚠️ **TAREAS.md está vacío** — El template no tiene tareas reales asignadas todavía.
+> Abre `TAREAS.md` y agrega tus tareas reales para que el agente las organice cada mañana.
+
+| Estado | Cantidad |
+|--------|----------|
+| 🔴 Urgentes | 0 |
+| 🟡 Importantes | 0 |
+| 🟢 Normal | 0 |
+| ✅ Completadas hoy | 0 |
 
 ---
 
-## 🚀 PRÓXIMO PASO
+## 🔴 URGENTES — Para hoy
 
-El sistema de agenda está operativo y listo. Para sacarle partido:
-
-1. **Abre `TAREAS.md`** y reemplaza los placeholders con tus tareas reales.
-2. **Añade fechas límite** para que el agente las clasifique correctamente.
-3. **Mañana por la mañana** el agente generará tu agenda del día automáticamente.
+*No hay tareas urgentes registradas.*
 
 ---
-*Generado por Agente de Agenda · nachoram/mi-agenda*
+
+## 🟡 IMPORTANTES — Esta semana
+
+*No hay tareas importantes registradas.*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+*No hay tareas normales registradas.*
+
+---
+
+## ✅ COMPLETADAS HOY
+
+*Ninguna aún.*
+
+---
+
+## 💡 PRÓXIMO PASO
+
+1. Abre **TAREAS.md**
+2. Reemplaza los placeholders con tus tareas reales
+3. El agente se ejecuta automáticamente cada mañana y reorganiza esta agenda
+
+---
+*Agenda generada automáticamente por el agente de organización personal.*
