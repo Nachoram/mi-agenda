@@ -1,52 +1,46 @@
-# 📅 AGENDA HOY — Martes 20 de Octubre 2026
+# 📅 Agenda del Día — Viernes 23 de Octubre, 2026
 
-**Generada**: 12:14 UTC | **Jornada**: 9:00–19:00
-
----
-
-## 📊 RESUMEN EJECUTIVO
-
-> ⚠️ **TAREAS.md está vacío** — El template no tiene tareas reales asignadas todavía.
-> Abre `TAREAS.md` y agrega tus tareas reales para que el agente las organice cada mañana.
-
-| Estado | Cantidad |
-|--------|----------|
-| 🔴 Urgentes | 0 |
-| 🟡 Importantes | 0 |
-| 🟢 Normal | 0 |
-| ✅ Completadas hoy | 0 |
+> Generada automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy
+## 📊 Resumen Ejecutivo
 
-*No hay tareas urgentes registradas.*
+**Estado del día:** Sin tareas registradas — tu lista está lista para ser completada.
+
+El archivo TAREAS.md está configurado pero aún no tiene tareas reales. ¡Es el momento perfecto para llenarlo con todo lo que necesitas hacer esta semana!
+
+---
+
+## 🔴 URGENTES — Hoy/Mañana
+
+> _Sin tareas urgentes registradas_
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-*No hay tareas importantes registradas.*
+> _Sin tareas importantes registradas_
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-*No hay tareas normales registradas.*
+> _Sin tareas normales registradas_
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas Hoy
 
-*Ninguna aún.*
+> _Sin tareas completadas aún_
+
+---
+
+## 💡 Próximo Paso
+
+Abre el archivo **TAREAS.md** y agrega tus tareas reales en cada sección.  
+El agente las organizará automáticamente en tu próxima agenda diaria.
 
 ---
 
-## 💡 PRÓXIMO PASO
-
-1. Abre **TAREAS.md**
-2. Reemplaza los placeholders con tus tareas reales
-3. El agente se ejecuta automáticamente cada mañana y reorganiza esta agenda
-
----
-*Agenda generada automáticamente por el agente de organización personal.*
+_Actualizado: 2026-10-23 12:20 UTC_
