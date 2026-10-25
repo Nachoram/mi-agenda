@@ -1,54 +1,71 @@
-# 📅 AGENDA - Sábado 25 de Octubre 2026
+# 📅 Agenda del Día — Domingo 25 de octubre de 2026
 
-> Generado automáticamente · Horario de trabajo: 9:00–19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-| Categoría | Cantidad |
-|-----------|----------|
-| 🔴 Urgentes hoy | 0 |
-| 🟡 Importantes (semana) | 0 |
-| 🟢 Normal | 0 |
-| ✅ Completadas hoy | 0 |
-
-> **Estado**: No hay tareas registradas en TAREAS.md. ¡Es un buen momento para planificar la semana!
+**Generado automáticamente a las 12:12 UTC**
+**Jornada laboral: 09:00 – 19:00**
 
 ---
 
-## 🔴 PRIORIDADES DEL DÍA (Urgentes)
+## ⚠️ AVISO IMPORTANTE
 
-*Sin tareas urgentes para hoy.*
+El archivo `TAREAS.md` contiene únicamente tareas de ejemplo (placeholders).
+**No hay tareas reales registradas todavía.**
+
+> Para que el agente funcione correctamente, edita `TAREAS.md` y reemplaza las tareas de ejemplo con tus tareas reales.
+
+---
+
+## 🔴 URGENTES (Hoy / Mañana)
+
+### Trabajo
+- [ ] *(Sin tareas urgentes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas urgentes personales registradas)*
 
 ---
 
 ## 🟡 IMPORTANTES (Esta semana)
 
-*Sin tareas importantes registradas.*
+### Trabajo
+- [ ] *(Sin tareas importantes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas importantes personales registradas)*
 
 ---
 
 ## 🟢 NORMAL (Próximas semanas)
 
-*Sin tareas normales registradas.*
+### Trabajo
+- [ ] *(Sin tareas normales de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas normales personales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Ninguna tarea completada aún.*
+*(Ninguna completada aún)*
 
 ---
 
-## 💡 PRÓXIMO PASO
+## 📊 Resumen Ejecutivo
 
-Abre **TAREAS.md** y agrega tus tareas reales en cada sección:
-- 🔴 Urgentes: lo que necesitas resolver hoy o mañana
-- 🟡 Importantes: metas de la semana
-- 🟢 Normal: pendientes a largo plazo
-
-El agente las organizará automáticamente en tu agenda cada mañana.
+| Categoría       | Total |
+|-----------------|-------|
+| 🔴 Urgentes     | 0     |
+| 🟡 Importantes  | 0     |
+| 🟢 Normal       | 0     |
+| ✅ Completadas  | 0     |
 
 ---
-*Agenda generada el 2026-10-25 · mi-agenda v1.0*
+
+## 💡 Próximo paso
+
+1. Abre `TAREAS.md`
+2. Reemplaza las tareas de ejemplo con tus tareas reales
+3. El agente se ejecuta automáticamente cada mañana para generar tu agenda actualizada
+
+---
+*Agenda generada por el agente de organización personal*
