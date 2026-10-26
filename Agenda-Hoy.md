@@ -1,46 +1,58 @@
-# 📅 Agenda del Día — Viernes 23 de Octubre, 2026
+# 📅 AGENDA DEL DÍA — Lunes 26 de Octubre 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 📊 Resumen Ejecutivo
-
-**Estado del día:** Sin tareas registradas — tu lista está lista para ser completada.
-
-El archivo TAREAS.md está configurado pero aún no tiene tareas reales. ¡Es el momento perfecto para llenarlo con todo lo que necesitas hacer esta semana!
+> Generada automáticamente a las 12:29 UTC | Jornada: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🔴 URGENTES — Hoy / Mañana
 
-> _Sin tareas urgentes registradas_
+> ⚠️ No hay tareas urgentes configuradas.
+> Edita TAREAS.md y añade tus tareas urgentes en la sección correspondiente.
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-> _Sin tareas importantes registradas_
+> ⚠️ No hay tareas importantes configuradas.
+> Edita TAREAS.md y añade tus tareas de esta semana.
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-> _Sin tareas normales registradas_
+> ⚠️ No hay tareas normales configuradas.
+> Edita TAREAS.md y añade tus tareas de las próximas semanas.
 
 ---
 
-## ✅ Completadas Hoy
+## ✅ COMPLETADAS HOY
 
-> _Sin tareas completadas aún_
-
----
-
-## 💡 Próximo Paso
-
-Abre el archivo **TAREAS.md** y agrega tus tareas reales en cada sección.  
-El agente las organizará automáticamente en tu próxima agenda diaria.
+> Sin tareas completadas por ahora.
 
 ---
 
-_Actualizado: 2026-10-23 12:20 UTC_
+## 📊 RESUMEN EJECUTIVO
+
+| Estado | Cantidad |
+|--------|----------|
+| 🔴 Urgentes | 0 |
+| 🟡 Importantes | 0 |
+| 🟢 Normales | 0 |
+| ✅ Completadas | 0 |
+| **Total activas** | **0** |
+
+---
+
+## 💡 PRÓXIMOS PASOS
+
+Tu sistema de agenda está listo. Para que funcione correctamente:
+
+1. **Edita TAREAS.md** y reemplaza los marcadores de posición con tus tareas reales
+2. **Añade fechas límite** en cada tarea (formato: `Fecha límite: 26/10/2026`)
+3. **Marca las completadas** cambiando `[ ]` por `[x]`
+
+El agente automático reorganizará tu agenda cada día.
+
+---
+
+*Generado automáticamente — Siguiente escaneo: Mañana 09:00*
