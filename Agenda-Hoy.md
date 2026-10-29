@@ -1,65 +1,62 @@
-# 📅 AGENDA DEL DÍA — Miércoles 28 de Octubre, 2026
+# 📅 Agenda del Día — Jueves 29 de Octubre de 2026
 
-> Generado automáticamente a las 12:32 UTC | Jornada: 09:00 - 19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-El archivo de tareas maestras (TAREAS.md) está listo como plantilla pero **aún no tiene tareas reales registradas**. Hoy es un buen momento para llenarlo con tus prioridades reales.
-
-**Acción inmediata:** Abre TAREAS.md y agrega tus tareas pendientes. El agente las organizará en el próximo escaneo.
+> Generada automáticamente a las 12:20 UTC | Horario laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Para Hoy/Mañana
+## 🎯 Resumen Ejecutivo
 
-| # | Tarea | Área | Fecha Límite |
-|---|-------|------|-------------|
+⚠️ **TAREAS.md está vacío** — las tareas aún son plantillas sin rellenar.  
+Para que el agente organice tu día, edita `TAREAS.md` y añade tus tareas reales.
+
+---
+
+## 🔴 URGENTES — Para hoy o mañana
+
+| # | Tarea | Categoría | Fecha límite |
+|---|-------|-----------|--------------|
 | — | *(Sin tareas urgentes registradas)* | — | — |
 
 ---
 
-## 🟡 IMPORTANTES — Esta Semana
+## 🟡 IMPORTANTES — Esta semana
 
-| # | Tarea | Área | Fecha Límite |
-|---|-------|------|-------------|
+| # | Tarea | Categoría | Fecha límite |
+|---|-------|-----------|--------------|
 | — | *(Sin tareas importantes registradas)* | — | — |
 
 ---
 
-## 🟢 NORMAL — Próximas Semanas
+## 🟢 NORMAL — Próximas semanas
 
-| # | Tarea | Área | Fecha Límite |
-|---|-------|------|-------------|
+| # | Tarea | Categoría | Fecha límite |
+|---|-------|-----------|--------------|
 | — | *(Sin tareas normales registradas)* | — | — |
 
 ---
 
-## ✅ COMPLETADAS HOY
+## ✅ Completadas hoy
 
-*(Sin tareas completadas registradas)*
-
----
-
-## 📊 ESTADÍSTICAS
-
-| Categoría | Cantidad |
-|-----------|----------|
-| 🔴 Urgentes | 0 |
-| 🟡 Importantes | 0 |
-| 🟢 Normales | 0 |
-| ✅ Completadas hoy | 0 |
-| **Total activas** | **0** |
+*(Ninguna completada aún)*
 
 ---
 
-## 💡 PRÓXIMO PASO
+## 📊 Estadísticas
 
-1. **Abre TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales
-2. Incluye fechas límite para mejor organización automática
-3. El agente escaneará mañana a las 09:00 y generará tu agenda actualizada
+| Métrica | Valor |
+|---------|-------|
+| Tareas activas | 0 |
+| Completadas hoy | 0 |
+| Próximo escaneo | Automático cada mañana |
 
 ---
 
-*Próximo escaneo automático: Jueves 29 de Octubre, 2026 — 09:00 UTC*
+## 📝 Próximo paso
+
+Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales:
+
+```
+- [ ] Mi tarea real - Fecha límite: 30/10/2026
+```
+
+El agente procesará tus tareas en el próximo ciclo automático.
