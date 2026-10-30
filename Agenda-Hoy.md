@@ -1,62 +1,60 @@
-# 📅 Agenda del Día — Jueves 29 de Octubre de 2026
+# 📅 AGENDA DEL DÍA — Viernes 30 de octubre de 2026
 
-> Generada automáticamente a las 12:20 UTC | Horario laboral: 9:00–19:00
-
----
-
-## 🎯 Resumen Ejecutivo
-
-⚠️ **TAREAS.md está vacío** — las tareas aún son plantillas sin rellenar.  
-Para que el agente organice tu día, edita `TAREAS.md` y añade tus tareas reales.
+> Generado automáticamente a las 12:25 UTC
 
 ---
 
-## 🔴 URGENTES — Para hoy o mañana
+## ⚡ RESUMEN EJECUTIVO
 
-| # | Tarea | Categoría | Fecha límite |
-|---|-------|-----------|--------------|
-| — | *(Sin tareas urgentes registradas)* | — | — |
+**Horario laboral:** 9:00 – 19:00
+
+> ⚠️ **Tu lista de tareas (TAREAS.md) está vacía.** Solo contiene la plantilla de ejemplo, sin tareas reales registradas.
+> Añade tus tareas en `TAREAS.md` para que el agente las organice cada mañana.
+
+---
+
+## 🔴 URGENTES — Hoy/Mañana
+
+_No hay tareas urgentes registradas._
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-| # | Tarea | Categoría | Fecha límite |
-|---|-------|-----------|--------------|
-| — | *(Sin tareas importantes registradas)* | — | — |
+_No hay tareas importantes registradas._
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-| # | Tarea | Categoría | Fecha límite |
-|---|-------|-----------|--------------|
-| — | *(Sin tareas normales registradas)* | — | — |
+_No hay tareas normales registradas._
 
 ---
 
-## ✅ Completadas hoy
+## ✅ COMPLETADAS HOY
 
-*(Ninguna completada aún)*
+_Ninguna registrada._
 
 ---
 
-## 📊 Estadísticas
+## 📊 ESTADÍSTICAS
 
 | Métrica | Valor |
-|---------|-------|
+|---|---|
 | Tareas activas | 0 |
 | Completadas hoy | 0 |
-| Próximo escaneo | Automático cada mañana |
+| Próximo escaneo | Mañana a las 12:25 UTC |
 
 ---
 
-## 📝 Próximo paso
+## 💡 ACCIÓN RECOMENDADA
 
-Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales:
+Abre `TAREAS.md` y añade tus tareas reales con fechas límite para que el agente pueda organizarlas correctamente mañana.
 
+**Ejemplo:**
 ```
-- [ ] Mi tarea real - Fecha límite: 30/10/2026
+## 🔴 URGENTES (Hoy o mañana)
+### Trabajo
+- [ ] Revisar propuesta de cliente X - Fecha límite: 2026-10-31
+- [ ] Enviar informe mensual - Fecha límite: 2026-10-30
 ```
-
-El agente procesará tus tareas en el próximo ciclo automático.
