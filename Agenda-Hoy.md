@@ -1,60 +1,42 @@
-# 📅 AGENDA DEL DÍA — Viernes 30 de octubre de 2026
+# 📅 Agenda - Sábado 31 de octubre de 2026
 
-> Generado automáticamente a las 12:25 UTC
-
----
-
-## ⚡ RESUMEN EJECUTIVO
-
-**Horario laboral:** 9:00 – 19:00
-
-> ⚠️ **Tu lista de tareas (TAREAS.md) está vacía.** Solo contiene la plantilla de ejemplo, sin tareas reales registradas.
-> Añade tus tareas en `TAREAS.md` para que el agente las organice cada mañana.
+> Generado automáticamente a las 12:16 UTC | Jornada: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🔴 URGENTES — Para Hoy
 
-_No hay tareas urgentes registradas._
-
----
-
-## 🟡 IMPORTANTES — Esta semana
-
-_No hay tareas importantes registradas._
+> *(Sin tareas urgentes registradas)*
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟡 IMPORTANTES — Esta Semana
 
-_No hay tareas normales registradas._
-
----
-
-## ✅ COMPLETADAS HOY
-
-_Ninguna registrada._
+> *(Sin tareas importantes registradas)*
 
 ---
 
-## 📊 ESTADÍSTICAS
+## 🟢 NORMAL — Próximas Semanas
 
-| Métrica | Valor |
-|---|---|
-| Tareas activas | 0 |
-| Completadas hoy | 0 |
-| Próximo escaneo | Mañana a las 12:25 UTC |
+> *(Sin tareas pendientes registradas)*
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
+## ✅ Completadas Hoy
 
-Abre `TAREAS.md` y añade tus tareas reales con fechas límite para que el agente pueda organizarlas correctamente mañana.
+> *(Sin tareas completadas aún)*
 
-**Ejemplo:**
-```
-## 🔴 URGENTES (Hoy o mañana)
-### Trabajo
-- [ ] Revisar propuesta de cliente X - Fecha límite: 2026-10-31
-- [ ] Enviar informe mensual - Fecha límite: 2026-10-30
-```
+---
+
+## 📊 Resumen Ejecutivo
+
+| Indicador           | Valor |
+|---------------------|-------|
+| Tareas activas      | 0     |
+| Tareas urgentes     | 0     |
+| Completadas hoy     | 0     |
+
+---
+
+> 💡 **Próximo paso:** Abre `TAREAS.md` y agrega tus tareas reales con fechas límite.
+> El agente las organizará automáticamente en la próxima ejecución.
