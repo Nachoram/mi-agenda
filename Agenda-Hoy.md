@@ -1,42 +1,71 @@
-# 📅 Agenda - Sábado 31 de octubre de 2026
+# 📅 Agenda del Día — Domingo, 1 de Noviembre de 2026
 
-> Generado automáticamente a las 12:16 UTC | Jornada: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES — Para Hoy
-
-> *(Sin tareas urgentes registradas)*
+> Generado automáticamente el 01/11/2026 a las 12:12 UTC
 
 ---
 
-## 🟡 IMPORTANTES — Esta Semana
+## 🎯 Prioridades del Día
 
-> *(Sin tareas importantes registradas)*
+**Horario laboral**: 9:00 – 19:00
+
+> ⚠️ **AVISO**: No se encontraron tareas reales en TAREAS.md.
+> El archivo contiene únicamente la plantilla base.
+> **Acción recomendada**: Añade tus tareas reales en TAREAS.md para que el agente pueda organizarlas.
 
 ---
 
-## 🟢 NORMAL — Próximas Semanas
+## 🔴 URGENTES (Hoy/Mañana)
 
-> *(Sin tareas pendientes registradas)*
+### Trabajo
+- [ ] *(Sin tareas urgentes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas urgentes personales registradas)*
+
+---
+
+## 🟡 IMPORTANTES (Esta semana)
+
+### Trabajo
+- [ ] *(Sin tareas importantes de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas importantes personales registradas)*
+
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+### Trabajo
+- [ ] *(Sin tareas normales de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas normales personales registradas)*
 
 ---
 
 ## ✅ Completadas Hoy
 
-> *(Sin tareas completadas aún)*
+*(Ninguna tarea completada aún)*
 
 ---
 
 ## 📊 Resumen Ejecutivo
 
-| Indicador           | Valor |
-|---------------------|-------|
-| Tareas activas      | 0     |
-| Tareas urgentes     | 0     |
-| Completadas hoy     | 0     |
+| Categoría        | Cantidad |
+|------------------|----------|
+| 🔴 Urgentes      | 0        |
+| 🟡 Importantes   | 0        |
+| 🟢 Normal        | 0        |
+| ✅ Completadas   | 0        |
+| **Total activas**| **0**    |
 
 ---
 
-> 💡 **Próximo paso:** Abre `TAREAS.md` y agrega tus tareas reales con fechas límite.
-> El agente las organizará automáticamente en la próxima ejecución.
+### 💡 Próximo paso sugerido
+
+**Rellena tu TAREAS.md** con tus tareas reales para aprovechar al máximo el sistema de agenda automática.
+El agente escaneará automáticamente cada mañana y generará tu agenda priorizada.
+
+---
+*Próximo escaneo automático: Mañana por la mañana*
