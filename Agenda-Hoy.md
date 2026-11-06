@@ -1,62 +1,62 @@
-# 📅 AGENDA - Jueves 5 de Noviembre 2026
+# 📅 Agenda del Día — Viernes 6 de Noviembre 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## ⚡ RESUMEN EJECUTIVO
-
-**Estado del día:** TAREAS.md sin tareas pendientes registradas.
-**Acción recomendada:** Agrega tus tareas en TAREAS.md para que el agente pueda organizarlas automáticamente cada mañana.
+> Generada automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES (Hoy / Mañana)
+## 🎯 Resumen Ejecutivo
+
+> **Estado**: TAREAS.md contiene solo plantillas de ejemplo. No hay tareas reales registradas aún.
+> Para activar la agenda automática, edita TAREAS.md y completa las tareas con sus fechas límite.
+
+---
+
+## 🔴 URGENTES — Para hoy / mañana
 
 ### Trabajo
-- [ ] *(Sin tareas urgentes registradas)*
+- [ ] _(Sin tareas urgentes de trabajo registradas)_
 
 ### Personal
-- [ ] *(Sin tareas urgentes registradas)*
+- [ ] _(Sin tareas urgentes personales registradas)_
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🟡 IMPORTANTES — Esta semana
 
 ### Trabajo
-- [ ] *(Sin tareas registradas)*
+- [ ] _(Sin tareas importantes de trabajo registradas)_
 
 ### Personal
-- [ ] *(Sin tareas registradas)*
+- [ ] _(Sin tareas importantes personales registradas)_
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🟢 NORMAL — Próximas semanas
 
 ### Trabajo
-- [ ] *(Sin tareas registradas)*
+- [ ] _(Sin tareas normales de trabajo registradas)_
 
 ### Personal
-- [ ] *(Sin tareas registradas)*
+- [ ] _(Sin tareas normales personales registradas)_
 
 ---
 
 ## ✅ COMPLETADAS HOY
-
-*(Ninguna aún — ¡el día recién comienza!)*
-
----
-
-## 📊 ESTADÍSTICAS
-
-| Categoría       | Total |
-|-----------------|-------|
-| 🔴 Urgentes     | 0     |
-| 🟡 Importantes  | 0     |
-| 🟢 Normal       | 0     |
-| ✅ Completadas  | 0     |
-| **TOTAL**       | **0** |
+_(Ninguna completada aún)_
 
 ---
 
-> 💡 **Tip:** Para sacar el máximo provecho, edita TAREAS.md con tus tareas reales (nombre, fecha límite y contexto). El agente se ejecuta automáticamente cada mañana.
+## 📊 Estadísticas del Día
+
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
+| Completadas hoy | 0 |
+| **Total activas** | **0** |
+
+---
+
+> 💡 **Próximo paso**: Abre TAREAS.md y agrega tus tareas reales con fechas límite.
+> El agente se ejecuta automáticamente cada mañana para actualizar esta agenda.
