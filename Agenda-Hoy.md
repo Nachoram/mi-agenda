@@ -1,62 +1,55 @@
-# 📅 Agenda del Día — Viernes 6 de Noviembre 2026
+# 📅 Agenda del Día — Sábado 7 de noviembre de 2026
 
-> Generada automáticamente | Horario laboral: 9:00–19:00
-
----
-
-## 🎯 Resumen Ejecutivo
-
-> **Estado**: TAREAS.md contiene solo plantillas de ejemplo. No hay tareas reales registradas aún.
-> Para activar la agenda automática, edita TAREAS.md y completa las tareas con sus fechas límite.
+> Generado automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy / mañana
+## 🔴 URGENTES (Hoy / mañana)
 
 ### Trabajo
-- [ ] _(Sin tareas urgentes de trabajo registradas)_
+*(Sin tareas urgentes registradas)*
 
 ### Personal
-- [ ] _(Sin tareas urgentes personales registradas)_
+*(Sin tareas urgentes registradas)*
 
 ---
 
-## 🟡 IMPORTANTES — Esta semana
+## 🟡 IMPORTANTES (Esta semana)
 
 ### Trabajo
-- [ ] _(Sin tareas importantes de trabajo registradas)_
+*(Sin tareas importantes registradas)*
 
 ### Personal
-- [ ] _(Sin tareas importantes personales registradas)_
+*(Sin tareas importantes registradas)*
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🟢 NORMAL (Próximas semanas)
 
 ### Trabajo
-- [ ] _(Sin tareas normales de trabajo registradas)_
+*(Sin tareas pendientes)*
 
 ### Personal
-- [ ] _(Sin tareas normales personales registradas)_
+*(Sin tareas pendientes)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
-_(Ninguna completada aún)_
+*(Ninguna registrada aún)*
 
 ---
 
-## 📊 Estadísticas del Día
+## 📊 Resumen Ejecutivo
 
-| Métrica | Valor |
-|---|---|
-| Tareas urgentes | 0 |
-| Tareas importantes | 0 |
-| Tareas normales | 0 |
-| Completadas hoy | 0 |
+| Categoría       | Total |
+|----------------|-------|
+| 🔴 Urgentes     | 0     |
+| 🟡 Importantes  | 0     |
+| 🟢 Normal       | 0     |
+| ✅ Completadas  | 0     |
 | **Total activas** | **0** |
 
 ---
 
-> 💡 **Próximo paso**: Abre TAREAS.md y agrega tus tareas reales con fechas límite.
-> El agente se ejecuta automáticamente cada mañana para actualizar esta agenda.
+> ⚠️ **Acción requerida:** El archivo `TAREAS.md` aún contiene las tareas de ejemplo del template.
+> Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales y el agente las organizará automáticamente mañana.
