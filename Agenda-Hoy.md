@@ -1,50 +1,66 @@
-# 📅 Agenda del Día — Jueves 12 de Noviembre 2026
+# 📅 Agenda del Día — Viernes 13 de Noviembre de 2026
 
-> Generado automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🎯 Resumen Ejecutivo
-
-**Estado del día:** Sin tareas activas registradas  
-**Tareas pendientes:** 0 (lista de tareas vacía — necesita completar TAREAS.md)  
-**Completadas hoy:** 0  
+> Generada automáticamente | Horario laboral: 09:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🎯 RESUMEN EJECUTIVO
 
-> ⚠️ No hay tareas urgentes registradas.  
-> Agrega tus tareas urgentes en TAREAS.md → sección 🔴
-
----
-
-## 🟡 IMPORTANTES — Esta Semana
-
-> ⚠️ No hay tareas importantes registradas.  
-> Agrega tus tareas importantes en TAREAS.md → sección 🟡
+**Estado del día:** ⚠️ Las tareas en TAREAS.md están pendientes de rellenar (aún son plantillas).  
+**Acción requerida:** Completa TAREAS.md con tus tareas reales para que el agente pueda organizarlas.
 
 ---
 
-## 🟢 NORMAL — Próximas Semanas
+## 🔴 URGENTES — Para hoy o mañana
 
-> ⚠️ No hay tareas normales registradas.  
-> Agrega tus tareas en TAREAS.md → sección 🟢
+### Trabajo
+- [ ] Tarea 1 *(sin fecha límite — pendiente de completar)*
+- [ ] Tarea 2 *(sin fecha límite — pendiente de completar)*
 
----
-
-## ✅ Completadas Hoy
-
-*(ninguna aún)*
-
----
-
-## 💡 Próximos Pasos
-
-1. Abre **TAREAS.md** y reemplaza las tareas de ejemplo con tus tareas reales
-2. Incluye fechas límite para mejor priorización
-3. El agente escaneará automáticamente cada mañana y generará tu agenda actualizada
+### Personal
+- [ ] Tarea 1 *(sin fecha límite — pendiente de completar)*
+- [ ] Tarea 2 *(sin fecha límite — pendiente de completar)*
 
 ---
 
-*Agenda generada el 2026-11-12 | Próximo escaneo: mañana por la mañana*
+## 🟡 IMPORTANTES — Esta semana
+
+### Trabajo
+- [ ] Tarea 1 *(sin fecha límite — pendiente de completar)*
+- [ ] Tarea 2 *(sin fecha límite — pendiente de completar)*
+
+### Personal
+- [ ] Tarea 1 *(sin fecha límite — pendiente de completar)*
+- [ ] Tarea 2 *(sin fecha límite — pendiente de completar)*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+### Trabajo
+- [ ] Tarea 1 *(pendiente de completar)*
+- [ ] Tarea 2 *(pendiente de completar)*
+
+### Personal
+- [ ] Tarea 1 *(pendiente de completar)*
+- [ ] Tarea 2 *(pendiente de completar)*
+
+---
+
+## ✅ COMPLETADAS HOY
+
+*(Ninguna registrada aún)*
+
+---
+
+## 📊 ESTADÍSTICAS
+
+| Métrica               | Valor |
+|-----------------------|-------|
+| Tareas activas        | 0 reales (plantilla vacía) |
+| Completadas hoy       | 0 |
+| Próximo escaneo       | Mañana por la mañana |
+
+---
+
+> 💡 **Tip:** Edita `TAREAS.md` con tus tareas reales y el agente las organizará automáticamente mañana.
