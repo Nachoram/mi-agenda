@@ -1,79 +1,65 @@
-# 📅 AGENDA DEL DÍA — Domingo 15 de Noviembre 2026
+# 📅 AGENDA DEL DÍA — Lunes 16 de Noviembre 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
+> Generado automáticamente | Jornada: 9:00 - 19:00
 
 ---
 
 ## 🎯 RESUMEN EJECUTIVO
 
-**Estado del sistema:** Las tareas en TAREAS.md aún no han sido personalizadas.
-Para aprovechar al máximo este sistema de agenda automática, **completa tus tareas reales** en TAREAS.md y el agente las organizará cada mañana.
+**Estado del sistema:** ⚠️ TAREAS.md está vacío — solo contiene plantillas sin rellenar.
+
+Para que el agente funcione correctamente, ve a `TAREAS.md` y reemplaza los textos
+"Tarea 1", "Tarea 2", etc. por tus tareas reales con fechas límite.
 
 ---
 
 ## 🔴 URGENTES — Hoy/Mañana
 
-> ⚠️ No hay tareas urgentes registradas. Si tienes pendientes urgentes, agrégalos en TAREAS.md bajo `## 🔴 URGENTES`.
+### Trabajo
+- [ ] *(Sin tareas urgentes de trabajo registradas)*
 
-```
-Trabajo:
-  [ ] Pendiente de completar
-  [ ] Pendiente de completar
-
-Personal:
-  [ ] Pendiente de completar
-  [ ] Pendiente de completar
-```
+### Personal
+- [ ] *(Sin tareas urgentes personales registradas)*
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-> Sin tareas importantes registradas. Recuerda planificar tu semana.
+### Trabajo
+- [ ] *(Sin tareas importantes de trabajo registradas)*
 
-```
-Trabajo:
-  [ ] Pendiente de completar
-  [ ] Pendiente de completar
-
-Personal:
-  [ ] Pendiente de completar
-  [ ] Pendiente de completar
-```
+### Personal
+- [ ] *(Sin tareas importantes personales registradas)*
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-> Sin tareas normales registradas.
+### Trabajo
+- [ ] *(Sin tareas normales de trabajo registradas)*
+
+### Personal
+- [ ] *(Sin tareas normales personales registradas)*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-_(Ninguna registrada aún — ¡el día recién empieza!)_
+*(Ninguna completada aún)*
 
 ---
 
 ## 📊 ESTADÍSTICAS
 
-| Métrica               | Valor |
-|-----------------------|-------|
-| Tareas urgentes       | 0     |
-| Tareas importantes    | 0     |
-| Tareas normales       | 0     |
-| Total activas         | 0     |
-| Completadas hoy       | 0     |
+| Categoría       | Total |
+|-----------------|-------|
+| 🔴 Urgentes     | 0     |
+| 🟡 Importantes  | 0     |
+| 🟢 Normal       | 0     |
+| ✅ Completadas  | 0     |
+| **TOTAL**       | **0** |
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
-
-1. Abre **TAREAS.md**
-2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
-3. Agrega fechas límite a cada tarea
-4. El agente generará una agenda útil mañana a primera hora
-
----
-
-_Próximo escaneo automático: Mañana a las 9:00 | Sistema: mi-agenda_
+**Próximo escaneo del agente:** Automático cada mañana
+**Último escaneo:** 2026-11-16
