@@ -1,73 +1,54 @@
-# 📅 AGENDA DEL DÍA — Lunes 17 de noviembre 2026
+# 📅 AGENDA DEL DÍA — Miércoles 18 de Noviembre, 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES (Hoy / Mañana)
-
-> ⚠️ No hay tareas urgentes registradas. ¡Momento ideal para agregar tus pendientes en TAREAS.md!
-
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas urgentes personales)*
-
----
-
-## 🟡 IMPORTANTES (Esta semana)
-
-> Sin tareas importantes registradas para esta semana.
-
-### Trabajo
-- [ ] *(Sin tareas importantes de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas importantes personales)*
-
----
-
-## 🟢 NORMAL (Próximas semanas)
-
-> Sin tareas normales registradas.
-
-### Trabajo
-- [ ] *(Sin tareas normales de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas normales personales)*
-
----
-
-## ✅ COMPLETADAS HOY
-
-*(Ninguna tarea completada registrada hoy)*
+> Generada automáticamente | Horario laboral: 09:00 – 19:00
 
 ---
 
 ## 📊 RESUMEN EJECUTIVO
 
-| Métrica             | Valor |
-|---------------------|-------|
-| Tareas urgentes     | 0     |
-| Tareas importantes  | 0     |
-| Tareas normales     | 0     |
-| Completadas hoy     | 0     |
-| **Total activas**   | **0** |
+| Categoría | Cantidad |
+|---|---|
+| 🔴 Urgentes | 0 |
+| 🟡 Importantes | 0 |
+| 🟢 Normales | 0 |
+| ✅ Completadas hoy | 0 |
+
+> **Estado:** No hay tareas registradas aún. ¡Es el momento perfecto para organizar tu semana!
+
+---
+
+## 🔴 URGENTES — Para hoy/mañana
+
+*Sin tareas urgentes registradas.*
+
+---
+
+## 🟡 IMPORTANTES — Esta semana
+
+*Sin tareas importantes registradas.*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+*Sin tareas normales registradas.*
+
+---
+
+## ✅ COMPLETADAS HOY
+
+*Ninguna completada aún.*
 
 ---
 
 ## 💡 ACCIÓN RECOMENDADA
 
-Tu archivo `TAREAS.md` está listo pero aún no tiene tareas reales.
+Tu archivo **TAREAS.md** está listo pero vacío. Para aprovechar el sistema:
 
-**Para activar tu agenda automática:**
 1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1", "Tarea 2" con tus pendientes reales
+2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
 3. Agrega fechas límite
-4. El agente los organizará automáticamente en el próximo escaneo
+4. El agente las organizará automáticamente mañana
 
 ---
-
-*Próximo escaneo: Automático cada mañana*
+*Próximo escaneo automático: Mañana por la mañana*
