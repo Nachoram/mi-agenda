@@ -1,73 +1,52 @@
-# 📅 AGENDA DEL DÍA — Lunes 17 de noviembre 2026
+# 📅 AGENDA DEL DÍA — Jueves 19 de Noviembre, 2026
 
-> Generada automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 🔴 URGENTES (Hoy / Mañana)
-
-> ⚠️ No hay tareas urgentes registradas. ¡Momento ideal para agregar tus pendientes en TAREAS.md!
-
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas urgentes personales)*
+> Generado automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🟡 IMPORTANTES (Esta semana)
+## 🎯 RESUMEN EJECUTIVO
 
-> Sin tareas importantes registradas para esta semana.
+**Estado del día:** ⚠️ Sin tareas definidas — TAREAS.md contiene solo plantillas vacías.
 
-### Trabajo
-- [ ] *(Sin tareas importantes de trabajo)*
-
-### Personal
-- [ ] *(Sin tareas importantes personales)*
+Hoy es un buen momento para revisar y completar tu lista de tareas en `TAREAS.md`.
+Agrega fechas límite y descripciones concretas para que el agente pueda organizarte mejor mañana.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🔴 URGENTES — Para hoy/mañana
 
-> Sin tareas normales registradas.
+> _(Sin tareas urgentes definidas)_
 
-### Trabajo
-- [ ] *(Sin tareas normales de trabajo)*
+---
 
-### Personal
-- [ ] *(Sin tareas normales personales)*
+## 🟡 IMPORTANTES — Esta semana
+
+> _(Sin tareas importantes definidas)_
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+> _(Sin tareas de prioridad normal definidas)_
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*(Ninguna tarea completada registrada hoy)*
+> _(Sin tareas completadas registradas)_
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 📌 ACCIÓN REQUERIDA
 
-| Métrica             | Valor |
-|---------------------|-------|
-| Tareas urgentes     | 0     |
-| Tareas importantes  | 0     |
-| Tareas normales     | 0     |
-| Completadas hoy     | 0     |
-| **Total activas**   | **0** |
+Para aprovechar al máximo tu agenda automática, edita `TAREAS.md` y reemplaza las plantillas con tus tareas reales:
+
+```
+- [ ] Nombre de la tarea - Fecha límite: DD/MM/AAAA
+```
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
-
-Tu archivo `TAREAS.md` está listo pero aún no tiene tareas reales.
-
-**Para activar tu agenda automática:**
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1", "Tarea 2" con tus pendientes reales
-3. Agrega fechas límite
-4. El agente los organizará automáticamente en el próximo escaneo
-
----
-
-*Próximo escaneo: Automático cada mañana*
+**Total tareas activas:** 0  
+**Completadas hoy:** 0  
+**Próximo escaneo:** Mañana por la mañana (automático)
