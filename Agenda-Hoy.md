@@ -1,54 +1,52 @@
-# 📅 AGENDA DEL DÍA — Miércoles 18 de Noviembre, 2026
+# 📅 AGENDA DEL DÍA — Jueves 19 de Noviembre, 2026
 
-> Generada automáticamente | Horario laboral: 09:00 – 19:00
+> Generado automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 🎯 RESUMEN EJECUTIVO
 
-| Categoría | Cantidad |
-|---|---|
-| 🔴 Urgentes | 0 |
-| 🟡 Importantes | 0 |
-| 🟢 Normales | 0 |
-| ✅ Completadas hoy | 0 |
+**Estado del día:** ⚠️ Sin tareas definidas — TAREAS.md contiene solo plantillas vacías.
 
-> **Estado:** No hay tareas registradas aún. ¡Es el momento perfecto para organizar tu semana!
+Hoy es un buen momento para revisar y completar tu lista de tareas en `TAREAS.md`.
+Agrega fechas límite y descripciones concretas para que el agente pueda organizarte mejor mañana.
 
 ---
 
 ## 🔴 URGENTES — Para hoy/mañana
 
-*Sin tareas urgentes registradas.*
+> _(Sin tareas urgentes definidas)_
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-*Sin tareas importantes registradas.*
+> _(Sin tareas importantes definidas)_
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
-*Sin tareas normales registradas.*
+> _(Sin tareas de prioridad normal definidas)_
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Ninguna completada aún.*
+> _(Sin tareas completadas registradas)_
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
+## 📌 ACCIÓN REQUERIDA
 
-Tu archivo **TAREAS.md** está listo pero vacío. Para aprovechar el sistema:
+Para aprovechar al máximo tu agenda automática, edita `TAREAS.md` y reemplaza las plantillas con tus tareas reales:
 
-1. Abre `TAREAS.md`
-2. Reemplaza los "Tarea 1 / Tarea 2" con tus tareas reales
-3. Agrega fechas límite
-4. El agente las organizará automáticamente mañana
+```
+- [ ] Nombre de la tarea - Fecha límite: DD/MM/AAAA
+```
 
 ---
-*Próximo escaneo automático: Mañana por la mañana*
+
+**Total tareas activas:** 0  
+**Completadas hoy:** 0  
+**Próximo escaneo:** Mañana por la mañana (automático)
