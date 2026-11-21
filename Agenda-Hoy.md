@@ -1,54 +1,58 @@
-# 📅 AGENDA DEL DÍA — Viernes 20 Noviembre 2026
+# 📅 Agenda del Día — Sábado 21 de Noviembre, 2026
 
-> Generada automáticamente | Horario laboral: 9:00–19:00
-
----
-
-## 🔴 URGENTES HOY
-
-> ⚠️ No hay tareas urgentes registradas. Revisa y completa TAREAS.md.
+> Generado automáticamente por el Asistente de Organización Personal  
+> Horario laboral: 9:00 – 19:00
 
 ---
 
-## 🟡 IMPORTANTES ESTA SEMANA
+## ⚡ Resumen Ejecutivo
 
-> ⚠️ No hay tareas importantes registradas. Revisa y completa TAREAS.md.
+**Estado del día:** ⚠️ Lista de tareas pendiente de configurar  
+**Tareas activas:** 0 (plantilla sin completar)  
+**Completadas hoy:** 0  
+
+> Tu archivo TAREAS.md aún contiene solo tareas de ejemplo.  
+> Para activar la agenda automática, **reemplaza las tareas de ejemplo** con tus tareas reales.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🔴 URGENTES — Para Hoy/Mañana
 
-> ⚠️ No hay tareas normales registradas. Revisa y completa TAREAS.md.
+_Sin tareas urgentes registradas._
+
+> ✏️ **Acción requerida:** Abre `TAREAS.md` y agrega tus tareas urgentes en la sección `## 🔴 URGENTES`.
+
+---
+
+## 🟡 IMPORTANTES — Esta Semana
+
+_Sin tareas importantes registradas._
+
+> ✏️ **Acción requerida:** Agrega tus tareas de la semana en la sección `## 🟡 IMPORTANTES`.
+
+---
+
+## 🟢 NORMAL — Próximas Semanas
+
+_Sin tareas normales registradas._
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-_(Ninguna registrada aún)_
+_Ninguna completada aún._
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 💡 Bloque de Configuración Recomendado
 
-| Indicador        | Estado                   |
-|-----------------|--------------------------|
-| Tareas urgentes  | 0                        |
-| Tareas importantes | 0                      |
-| Tareas normales  | 0                        |
-| Completadas hoy  | 0                        |
-| Total activas    | 0                        |
+Para aprovechar al máximo tu agenda automática, edita `TAREAS.md` con este formato:
 
----
+```markdown
+- [ ] Nombre de la tarea - Fecha límite: 22/11/2026
+```
 
-## 💡 ACCIÓN INMEDIATA RECOMENDADA
-
-**Tu sistema de agenda está configurado y listo**, pero aún no tiene tareas reales.
-
-Pasos sugeridos para hoy:
-1. Abre `TAREAS.md`
-2. Reemplaza los placeholders ("Tarea 1", "Tarea 2") con tus tareas reales
-3. Agrega fechas límite donde aplique
-4. El agente las organizará automáticamente mañana
+Una vez configurado, el agente organizará tu día automáticamente cada mañana.
 
 ---
 
