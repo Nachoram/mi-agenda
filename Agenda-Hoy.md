@@ -1,55 +1,54 @@
-# 📅 AGENDA DEL DÍA — Viernes 20 Noviembre 2026
+# 📅 AGENDA DEL DÍA — Domingo, 22 de noviembre de 2026
 
-> Generada automáticamente | Horario laboral: 9:00–19:00
-
----
-
-## 🔴 URGENTES HOY
-
-> ⚠️ No hay tareas urgentes registradas. Revisa y completa TAREAS.md.
+> Generado automáticamente a las 09:00 | Jornada: 09:00–19:00
 
 ---
 
-## 🟡 IMPORTANTES ESTA SEMANA
+## 🎯 RESUMEN EJECUTIVO
 
-> ⚠️ No hay tareas importantes registradas. Revisa y completa TAREAS.md.
+**Estado del día:** Sin tareas activas registradas  
+**Tareas urgentes:** 0  
+**Tareas importantes:** 0  
+**Tareas normales:** 0  
+**Completadas hoy:** 0  
+
+> ⚠️ El archivo TAREAS.md contiene solo la plantilla base. Añade tus tareas reales para aprovechar el sistema de agenda automático.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🔴 URGENTES — Para hoy/mañana
 
-> ⚠️ No hay tareas normales registradas. Revisa y completa TAREAS.md.
+*No hay tareas urgentes registradas.*
+
+---
+
+## 🟡 IMPORTANTES — Esta semana
+
+*No hay tareas importantes registradas.*
+
+---
+
+## 🟢 NORMAL — Próximas semanas
+
+*No hay tareas normales registradas.*
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-_(Ninguna registrada aún)_
+*Sin registros aún.*
 
 ---
 
-## 📊 RESUMEN EJECUTIVO
+## 💡 ACCIÓN RECOMENDADA
 
-| Indicador        | Estado                   |
-|-----------------|--------------------------|
-| Tareas urgentes  | 0                        |
-| Tareas importantes | 0                      |
-| Tareas normales  | 0                        |
-| Completadas hoy  | 0                        |
-| Total activas    | 0                        |
+Para activar tu agenda automática:
 
----
-
-## 💡 ACCIÓN INMEDIATA RECOMENDADA
-
-**Tu sistema de agenda está configurado y listo**, pero aún no tiene tareas reales.
-
-Pasos sugeridos para hoy:
 1. Abre `TAREAS.md`
-2. Reemplaza los placeholders ("Tarea 1", "Tarea 2") con tus tareas reales
-3. Agrega fechas límite donde aplique
-4. El agente las organizará automáticamente mañana
+2. Reemplaza los placeholders con tus tareas reales
+3. Añade fechas límite donde aplique
+4. El agente organizará todo automáticamente en la próxima ejecución
 
 ---
 
-_Próximo escaneo automático: Mañana por la mañana_
+*Próxima actualización automática: Mañana a las 09:00*
