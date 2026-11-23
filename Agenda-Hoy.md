@@ -1,54 +1,51 @@
-# 📅 AGENDA DEL DÍA — Domingo, 22 de noviembre de 2026
+# 📅 AGENDA DEL DÍA — Lunes 23 de Noviembre de 2026
 
-> Generado automáticamente a las 09:00 | Jornada: 09:00–19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-**Estado del día:** Sin tareas activas registradas  
-**Tareas urgentes:** 0  
-**Tareas importantes:** 0  
-**Tareas normales:** 0  
-**Completadas hoy:** 0  
-
-> ⚠️ El archivo TAREAS.md contiene solo la plantilla base. Añade tus tareas reales para aprovechar el sistema de agenda automático.
+> Generado automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES — Para hoy/mañana
+## 📊 RESUMEN EJECUTIVO
 
-*No hay tareas urgentes registradas.*
-
----
-
-## 🟡 IMPORTANTES — Esta semana
-
-*No hay tareas importantes registradas.*
+**Estado del día:** Sin tareas registradas — plantilla pendiente de completar
+**Total tareas activas:** 0
+**Completadas hoy:** 0
 
 ---
 
-## 🟢 NORMAL — Próximas semanas
+## 🔴 URGENTES (Hoy / Mañana)
 
-*No hay tareas normales registradas.*
+> ⚠️ No hay tareas urgentes registradas en TAREAS.md.
+> Las secciones de trabajo y personal están vacías.
+
+---
+
+## 🟡 IMPORTANTES (Esta semana)
+
+> ⚠️ No hay tareas importantes registradas esta semana.
+
+---
+
+## 🟢 NORMAL (Próximas semanas)
+
+> ⚠️ No hay tareas normales registradas.
 
 ---
 
 ## ✅ COMPLETADAS HOY
 
-*Sin registros aún.*
+> Sin tareas completadas registradas.
 
 ---
 
-## 💡 ACCIÓN RECOMENDADA
+## 💡 ACCIÓN REQUERIDA
 
-Para activar tu agenda automática:
+**Tu lista de tareas está vacía.** Para aprovechar al máximo tu asistente automático:
 
-1. Abre `TAREAS.md`
-2. Reemplaza los placeholders con tus tareas reales
-3. Añade fechas límite donde aplique
-4. El agente organizará todo automáticamente en la próxima ejecución
+1. Abre el archivo `TAREAS.md`
+2. Reemplaza las tareas de ejemplo con tus tareas reales
+3. Agrega fechas límite donde sea posible
+4. El agente las organizará automáticamente mañana
 
 ---
 
-*Próxima actualización automática: Mañana a las 09:00*
+*Próximo escaneo: Automático cada mañana*
