@@ -1,51 +1,56 @@
-# 📅 AGENDA DEL DÍA — Lunes 23 de Noviembre de 2026
+# 📅 Agenda del Día — Martes 24 de Noviembre de 2026
 
-> Generado automáticamente | Horario laboral: 9:00 - 19:00
-
----
-
-## 📊 RESUMEN EJECUTIVO
-
-**Estado del día:** Sin tareas registradas — plantilla pendiente de completar
-**Total tareas activas:** 0
-**Completadas hoy:** 0
+> Generada automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🔴 URGENTES (Hoy / Mañana)
+## 🎯 Resumen Ejecutivo
 
-> ⚠️ No hay tareas urgentes registradas en TAREAS.md.
-> Las secciones de trabajo y personal están vacías.
+**Estado del día:** Sin tareas activas configuradas.
+Las secciones de TAREAS.md están vacías (solo contienen plantillas).
 
----
-
-## 🟡 IMPORTANTES (Esta semana)
-
-> ⚠️ No hay tareas importantes registradas esta semana.
+👉 **Acción recomendada:** Rellena TAREAS.md con tus tareas reales para que el agente pueda organizarte el día correctamente.
 
 ---
 
-## 🟢 NORMAL (Próximas semanas)
+## 🔴 URGENTES — Para Hoy
 
-> ⚠️ No hay tareas normales registradas.
-
----
-
-## ✅ COMPLETADAS HOY
-
-> Sin tareas completadas registradas.
+> _Sin tareas urgentes registradas._
 
 ---
 
-## 💡 ACCIÓN REQUERIDA
+## 🟡 IMPORTANTES — Esta Semana
 
-**Tu lista de tareas está vacía.** Para aprovechar al máximo tu asistente automático:
-
-1. Abre el archivo `TAREAS.md`
-2. Reemplaza las tareas de ejemplo con tus tareas reales
-3. Agrega fechas límite donde sea posible
-4. El agente las organizará automáticamente mañana
+> _Sin tareas importantes registradas._
 
 ---
 
-*Próximo escaneo: Automático cada mañana*
+## 🟢 NORMAL — Próximas Semanas
+
+> _Sin tareas de baja urgencia registradas._
+
+---
+
+## ✅ Completadas Hoy
+
+> _Sin tareas completadas aún._
+
+---
+
+## 📊 Estadísticas del Día
+
+| Métrica             | Valor |
+|---------------------|-------|
+| Tareas activas      | 0     |
+| Tareas completadas  | 0     |
+| Urgentes pendientes | 0     |
+| Importantes pendientes | 0  |
+
+---
+
+## 💡 Próximo Paso
+
+Abre **TAREAS.md** y agrega tus tareas reales con fechas límite. El agente las organizará automáticamente en tu próxima agenda.
+
+---
+_Agenda generada por el asistente automático — Próximo escaneo: mañana por la mañana_
