@@ -1,56 +1,60 @@
-# 📅 Agenda del Día — Martes 24 de Noviembre de 2026
+# 📅 AGENDA DEL DÍA — Jueves 26 de Noviembre 2026
 
 > Generada automáticamente | Horario laboral: 9:00 - 19:00
 
 ---
 
-## 🎯 Resumen Ejecutivo
+## ⚡ RESUMEN EJECUTIVO
 
-**Estado del día:** Sin tareas activas configuradas.
-Las secciones de TAREAS.md están vacías (solo contienen plantillas).
+**Estado del día:** Sin tareas activas registradas en TAREAS.md.
+La plantilla está lista, pero aún no se han agregado tareas concretas.
 
-👉 **Acción recomendada:** Rellena TAREAS.md con tus tareas reales para que el agente pueda organizarte el día correctamente.
-
----
-
-## 🔴 URGENTES — Para Hoy
-
-> _Sin tareas urgentes registradas._
+**Acción recomendada:** Abrir `TAREAS.md` y completar las tareas pendientes con fechas límite reales.
 
 ---
 
-## 🟡 IMPORTANTES — Esta Semana
+## 🔴 URGENTES — Hoy o mañana
 
-> _Sin tareas importantes registradas._
-
----
-
-## 🟢 NORMAL — Próximas Semanas
-
-> _Sin tareas de baja urgencia registradas._
+> _(Sin tareas urgentes registradas)_
 
 ---
 
-## ✅ Completadas Hoy
+## 🟡 IMPORTANTES — Esta semana
 
-> _Sin tareas completadas aún._
-
----
-
-## 📊 Estadísticas del Día
-
-| Métrica             | Valor |
-|---------------------|-------|
-| Tareas activas      | 0     |
-| Tareas completadas  | 0     |
-| Urgentes pendientes | 0     |
-| Importantes pendientes | 0  |
+> _(Sin tareas importantes registradas)_
 
 ---
 
-## 💡 Próximo Paso
+## 🟢 NORMAL — Próximas semanas
 
-Abre **TAREAS.md** y agrega tus tareas reales con fechas límite. El agente las organizará automáticamente en tu próxima agenda.
+> _(Sin tareas normales registradas)_
 
 ---
-_Agenda generada por el asistente automático — Próximo escaneo: mañana por la mañana_
+
+## ✅ COMPLETADAS HOY
+
+> _(Ninguna aún)_
+
+---
+
+## 📊 ESTADÍSTICAS DEL DÍA
+
+| Métrica | Valor |
+|---|---|
+| Tareas urgentes | 0 |
+| Tareas importantes | 0 |
+| Tareas normales | 0 |
+| Completadas hoy | 0 |
+| **Total activas** | **0** |
+
+---
+
+## 💡 PRÓXIMO PASO
+
+1. Abre `TAREAS.md`
+2. Reemplaza los placeholders ("Tarea 1", "Tarea 2") con tus tareas reales
+3. Agrega fechas límite
+4. El agente las organizará en la próxima ejecución
+
+---
+_Generado por Agente de Agenda | 26/11/2026_
