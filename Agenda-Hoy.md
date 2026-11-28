@@ -1,66 +1,62 @@
-# 📅 AGENDA DEL DÍA — Viernes 27 de Noviembre de 2026
+# 📅 Agenda del Día — Sábado 28 de Noviembre, 2026
 
-> Generada automáticamente | Horario laboral: 09:00 - 19:00
-
----
-
-## 🎯 RESUMEN EJECUTIVO
-
-**Estado del día:** ⚠️ Agenda pendiente de configurar
-**Tareas activas:** 0 tareas reales registradas
-**Completadas hoy:** 0
-
-> Las tareas en TAREAS.md son plantillas vacías. Para aprovechar al máximo este sistema, edita TAREAS.md con tus tareas reales.
+> Generada automáticamente | Horario laboral: 9:00–19:00
 
 ---
 
-## 🔴 URGENTES — Hoy/Mañana
+## 🎯 Resumen Ejecutivo
 
-### Trabajo
-- [ ] *(Sin tareas urgentes de trabajo registradas)*
+**Estado del día:** Sin tareas activas registradas en TAREAS.md.
 
-### Personal
-- [ ] *(Sin tareas urgentes personales registradas)*
+> ⚠️ No se encontraron tareas con contenido real. Las secciones de TAREAS.md contienen solo plantillas. Para aprovechar el agente, agrega tus tareas reales en TAREAS.md con sus fechas límite.
+
+---
+
+## 🔴 URGENTES — Para hoy / mañana
+
+*No hay tareas urgentes registradas.*
 
 ---
 
 ## 🟡 IMPORTANTES — Esta semana
 
-### Trabajo
-- [ ] *(Sin tareas importantes de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas importantes personales registradas)*
+*No hay tareas importantes registradas.*
 
 ---
 
 ## 🟢 NORMAL — Próximas semanas
 
+*No hay tareas normales registradas.*
+
+---
+
+## ✅ Completadas Hoy
+
+*Ninguna tarea completada registrada.*
+
+---
+
+## 📊 Estadísticas del Día
+
+| Métrica             | Valor |
+|---------------------|-------|
+| Tareas activas      | 0     |
+| Tareas urgentes     | 0     |
+| Tareas completadas  | 0     |
+| Próximo escaneo     | Mañana automáticamente |
+
+---
+
+## 💡 Acción sugerida
+
+Para empezar a usar tu sistema de agenda, edita **TAREAS.md** y reemplaza las plantillas con tareas reales. Ejemplo:
+
+```
+## 🔴 URGENTES (Hoy o mañana)
 ### Trabajo
-- [ ] *(Sin tareas normales de trabajo registradas)*
-
-### Personal
-- [ ] *(Sin tareas normales personales registradas)*
-
----
-
-## ✅ COMPLETADAS HOY
-
-*(Ninguna completada aún)*
+- [ ] Revisar informe Q4 - Fecha límite: 28/11/2026
+- [ ] Enviar propuesta al cliente - Fecha límite: 29/11/2026
+```
 
 ---
-
-## 💡 SUGERENCIA PARA HOY
-
-Aprovecha que la agenda está vacía para organizar tus tareas pendientes:
-
-1. Abre **TAREAS.md**
-2. Reemplaza las plantillas con tus tareas reales
-3. Agrega fechas límite
-4. El agente las organizará automáticamente mañana
-
-**Tu sistema está listo y funcionando. ¡Solo necesita tus tareas!**
-
----
-
-*Generado el 27/11/2026 | Próximo escaneo: mañana por la mañana*
+*Generado por el agente de organización personal*
